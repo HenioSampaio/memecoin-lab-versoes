@@ -83,6 +83,17 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 1.6.1 · 24/10/2026
+- Compra mais rápida: a fila do vigia agora dá prioridade ao que é novo e às moedas que temos; compra vista tarde demais (mais de 20 s) não é copiada, porque a moeda já andou.
+- Carteira com prejuízo real e robôs deixam de ser vigiados (só entupiam a fila).
+- O computador não dorme com o laboratório ligado, mesmo ligando pela chave da tela.
+- Ícone de cada moeda, textos em português claro ("barrada · pouca liquidez") e a faixa "Moedas em movimento" com detalhes ao tocar.
+- Estratégia › O que ele aprendeu: o resultado de cada tipo de saída, do atraso e o que os filtros barraram.
+- Telegram com lucro e prejuízo em reais, nomes curtos e o total do dia.
+- Gráfico com 1 e 5 minutos.
+- Nova tela Meu saldo: quanto você tem, quanto está investido, o que saiu em compras e voltou em vendas, e o extrato de cada operação (teste e real), tudo também em reais.
+- Valor em reais pequenininho dentro de cada quadro do Painel; a cotação tenta de novo a cada minuto se falhar.
+
 ### 1.6 · 24/10/2026
 - Retirar saldo: manda o SOL da carteira do laboratório de volta para a sua Phantom (Ajustes › Retirar saldo).
 - Cópia de segurança da carteira do laboratório fora da pasta Documentos: se a pasta for apagada, ela volta sozinha.
@@ -104,12 +115,6 @@ flowchart TB
 ### 1.4 · 24/10/2026
 - Atualização pelo próprio programa: quando sai versão nova, aparece "Nova versão" no Painel; um clique baixa, confere e reabre.
 - O programa não traz mais a lista de carteiras dentro. Para levar a sua para outro computador: Carteiras › Copiar minha lista, e lá Carteiras › Colar uma lista.
-
-### 1.3 · 24/10/2026
-- Sinais sociais em cada moeda: redes oficiais, perfil e propaganda paga no DexScreener e quanto tempo depois do lançamento o time começou a pagar.
-- Gráfico de cada posição com marcações: onde compramos, onde vendemos, onde a carteira copiada vendeu e onde outras carteiras suas compraram.
-- Telegram com botões (ver gráfico, posts no X, vender com confirmação), menu de comandos, /radar, /carteiras, resumo do dia às 21h e alertas de alta e queda forte.
-- Ícone novo e 'Sobre' com versão, autor e GitHub.
 
 <!-- NOVIDADES:FIM -->
 
