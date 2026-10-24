@@ -6,13 +6,21 @@ Laboratório de copy-trade de memecoins na Solana: testa em papel (dinheiro de m
 
 ## Baixar
 
-**[MemecoinLab.exe (versão 1.4)](https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v1.4/MemecoinLab.exe)**: Windows 10/11, não precisa instalar nada.
+**[MemecoinLab.exe (versão 1.5)](https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v1.5/MemecoinLab.exe)**: Windows 10/11, não precisa instalar nada.
 
 Se o Windows avisar "O Windows protegeu o computador": **Mais informações → Executar assim mesmo** (o programa não é assinado por empresa). Depois disso, as versões novas aparecem sozinhas no programa (botão **Atualizar agora**).
 
 > Material educativo. Memecoins são de altíssimo risco; não é recomendação de investimento.
 
 ## Novidades
+
+### 1.5 · 24/10/2026
+- Página Estratégia: ajuste pela tela quando vender, os filtros de segurança e o tamanho das entradas, com análise de risco (exposição máxima e perda por operação).
+- Aprendizado: depois de 8 operações, carteira que dá prejuízo quando NÓS copiamos é pausada no dinheiro real sozinha.
+- Barra no topo com busca rápida (Ctrl+K) e troca de tema (automático, escuro, claro); versão embaixo do nome.
+- Visual Grafite opcional (cinza, azul e verde) em Ajustes › Visual.
+- Aviso na tela a cada compra e venda.
+- Corrigido: depois de atualizar, o programa reabre sozinho na versão nova.
 
 ### 1.4 · 24/10/2026
 - Atualização pelo próprio programa: quando sai versão nova, aparece "Nova versão" no Painel; um clique baixa, confere e reabre.
