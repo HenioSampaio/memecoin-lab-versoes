@@ -1,16 +1,18 @@
 {
-  "versao": "1.5",
+  "versao": "1.6",
   "data": "24/10/2026",
   "notas": [
-    "Página Estratégia: ajuste pela tela quando vender, os filtros de segurança e o tamanho das entradas, com análise de risco (exposição máxima e perda por operação).",
-    "Aprendizado: depois de 8 operações, carteira que dá prejuízo quando NÓS copiamos é pausada no dinheiro real sozinha.",
-    "Barra no topo com busca rápida (Ctrl+K) e troca de tema (automático, escuro, claro); versão embaixo do nome.",
-    "Visual Grafite opcional (cinza, azul e verde) em Ajustes › Visual.",
-    "Aviso na tela a cada compra e venda.",
-    "Corrigido: depois de atualizar, o programa reabre sozinho na versão nova."
+    "Retirar saldo: manda o SOL da carteira do laboratório de volta para a sua Phantom (Ajustes › Retirar saldo).",
+    "Cópia de segurança da carteira do laboratório fora da pasta Documentos: se a pasta for apagada, ela volta sozinha.",
+    "Lateral recolhível: botão ☰ no topo ou Ctrl+B.",
+    "O título da janela e da barra de tarefas mostra o resultado do teste ao vivo.",
+    "Fechar o programa no meio de uma avaliação de carteiras agora pede confirmação.",
+    "Tela de boas-vindas com os 3 passos para começar num computador novo.",
+    "Erros da tela vão para data\\erros_tela.log (ajuda no suporte).",
+    "Programa menor e página no GitHub nova, com fotos e passo a passo."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v1.5/MemecoinLab.exe",
-  "sha256": "23cde7b300272e4af3e9cabc4abde3d0a77adbfe401691fe870712e5ad3ab958",
-  "tamanho": 56006721,
-  "publicado_em": "2026-10-24T19:44:03"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v1.6/MemecoinLab.exe",
+  "sha256": "19f8e207d8c0979e8a0ff93cdac2d2409051ceabf409de5afceaac82f7263ea7",
+  "tamanho": 34567969,
+  "publicado_em": "2026-10-24T20:12:19"
 }
