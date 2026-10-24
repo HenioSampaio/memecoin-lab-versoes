@@ -1,0 +1,12 @@
+{
+  "versao": "1.4",
+  "data": "24/10/2026",
+  "notas": [
+    "Atualização pelo próprio programa: quando sai versão nova, aparece \"Nova versão\" no Painel; um clique baixa, confere e reabre.",
+    "O programa não traz mais a lista de carteiras dentro. Para levar a sua para outro computador: Carteiras › Copiar minha lista, e lá Carteiras › Colar uma lista."
+  ],
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v1.4/MemecoinLab.exe",
+  "sha256": "c86c608dba8f5d5eb983599b2f82bc2c0b8c64018bdffb3a7ae3712a24425dac",
+  "tamanho": 55996112,
+  "publicado_em": "2026-10-24T19:27:00"
+}
