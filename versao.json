@@ -1,12 +1,16 @@
 {
-  "versao": "1.4",
+  "versao": "1.5",
   "data": "24/10/2026",
   "notas": [
-    "Atualização pelo próprio programa: quando sai versão nova, aparece \"Nova versão\" no Painel; um clique baixa, confere e reabre.",
-    "O programa não traz mais a lista de carteiras dentro. Para levar a sua para outro computador: Carteiras › Copiar minha lista, e lá Carteiras › Colar uma lista."
+    "Página Estratégia: ajuste pela tela quando vender, os filtros de segurança e o tamanho das entradas, com análise de risco (exposição máxima e perda por operação).",
+    "Aprendizado: depois de 8 operações, carteira que dá prejuízo quando NÓS copiamos é pausada no dinheiro real sozinha.",
+    "Barra no topo com busca rápida (Ctrl+K) e troca de tema (automático, escuro, claro); versão embaixo do nome.",
+    "Visual Grafite opcional (cinza, azul e verde) em Ajustes › Visual.",
+    "Aviso na tela a cada compra e venda.",
+    "Corrigido: depois de atualizar, o programa reabre sozinho na versão nova."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v1.4/MemecoinLab.exe",
-  "sha256": "c86c608dba8f5d5eb983599b2f82bc2c0b8c64018bdffb3a7ae3712a24425dac",
-  "tamanho": 55996112,
-  "publicado_em": "2026-10-24T19:27:00"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v1.5/MemecoinLab.exe",
+  "sha256": "23cde7b300272e4af3e9cabc4abde3d0a77adbfe401691fe870712e5ad3ab958",
+  "tamanho": 56006721,
+  "publicado_em": "2026-10-24T19:44:03"
 }
