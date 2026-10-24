@@ -1,18 +1,19 @@
 {
-  "versao": "1.6",
+  "versao": "1.6.1",
   "data": "24/10/2026",
   "notas": [
-    "Retirar saldo: manda o SOL da carteira do laboratório de volta para a sua Phantom (Ajustes › Retirar saldo).",
-    "Cópia de segurança da carteira do laboratório fora da pasta Documentos: se a pasta for apagada, ela volta sozinha.",
-    "Lateral recolhível: botão ☰ no topo ou Ctrl+B.",
-    "O título da janela e da barra de tarefas mostra o resultado do teste ao vivo.",
-    "Fechar o programa no meio de uma avaliação de carteiras agora pede confirmação.",
-    "Tela de boas-vindas com os 3 passos para começar num computador novo.",
-    "Erros da tela vão para data\\erros_tela.log (ajuda no suporte).",
-    "Programa menor e página no GitHub nova, com fotos e passo a passo."
+    "Compra mais rápida: a fila do vigia agora dá prioridade ao que é novo e às moedas que temos; compra vista tarde demais (mais de 20 s) não é copiada, porque a moeda já andou.",
+    "Carteira com prejuízo real e robôs deixam de ser vigiados (só entupiam a fila).",
+    "O computador não dorme com o laboratório ligado, mesmo ligando pela chave da tela.",
+    "Ícone de cada moeda, textos em português claro (\"barrada · pouca liquidez\") e a faixa \"Moedas em movimento\" com detalhes ao tocar.",
+    "Estratégia › O que ele aprendeu: o resultado de cada tipo de saída, do atraso e o que os filtros barraram.",
+    "Telegram com lucro e prejuízo em reais, nomes curtos e o total do dia.",
+    "Gráfico com 1 e 5 minutos.",
+    "Nova tela Meu saldo: quanto você tem, quanto está investido, o que saiu em compras e voltou em vendas, e o extrato de cada operação (teste e real), tudo também em reais.",
+    "Valor em reais pequenininho dentro de cada quadro do Painel; a cotação tenta de novo a cada minuto se falhar."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v1.6/MemecoinLab.exe",
-  "sha256": "19f8e207d8c0979e8a0ff93cdac2d2409051ceabf409de5afceaac82f7263ea7",
-  "tamanho": 34567969,
-  "publicado_em": "2026-10-24T20:12:19"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v1.6.1/MemecoinLab.exe",
+  "sha256": "cd7b94cf2e1edc9d6614747b9c34485affde5582c5fd5edd77cb707c68f92588",
+  "tamanho": 34585697,
+  "publicado_em": "2026-10-24T20:49:31"
 }
