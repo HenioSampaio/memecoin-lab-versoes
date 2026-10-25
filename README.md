@@ -83,6 +83,9 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 1.9.6 · 25/10/2026
+- Campos em minutos mostram ao lado, pequenininho, quanto é em horas ou dias (ex.: 720 → ≈ 12 h, 1440 → ≈ 1 dia), mudando enquanto você digita.
+
 ### 1.9.5 · 25/10/2026
 - Avaliação de carteiras ~3x mais rápida: carteira nova passa por uma triagem (até 60 operações, 700 transações e 2 min); a avaliação completa fica para a reavaliação das aprovadas.
 - A fila começa pelas mais promissoras (maior retorno no ranking da Phantom, maior lucro no Kolscan) e o aviso mostra quanto falta.
@@ -96,11 +99,6 @@ flowchart TB
 ### 1.9.3 · 25/10/2026
 - Carteiras › Adicionar › Importar ranking da Phantom (.json): cada trader com perfil público entra na lista e é avaliado. Os 88 do ranking do mês já entraram.
 - Gráfico da posição refeito: sem o pico falso de leitura, área verde/vermelha a partir da entrada, linhas do alvo e do stop, valor de agora na escala, leitura ao passar o mouse com reais e atualização ao vivo; botão para o gráfico de velas da moeda.
-
-### 1.9.2 · 25/10/2026
-- Menos botões repetidos: Estratégia tem um Salvar só (religa sozinho); saíram de Ajustes o relatório antigo, "Reavaliar todas" (já é automático), o guia e o GitHub (estão na lateral); Adicionar carteiras não repete mais o Kolscan da busca automática.
-- Filtros: o aviso "Low Liquidity" do RugCheck não barra mais em dobro (vale a sua régua de liquidez mínima) e moeda recém-criada sem rota no Jupiter ganha uma segunda tentativa.
-- Moedas em movimento com o mesmo nome (cópias) mostram o começo do endereço para diferenciar.
 
 <!-- NOVIDADES:FIM -->
 
