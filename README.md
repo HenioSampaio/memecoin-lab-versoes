@@ -83,6 +83,10 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.8 · 25/10/2026
+- Carteiras: opção "Carteiras por minha conta também no dinheiro real" (desligada = as que você manda copiar ficam só no teste) e filtro 👤 Por minha conta na lista.
+- O aviso do botão Copiar mesmo assim diz exatamente se aquela carteira entraria ou não no dinheiro real.
+
 ### 2.7 · 25/10/2026
 - Carteiras › carteira que está "fora" › Copiar mesmo assim (por minha conta): ela entra na cópia do teste mesmo sem passar nas regras (veredito, tempo segurando, robô); no dinheiro real continua valendo só "ok p/ testar". Aparece como "copiando por sua conta" e dá para desfazer; a geladeira continua valendo.
 - Robô x pessoa mais justo: conta MOEDAS diferentes por hora, não trocas. Quem vende cada moeda em várias partes (ex.: Yami, 330 trocas em 32 moedas) deixou de ser marcado como robô; robô continua sendo quem entra numa moeda nova a cada 3 min, não dorme ou gira 1 a 3 moedas sem parar (robô de volume). Com isso 13 carteiras voltaram a ser copiáveis.
@@ -96,12 +100,6 @@ flowchart TB
 - O aprendizado das regras de venda usa também as sombras das carteiras observadas: chega muito mais rápido às 20 operações para recomendar com confiança (a tela mostra quantas são do teste e quantas são sombras).
 - Muito mais leve: o banco ganhou índices. A tela Carteiras abria em 12 s (e travava o resto do programa nesse tempo); agora abre em 0,1 s. A avaliação de carteiras e a partida do laboratório também ficaram mais rápidas.
 - Mercado: busque a moeda pelo nome ou símbolo (ex.: bonk), não só pelo endereço. A lista aparece enquanto você digita, com foto, valor de mercado, liquidez, idade, variação do dia e ✓ nas verificadas; tocou, abre o gráfico.
-
-### 2.4 · 25/10/2026
-- Conexão ao vivo mais estável: as carteiras observadas são divididas em conexões de até 80 (o nó público recusava centenas numa só), a assinatura vai aos poucos e, se cair, ele espera cada vez mais para reconectar (5 s, 10 s, 20 s… até 1 min) em vez de insistir a cada 5 s.
-- Depois de uma queda, a recuperação das observadas olha só as moedas que temos (antes buscava o histórico das 200 a cada queda e sobrecarregava o nó, que caía de novo). Os traders copiados continuam com recuperação completa.
-- Sem enxurrada de "erro lendo…" no registro: falha na recuperação vira um aviso só, e erro de leitura diz o motivo (limite de pedidos, demora, servidor).
-- Garimpo: só escolhe moedas que dá para ler até o começo (não gasta mais 45 mil leituras para pular a moeda) e olha também as moedas novas que subiram nas últimas 6 h.
 
 <!-- NOVIDADES:FIM -->
 
