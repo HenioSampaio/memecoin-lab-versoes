@@ -83,6 +83,11 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 1.8.1 · 25/10/2026
+- Gráfico da moeda AO VIVO: a última vela anda a cada 4 segundos com o preço de agora, e nasce uma vela nova quando passa o tempo dela.
+- Variação quase zero aparece neutra, não vermelha.
+- Gráfico em Velas ou Linha (o programa lembra a sua escolha), velas com largura certa mesmo em moeda recém-nascida e o preço de agora destacado na escala.
+
 ### 1.8 · 25/10/2026
 - Nova tela Mercado: ranking das moedas em alta, das que acabaram de nascer, das que as nossas carteiras mexeram e das que várias compraram juntas, com o gráfico de quem mais subiu e atualização sozinha.
 - Página da moeda com gráfico de velas (1m, 5m, 15m, 1h) que se atualiza sozinho, com as nossas compras e vendas marcadas, valor de mercado, liquidez, compras × vendas e checagem de segurança.
@@ -103,12 +108,6 @@ flowchart TB
 - Stop móvel: depois do alvo, sai se cair 30% do pico, em vez de segurar o resto até zerar.
 - Opção: segurar quando a carteira copiada vende mas a moeda está subindo forte (Estratégia › Quando vender).
 - Fita do Painel arrumada.
-
-### 1.7 · 24/10/2026
-- Recomendação automática (Estratégia): o laboratório revive cada operação com o preço real minuto a minuto e testa 200 combinações de venda (alvo, stop, tempo, seguir ou não o líder); também separa por horário, dia, liquidez, idade da moeda, atraso e número de carteiras.
-- Só recomenda quando a melhora se repete na maioria dos sorteios estatísticos, com confiança baixa, média ou alta. Ligado, aplica sozinho as de confiança média ou alta, uma por vez, e avisa no Telegram. Tudo tem Desfazer.
-- Segue o preço por 4 h também das moedas BARRADAS, para conferir se cada filtro está acertando. Afrouxar filtro nunca é automático.
-- Contexto que dá prejuízo passa a ser evitado; no teste, 1 em cada 5 ainda é copiado para ele continuar aprendendo. No dinheiro real, a regra vale sempre.
 
 <!-- NOVIDADES:FIM -->
 
