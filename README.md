@@ -83,6 +83,13 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 1.9.5 · 25/10/2026
+- Avaliação de carteiras ~3x mais rápida: carteira nova passa por uma triagem (até 60 operações, 700 transações e 2 min); a avaliação completa fica para a reavaliação das aprovadas.
+- A fila começa pelas mais promissoras (maior retorno no ranking da Phantom, maior lucro no Kolscan) e o aviso mostra quanto falta.
+- O vigia dos traders e a avaliação dividem o limite do Helius sem disputar (menos espera e menos erro de limite).
+- Stop mais rápido: na venda total, usa a cotação que acabou de conferir (antes pedia duas vezes ao Jupiter, com 1 s de espera no meio).
+- Estratégia › Idade mínima da moeda (desligada): para não entrar em moeda de poucos minutos de vida.
+
 ### 1.9.4 · 25/10/2026
 - "Segurar quando a carteira vende" ganhou trava: se a venda do líder é grande perto da liquidez da moeda (3% do caixa ou mais), ele não segura, porque essa venda é a própria queda.
 
@@ -94,9 +101,6 @@ flowchart TB
 - Menos botões repetidos: Estratégia tem um Salvar só (religa sozinho); saíram de Ajustes o relatório antigo, "Reavaliar todas" (já é automático), o guia e o GitHub (estão na lateral); Adicionar carteiras não repete mais o Kolscan da busca automática.
 - Filtros: o aviso "Low Liquidity" do RugCheck não barra mais em dobro (vale a sua régua de liquidez mínima) e moeda recém-criada sem rota no Jupiter ganha uma segunda tentativa.
 - Moedas em movimento com o mesmo nome (cópias) mostram o começo do endereço para diferenciar.
-
-### 1.9.1 · 25/10/2026
-- Banca e tamanho das entradas do teste ficam só na Estratégia (saíram repetidos de Ajustes › Avançado, que ganhou um atalho para lá).
 
 <!-- NOVIDADES:FIM -->
 
