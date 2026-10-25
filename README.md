@@ -83,6 +83,12 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.24 · 25/10/2026
+- Queda rápida: sai quando a moeda cai 15% do topo dos últimos 40 s, sem esperar o stop. No replay das 48 operações com preço a cada 16 s, a média foi de −21% para −10%.
+- Moeda com menos de 60 min só é copiada se 3 ou mais carteiras compraram em 30 min (copiadas abaixo de 60 min: −28% a −34%; acima: +2%).
+- Banco: carteira com 4+ cópias e média abaixo de −30% para de ser copiada e segue no teste-sombra; volta sozinha quando as compras dela voltarem a dar lucro. Aparece na geladeira com o motivo.
+- Ajustes: as três regras têm controle próprio (0 desliga).
+
 ### 2.23 · 25/10/2026
 - Proteção de lucro: depois de +20% no pico, a posição não devolve o ganho. Guarda 60% do maior ganho e vende antes se a tendência do último minuto apontar para o piso. Aparece no gráfico como "lucro protegido". Ajustes › Quando vender.
 - O aprendizado testa a proteção de lucro junto com alvo, stop e tempo e recomenda o melhor nível.
@@ -98,11 +104,6 @@ flowchart TB
 - Por conta própria: posições abertas (nota, tempo, resultado ao vivo) e últimas operações na tela Autônomo; no Painel, uma linha com as posições dele que leva até lá.
 - Vender as posições do modo Por conta própria: no programa (toque na posição › Vender agora) e no Telegram (Posições › Vender 25/50/100%).
 - Textos da tela Autônomo mais enxutos.
-
-### 2.20 · 25/10/2026
-- Conhecimento na nuvem como o iCloud: sincroniza sozinho a cada 30 min quando o aprendizado mudou (e ao fechar), mostra "Sincronizado há X min · próxima em Y", tem Sincronizar agora e a chave de sincronização automática.
-- A cópia na nuvem é substituída a cada vez (arquivos de uma release), em vez de virar um commit novo: o repositório guarda só a versão mais recente e não cresce ~100 MB por dia.
-- O aprendizado do modo Por conta própria também vai para a nuvem e volta no Trazer da nuvem.
 
 <!-- NOVIDADES:FIM -->
 
