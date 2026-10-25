@@ -83,6 +83,11 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.31 · 25/10/2026
+- Sininho da moeda: na ficha de qualquer moeda, escolha degraus de queda (−10%, −20%, −30%, −50%, −70%) a partir do preço de agora; em cada um o programa compra no teste um valor em SOL, um % do caixa, ou só avisa. Cada degrau dispara uma vez e avisa no Telegram.
+- Favoritas: estrela na ficha da moeda, aba Favoritas no Mercado (com quanto subiu desde que favoritou) e ⭐ Favoritas no Telegram.
+- Compra manual e do sininho podem ser um aporte numa moeda que já tem posição aberta.
+
 ### 2.30 · 25/10/2026
 - Mercado › Várias juntas: nome da moeda, valor de mercado e quanto ela já subiu desde a 1ª compra das nossas carteiras (diz se ainda está cedo ou já é tarde).
 - Telegram › Várias juntas: a mesma lista, numerada, com variação desde a 1ª compra e botão para a ficha da moeda (e o Comprar no teste).
@@ -95,11 +100,6 @@ flowchart TB
 - Por conta própria: cartões de investido agora, quanto entra por compra (em SOL e R$) e o resultado sobre o que já investiu; cada operação mostra quanto investiu.
 - Nota mínima do modo por conta própria salva de verdade (a tela não apaga mais o que você digita) e vale na hora, sem religar o laboratório.
 - Telegram › Ajustes: liga e desliga os avisos de convergência (continuam no sininho do programa).
-
-### 2.27 · 25/10/2026
-- Por conta própria: o cartão do caixa agora se chama "Livre para comprar" (já desconta as posições abertas dos dois modos) e o resultado não mostra mais "++".
-- Meu saldo: o saldo total é o mesmo nas abas Teste e Autônomo.
-- Ficha da posição: quanto foi investido, quanto vale agora e o resultado, em SOL e R$.
 
 <!-- NOVIDADES:FIM -->
 
