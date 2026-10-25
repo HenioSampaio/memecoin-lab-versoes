@@ -83,6 +83,11 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 1.8.5 · 25/10/2026
+- Os gráficos do Painel abrem detalhes: no Raio-x, cada operação (moeda, carteira, motivo da saída, tempo aberta), média, mediana, maior ganho e perda, por que saímos; tocando numa coluna, filtra aquela faixa.
+- No Ritmo das 24 h: gráfico grande, hora mais ativa, resultado das copiadas e a tabela hora a hora (vistas, copiadas, barradas, observadas e resultado).
+- O programa se mexe mesmo com as animações do Windows desligadas (fita correndo, gráficos animados). Para parar: Ajustes › Visual › Movimento.
+
 ### 1.8.4 · 25/10/2026
 - Se o programa fechar ou atualizar no meio de uma avaliação de carteiras, ele retoma sozinho as que ficaram pendentes.
 - Texto das compras observadas sem repetição: "👀 observando · segura pouco".
@@ -96,16 +101,6 @@ flowchart TB
 - Gráfico da moeda AO VIVO: a última vela anda a cada 4 segundos com o preço de agora, e nasce uma vela nova quando passa o tempo dela.
 - Variação quase zero aparece neutra, não vermelha.
 - Gráfico em Velas ou Linha (o programa lembra a sua escolha), velas com largura certa mesmo em moeda recém-nascida e o preço de agora destacado na escala.
-
-### 1.8 · 25/10/2026
-- Nova tela Mercado: ranking das moedas em alta, das que acabaram de nascer, das que as nossas carteiras mexeram e das que várias compraram juntas, com o gráfico de quem mais subiu e atualização sozinha.
-- Página da moeda com gráfico de velas (1m, 5m, 15m, 1h) que se atualiza sozinho, com as nossas compras e vendas marcadas, valor de mercado, liquidez, compras × vendas e checagem de segurança.
-- Carteiras refeitas: quem o laboratório está copiando, quem está na geladeira e quem está fora (e por quê), o estilo de cada uma (trader, scalper, robô) e o resultado de copiar.
-- Levar para a Phantom (Ajustes): a carteira do laboratório aparece no seu celular e você saca mesmo sem este computador.
-- Menos botões repetidos: Radar e Checar moeda viraram parte do Mercado; "Avaliar novas" saiu (a avaliação já é automática).
-- Mais dados para aprender: vigia de novo todas as carteiras boas, mas copia só os traders; as outras ficam em observação (o preço é seguido por 4 h e entra no aprendizado, sem mexer no resultado).
-- Busca automática junta os rankings de 1, 7 e 30 dias do Kolscan: 88 carteiras em vez de 48.
-- Repositório de versões privado: o botão Atualizar usa uma chave de leitura do GitHub (Ajustes › Atualizações).
 
 <!-- NOVIDADES:FIM -->
 
