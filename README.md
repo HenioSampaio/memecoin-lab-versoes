@@ -83,6 +83,9 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 1.9.4 · 25/10/2026
+- "Segurar quando a carteira vende" ganhou trava: se a venda do líder é grande perto da liquidez da moeda (3% do caixa ou mais), ele não segura, porque essa venda é a própria queda.
+
 ### 1.9.3 · 25/10/2026
 - Carteiras › Adicionar › Importar ranking da Phantom (.json): cada trader com perfil público entra na lista e é avaliado. Os 88 do ranking do mês já entraram.
 - Gráfico da posição refeito: sem o pico falso de leitura, área verde/vermelha a partir da entrada, linhas do alvo e do stop, valor de agora na escala, leitura ao passar o mouse com reais e atualização ao vivo; botão para o gráfico de velas da moeda.
@@ -94,14 +97,6 @@ flowchart TB
 
 ### 1.9.1 · 25/10/2026
 - Banca e tamanho das entradas do teste ficam só na Estratégia (saíram repetidos de Ajustes › Avançado, que ganhou um atalho para lá).
-
-### 1.9 · 25/10/2026
-- Os traders copiados têm conexão, fila e leitura de transações só deles (pelo Helius): as carteiras observadas nunca atrasam uma cópia.
-- Carteira só observada manda no máximo 1 aviso a cada 30 s: a fila parou de entupir.
-- "Acontecendo agora" mostra se a conexão ao vivo está OK, há quanto tempo veio o último aviso e as quedas da última hora; o Telegram avisa se a conexão ficar caída por 5 min (e quando voltar).
-- Avaliação de carteiras: no máximo 4 min por carteira e, se o programa fechar no meio, ela continua de onde parou.
-- Etiquetas compridas quebram a linha em vez de esticar a coluna (o painel não fica mais desproporcional).
-- Conhecimento na nuvem: o aprendizado é guardado no seu repositório privado do GitHub a cada 3 h e ao fechar, e volta inteiro em outro computador (Ajustes › Conhecimento na nuvem).
 
 <!-- NOVIDADES:FIM -->
 
