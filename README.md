@@ -83,6 +83,12 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.10 · 25/10/2026
+- Teste-sombra mais claro: três números grandes lado a lado (copiadas, só observadas, barradas), a conclusão com um ✓ e a explicação em "Como funciona".
+- Listas de contexto (onde copiar funciona, filtros, por que saímos) no estilo Apple: rótulo à esquerda e o número à direita, sem a barra que saía do centro.
+- Carteiras: a opção do dinheiro real aparece só na aba Por minha conta, separada da lista.
+- Moedas em movimento: a borda da moeda em destaque não é mais cortada pela barra de rolagem.
+
 ### 2.9 · 25/10/2026
 - Visual no estilo Apple: cartões, listas, barras e janelas em vidro (translúcido com desfoque sobre um fundo de cor suave); com "reduzir transparência" do sistema ligado, volta ao visual sólido.
 - Sem emoji em títulos, botões, seletores e etiquetas: só texto; onde precisa de ícone, ícones de traço fino (estilo SF Symbols), incluindo som, tema, menu e a busca rápida.
@@ -94,10 +100,6 @@ flowchart TB
 ### 2.7 · 25/10/2026
 - Carteiras › carteira que está "fora" › Copiar mesmo assim (por minha conta): ela entra na cópia do teste mesmo sem passar nas regras (veredito, tempo segurando, robô); no dinheiro real continua valendo só "ok p/ testar". Aparece como "copiando por sua conta" e dá para desfazer; a geladeira continua valendo.
 - Robô x pessoa mais justo: conta MOEDAS diferentes por hora, não trocas. Quem vende cada moeda em várias partes (ex.: Yami, 330 trocas em 32 moedas) deixou de ser marcado como robô; robô continua sendo quem entra numa moeda nova a cada 3 min, não dorme ou gira 1 a 3 moedas sem parar (robô de volume). Com isso 13 carteiras voltaram a ser copiáveis.
-
-### 2.6 · 25/10/2026
-- Telegram: escreva o nome da moeda (ex.: bonk), use /moeda ou cole o endereço. Vem a ficha com nota de confiança de 0 a 100 (🟢🟡🔴) e os motivos, cada um contando uma vez: filtros de segurança, verificada, movimento orgânico, liquidez, idade, concentração, insiders e quantas das nossas carteiras compraram.
-- Avisos ao vivo mais leves: o nó manda centenas de avisos por segundo de robôs com transação que falhou; agora eles são descartados sem ler a mensagem inteira (11x mais rápido, conferido com 6 mil avisos reais).
 
 <!-- NOVIDADES:FIM -->
 
