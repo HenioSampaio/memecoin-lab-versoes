@@ -83,6 +83,10 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.29 · 25/10/2026
+- Compra manual no teste: na ficha de qualquer moeda (busca, Painel, Radar) ou no Telegram, escolha o valor e compre. A venda segue as regras da Estratégia (stop, alvo, queda rápida, proteção de lucro) e você pode vender quando quiser.
+- Estratégia › Sair depois de: 0 desliga o tempo máximo.
+
 ### 2.28 · 25/10/2026
 - Por conta própria: cartões de investido agora, quanto entra por compra (em SOL e R$) e o resultado sobre o que já investiu; cada operação mostra quanto investiu.
 - Nota mínima do modo por conta própria salva de verdade (a tela não apaga mais o que você digita) e vale na hora, sem religar o laboratório.
@@ -95,9 +99,6 @@ flowchart TB
 
 ### 2.26 · 25/10/2026
 - Uma carteira, uma banca: o modo por conta própria compra com o mesmo caixa do copy trade (Ajustes › Banca do teste). Em Meu saldo, o total é o da carteira e o resultado é o de cada modo.
-
-### 2.25 · 25/10/2026
-- Corrige a tela Carteiras, que não abria na 2.24.
 
 <!-- NOVIDADES:FIM -->
 
