@@ -1,12 +1,12 @@
 {
-  "versao": "2.8",
+  "versao": "2.9",
   "data": "25/10/2026",
   "notas": [
-    "Carteiras: opção \"Carteiras por minha conta também no dinheiro real\" (desligada = as que você manda copiar ficam só no teste) e filtro 👤 Por minha conta na lista.",
-    "O aviso do botão Copiar mesmo assim diz exatamente se aquela carteira entraria ou não no dinheiro real."
+    "Visual no estilo Apple: cartões, listas, barras e janelas em vidro (translúcido com desfoque sobre um fundo de cor suave); com \"reduzir transparência\" do sistema ligado, volta ao visual sólido.",
+    "Sem emoji em títulos, botões, seletores e etiquetas: só texto; onde precisa de ícone, ícones de traço fino (estilo SF Symbols), incluindo som, tema, menu e a busca rápida."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.8/MemecoinLab.exe",
-  "sha256": "696e2953e0567f2a157595ee9ed5d26f72653d8e7b3fca4ca84cc6c3054ef01a",
-  "tamanho": 34815469,
-  "publicado_em": "2026-10-25T11:11:07"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.9/MemecoinLab.exe",
+  "sha256": "eb5763c0db65b846e3a49d8fe7619073909514dc72cbc7ca947be844749f3b72",
+  "tamanho": 34820591,
+  "publicado_em": "2026-10-25T11:18:26"
 }
