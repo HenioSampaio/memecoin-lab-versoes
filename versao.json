@@ -1,11 +1,11 @@
 {
-  "versao": "2.25",
+  "versao": "2.26",
   "data": "25/10/2026",
   "notas": [
-    "Corrige a tela Carteiras, que não abria na 2.24."
+    "Uma carteira, uma banca: o modo por conta própria compra com o mesmo caixa do copy trade (Ajustes › Banca do teste). Em Meu saldo, o total é o da carteira e o resultado é o de cada modo."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.25/MemecoinLab.exe",
-  "sha256": "80ae16ffb9e339362a0b5527c89f8f24212264f9118ea687f5b815f6e07a6c35",
-  "tamanho": 34877931,
-  "publicado_em": "2026-10-25T17:17:23"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.26/MemecoinLab.exe",
+  "sha256": "3025b31a9fe6546f30da29f6e14ff5e269647f9051d2241cd0719f7aaa386729",
+  "tamanho": 34879569,
+  "publicado_em": "2026-10-25T17:29:15"
 }
