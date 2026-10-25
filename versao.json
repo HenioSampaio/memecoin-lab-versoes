@@ -1,13 +1,13 @@
 {
-  "versao": "1.8.1",
+  "versao": "1.8.2",
   "data": "25/10/2026",
   "notas": [
-    "Gráfico da moeda AO VIVO: a última vela anda a cada 4 segundos com o preço de agora, e nasce uma vela nova quando passa o tempo dela.",
-    "Variação quase zero aparece neutra, não vermelha.",
-    "Gráfico em Velas ou Linha (o programa lembra a sua escolha), velas com largura certa mesmo em moeda recém-nascida e o preço de agora destacado na escala."
+    "Painel: Raio-x das operações (quantas fecharam em cada faixa de resultado) e Ritmo das últimas 24 h (compras vistas e copiadas por hora).",
+    "Moedas só observadas agora aparecem com o nome, não com o começo do endereço.",
+    "Telegram: botões Mercado (as 6 em alta com valor de mercado) e Aprendizado (quanto dado ele já tem e o que recomenda); o topo mostra quantas carteiras copia e quantas observa."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v1.8.1/MemecoinLab.exe",
-  "sha256": "72cca30b1dfabc1d2739149aa789e1885c1fe91d3487e46d2998747ed57045dd",
-  "tamanho": 34744834,
-  "publicado_em": "2026-10-25T00:54:11"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v1.8.2/MemecoinLab.exe",
+  "sha256": "a2be6cad7cb154f971b7cad769165ac5d24f8e4250957f4cadd1eb08ca4acdb4",
+  "tamanho": 34753549,
+  "publicado_em": "2026-10-25T01:00:38"
 }
