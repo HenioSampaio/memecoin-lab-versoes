@@ -1,13 +1,14 @@
 {
-  "versao": "2.21",
+  "versao": "2.23",
   "data": "25/10/2026",
   "notas": [
-    "Por conta própria: posições abertas (nota, tempo, resultado ao vivo) e últimas operações na tela Autônomo; no Painel, uma linha com as posições dele que leva até lá.",
-    "Vender as posições do modo Por conta própria: no programa (toque na posição › Vender agora) e no Telegram (Posições › Vender 25/50/100%).",
-    "Textos da tela Autônomo mais enxutos."
+    "Proteção de lucro: depois de +20% no pico, a posição não devolve o ganho. Guarda 60% do maior ganho e vende antes se a tendência do último minuto apontar para o piso. Aparece no gráfico como \"lucro protegido\". Ajustes › Quando vender.",
+    "O aprendizado testa a proteção de lucro junto com alvo, stop e tempo e recomenda o melhor nível.",
+    "Compras pagas em dólar (USDC/USDT) agora contam pelo valor em SOL. Antes eram lidas como 0 SOL e ignoradas como compra pequena (caso do hheat).",
+    "Painel: posições do modo por conta própria na mesma lista, com a etiqueta \"compra por conta própria\"."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.21/MemecoinLab.exe",
-  "sha256": "3c4d4574c5d234b43cae4b11bf410785f4f60fcc165de8af982fa938d2fc14b2",
-  "tamanho": 34868518,
-  "publicado_em": "2026-10-25T15:41:38"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.23/MemecoinLab.exe",
+  "sha256": "ca5eee76166149bf56757e00b3de690305dd87712436820116303726bba2021b",
+  "tamanho": 34874290,
+  "publicado_em": "2026-10-25T16:20:43"
 }
