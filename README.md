@@ -83,6 +83,10 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.12 · 25/10/2026
+- Carteiras: campo de busca pelo nome ou endereço. Se a carteira estiver em outra aba, ele avisa onde e leva até lá com um toque.
+- Teste-sombra: conclusões mais curtas e em letra menor.
+
 ### 2.11 · 25/10/2026
 - Estratégia › Idade máxima da moeda aceita até 30 dias (43.200 min).
 
@@ -95,10 +99,6 @@ flowchart TB
 ### 2.9 · 25/10/2026
 - Visual no estilo Apple: cartões, listas, barras e janelas em vidro (translúcido com desfoque sobre um fundo de cor suave); com "reduzir transparência" do sistema ligado, volta ao visual sólido.
 - Sem emoji em títulos, botões, seletores e etiquetas: só texto; onde precisa de ícone, ícones de traço fino (estilo SF Symbols), incluindo som, tema, menu e a busca rápida.
-
-### 2.8 · 25/10/2026
-- Carteiras: opção "Carteiras por minha conta também no dinheiro real" (desligada = as que você manda copiar ficam só no teste) e filtro 👤 Por minha conta na lista.
-- O aviso do botão Copiar mesmo assim diz exatamente se aquela carteira entraria ou não no dinheiro real.
 
 <!-- NOVIDADES:FIM -->
 
