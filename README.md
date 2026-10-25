@@ -83,6 +83,9 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 1.8.8 · 25/10/2026
+- Todo campo em SOL (Estratégia, Ajustes, retirar saldo) mostra o valor em reais pequenininho ao lado, mudando enquanto você digita; os quadros de risco também.
+
 ### 1.8.7 · 25/10/2026
 - Mais fotos de moedas recém-nascidas (cópia rápida do Helius) e o "sem foto" é conferido de novo a cada 10 min.
 
@@ -93,10 +96,6 @@ flowchart TB
 - Os gráficos do Painel abrem detalhes: no Raio-x, cada operação (moeda, carteira, motivo da saída, tempo aberta), média, mediana, maior ganho e perda, por que saímos; tocando numa coluna, filtra aquela faixa.
 - No Ritmo das 24 h: gráfico grande, hora mais ativa, resultado das copiadas e a tabela hora a hora (vistas, copiadas, barradas, observadas e resultado).
 - O programa se mexe mesmo com as animações do Windows desligadas (fita correndo, gráficos animados). Para parar: Ajustes › Visual › Movimento.
-
-### 1.8.4 · 25/10/2026
-- Se o programa fechar ou atualizar no meio de uma avaliação de carteiras, ele retoma sozinho as que ficaram pendentes.
-- Texto das compras observadas sem repetição: "👀 observando · segura pouco".
 
 <!-- NOVIDADES:FIM -->
 
