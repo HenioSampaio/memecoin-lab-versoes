@@ -83,6 +83,9 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.14 · 25/10/2026
+- Ajustes › Conexões › Chave da Jupiter: cole uma Server key grátis do portal.jup.ag e o limite de cotações dobra (1 por segundo). O programa testa a chave na Jupiter antes de guardar; ela fica só neste computador.
+
 ### 2.13 · 25/10/2026
 - Jupiter numa fila só para o programa inteiro, no limite real dela (5 pedidos a cada 10 s, medido): antes cada parte pedia por conta própria e a Jupiter recusava. A fila tem prioridade: venda primeiro, depois conferir posições, depois compras, por último fotos e busca; quando a Jupiter manda esperar, ele espera o tempo que ela disse.
 - Limite da Jupiter não vira mais "sem rota de compra" (que barrava a moeda como se fosse ruim): aparece como "Jupiter ocupada" e, em posição aberta, não conta como moeda morta.
@@ -97,12 +100,6 @@ flowchart TB
 
 ### 2.11 · 25/10/2026
 - Estratégia › Idade máxima da moeda aceita até 30 dias (43.200 min).
-
-### 2.10 · 25/10/2026
-- Teste-sombra mais claro: três números grandes lado a lado (copiadas, só observadas, barradas), a conclusão com um ✓ e a explicação em "Como funciona".
-- Listas de contexto (onde copiar funciona, filtros, por que saímos) no estilo Apple: rótulo à esquerda e o número à direita, sem a barra que saía do centro.
-- Carteiras: a opção do dinheiro real aparece só na aba Por minha conta, separada da lista.
-- Moedas em movimento: a borda da moeda em destaque não é mais cortada pela barra de rolagem.
 
 <!-- NOVIDADES:FIM -->
 
