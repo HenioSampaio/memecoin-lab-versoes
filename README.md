@@ -83,6 +83,9 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 1.8.6 · 25/10/2026
+- Atualizar não fica mais bloqueado durante a avaliação de carteiras: ela é interrompida e retoma sozinha quando o programa reabre.
+
 ### 1.8.5 · 25/10/2026
 - Os gráficos do Painel abrem detalhes: no Raio-x, cada operação (moeda, carteira, motivo da saída, tempo aberta), média, mediana, maior ganho e perda, por que saímos; tocando numa coluna, filtra aquela faixa.
 - No Ritmo das 24 h: gráfico grande, hora mais ativa, resultado das copiadas e a tabela hora a hora (vistas, copiadas, barradas, observadas e resultado).
@@ -96,11 +99,6 @@ flowchart TB
 - Painel: Raio-x das operações (quantas fecharam em cada faixa de resultado) e Ritmo das últimas 24 h (compras vistas e copiadas por hora).
 - Moedas só observadas agora aparecem com o nome, não com o começo do endereço.
 - Telegram: botões Mercado (as 6 em alta com valor de mercado) e Aprendizado (quanto dado ele já tem e o que recomenda); o topo mostra quantas carteiras copia e quantas observa.
-
-### 1.8.1 · 25/10/2026
-- Gráfico da moeda AO VIVO: a última vela anda a cada 4 segundos com o preço de agora, e nasce uma vela nova quando passa o tempo dela.
-- Variação quase zero aparece neutra, não vermelha.
-- Gráfico em Velas ou Linha (o programa lembra a sua escolha), velas com largura certa mesmo em moeda recém-nascida e o preço de agora destacado na escala.
 
 <!-- NOVIDADES:FIM -->
 
