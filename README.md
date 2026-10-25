@@ -83,8 +83,10 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
-### 1.9.7 · 25/10/2026
+### 1.9.8 · 25/10/2026
 - Importar ranking da Phantom: os endereços são procurados 3 perfis por vez (cerca de 4x mais rápido).
+- Ajustes: os limites do dinheiro real (valor de cada compra, máximo ao mesmo tempo, pausa por perda no dia) e a chave liga/desliga voltaram para dentro de Dinheiro real; tinham ido parar embaixo de Atualizações.
+- Triagem corta robô cedo: quando as primeiras 30 trocas do dono já mostram 40 ou mais por hora, a carteira sai na hora como robô, sem ler as 700 transações.
 - Corrigido o aviso "não consegui ler o saldo atual" na avaliação: contas de token em formato que a rede não lê são puladas.
 - Uma atualização não fica mais presa esperando a avaliação do ranking da Phantom terminar; a avaliação continua quando o programa abre de novo.
 
