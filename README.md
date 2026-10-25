@@ -83,6 +83,13 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.2 · 25/10/2026
+- Recomendação mais clara: mostra só o que muda (ex.: Stop −20% → −40%), o efeito em média por operação e por que a confiança é baixa ou alta.
+- Mudanças na estratégia mostram o que mudou em cada vez; Desfazer só na mais recente (desfazer uma antiga misturaria as regras).
+- Celular: os botões Teste/Real e o período do gráfico não saem mais da tela; textos de Ajustes, Estratégia e das janelas quebram a linha em vez de cortar com "…"; campos de PIN cabem na tela; seletores (cores, movimento) descem para a linha de baixo.
+- Ajustes › Instalar o Tailscale avisa que no computador ele precisa de administrador; sem isso, o acesso de fora é pelo bot do Telegram.
+- Botões lado a lado nunca quebram o texto em duas linhas: se não cabem, descem inteiros; seletores um pouco mais altos para tocar.
+
 ### 2.1 · 25/10/2026
 - Garimpo na blockchain (Carteiras › ⛏️ Garimpar, e junto da busca automática): pega as moedas que mais subiram em 24 h, lê na blockchain quem comprou pelo menos 3x mais barato que o preço de agora (pulando os robôs do primeiro minuto) e manda essas carteiras para a avaliação de lucro real. Acha trader que nenhum ranking mostra.
 - PIN de segurança de 6 números: pedido para sacar e para mostrar a chave da carteira (criado na primeira vez; 5 erros travam por 15 min). Troca em Ajustes › Dinheiro real.
@@ -94,13 +101,6 @@ flowchart TB
 
 ### 1.9.9 · 25/10/2026
 - Carteiras › Colar uma lista aceita links (solscan.io/account/…, gmgn.ai, birdeye), um por linha, além do endereço puro.
-
-### 1.9.8 · 25/10/2026
-- Importar ranking da Phantom: os endereços são procurados 3 perfis por vez (cerca de 4x mais rápido).
-- Ajustes: os limites do dinheiro real (valor de cada compra, máximo ao mesmo tempo, pausa por perda no dia) e a chave liga/desliga voltaram para dentro de Dinheiro real; tinham ido parar embaixo de Atualizações.
-- Triagem corta robô cedo: quando as primeiras 30 trocas do dono já mostram 40 ou mais por hora, a carteira sai na hora como robô, sem ler as 700 transações.
-- Corrigido o aviso "não consegui ler o saldo atual" na avaliação: contas de token em formato que a rede não lê são puladas.
-- Uma atualização não fica mais presa esperando a avaliação do ranking da Phantom terminar; a avaliação continua quando o programa abre de novo.
 
 <!-- NOVIDADES:FIM -->
 
