@@ -83,6 +83,9 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.0 · 25/10/2026
+- Toque numa operação fechada (Painel › Últimas operações ou no Raio-x) e veja tudo dela: o caminho do preço com as marcações, a linha do tempo, cada venda nossa em SOL e reais, como estava a moeda na entrada (idade, liquidez, concentração, quanto o líder comprou, nosso atraso) e o que a moeda fez DEPOIS que saímos (saímos cedo ou saímos bem).
+
 ### 1.9.9 · 25/10/2026
 - Carteiras › Colar uma lista aceita links (solscan.io/account/…, gmgn.ai, birdeye), um por linha, além do endereço puro.
 
@@ -95,13 +98,6 @@ flowchart TB
 
 ### 1.9.6 · 25/10/2026
 - Campos em minutos mostram ao lado, pequenininho, quanto é em horas ou dias (ex.: 720 → ≈ 12 h, 1440 → ≈ 1 dia), mudando enquanto você digita.
-
-### 1.9.5 · 25/10/2026
-- Avaliação de carteiras ~3x mais rápida: carteira nova passa por uma triagem (até 60 operações, 700 transações e 2 min); a avaliação completa fica para a reavaliação das aprovadas.
-- A fila começa pelas mais promissoras (maior retorno no ranking da Phantom, maior lucro no Kolscan) e o aviso mostra quanto falta.
-- O vigia dos traders e a avaliação dividem o limite do Helius sem disputar (menos espera e menos erro de limite).
-- Stop mais rápido: na venda total, usa a cotação que acabou de conferir (antes pedia duas vezes ao Jupiter, com 1 s de espera no meio).
-- Estratégia › Idade mínima da moeda (desligada): para não entrar em moeda de poucos minutos de vida.
 
 <!-- NOVIDADES:FIM -->
 
