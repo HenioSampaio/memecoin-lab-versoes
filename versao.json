@@ -1,13 +1,11 @@
 {
-  "versao": "2.31",
+  "versao": "2.32",
   "data": "25/10/2026",
   "notas": [
-    "Sininho da moeda: na ficha de qualquer moeda, escolha degraus de queda (−10%, −20%, −30%, −50%, −70%) a partir do preço de agora; em cada um o programa compra no teste um valor em SOL, um % do caixa, ou só avisa. Cada degrau dispara uma vez e avisa no Telegram.",
-    "Favoritas: estrela na ficha da moeda, aba Favoritas no Mercado (com quanto subiu desde que favoritou) e ⭐ Favoritas no Telegram.",
-    "Compra manual e do sininho podem ser um aporte numa moeda que já tem posição aberta."
+    "Sininho virou ícone: no topo da ficha da moeda, ao lado da estrela, com o número de degraus armados; tocando, abre um popup para criar e apagar."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.31/MemecoinLab.exe",
-  "sha256": "400e7b3bb9cc109c46043ef3502659cf60db5367ac41d7d790fecce7e5307a06",
-  "tamanho": 34893722,
-  "publicado_em": "2026-10-25T19:15:10"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.32/MemecoinLab.exe",
+  "sha256": "bed30ea316e285bd8335073c066b1ef78390451d9e35ddb5ee102b53de3224b4",
+  "tamanho": 34894299,
+  "publicado_em": "2026-10-25T19:27:51"
 }
