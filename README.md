@@ -83,6 +83,9 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 1.7.2 · 25/10/2026
+- QR code da carteira do laboratório (Ajustes e Meu saldo › Real), com o passo a passo para mandar SOL pela Phantom do celular.
+
 ### 1.7.1 · 24/10/2026
 - Só copia traders de verdade: quem segura a moeda pelo menos 5 min (quem sai em 1 min nos usa de saída) e não é robô (robô opera nas 24 h e faz centenas de trocas por dia).
 - Geladeira: carteira com 3 prejuízos seguidos para de ser copiada por 6 h.
@@ -105,17 +108,6 @@ flowchart TB
 - Sons: moedinha quando fecha no lucro ou bate o alvo, tom grave no prejuízo e um "pop" na compra. Botão 🔊 no topo para silenciar.
 - Telegram de cara nova: o valor em reais primeiro, quadradinhos verde/vermelho do dia, a lista das moedas recolhida e a vibe do dia.
 - Base do aprendizado: cada compra agora guarda o contexto (hora, dia, idade e liquidez da moeda, concentração, atraso, quantas carteiras entraram, movimento do mercado) e o caminho do preço depois. É disso que a recomendação automática vai aprender.
-
-### 1.6.1 · 24/10/2026
-- Compra mais rápida: a fila do vigia agora dá prioridade ao que é novo e às moedas que temos; compra vista tarde demais (mais de 20 s) não é copiada, porque a moeda já andou.
-- Carteira com prejuízo real e robôs deixam de ser vigiados (só entupiam a fila).
-- O computador não dorme com o laboratório ligado, mesmo ligando pela chave da tela.
-- Ícone de cada moeda, textos em português claro ("barrada · pouca liquidez") e a faixa "Moedas em movimento" com detalhes ao tocar.
-- Estratégia › O que ele aprendeu: o resultado de cada tipo de saída, do atraso e o que os filtros barraram.
-- Telegram com lucro e prejuízo em reais, nomes curtos e o total do dia.
-- Gráfico com 1 e 5 minutos.
-- Nova tela Meu saldo: quanto você tem, quanto está investido, o que saiu em compras e voltou em vendas, e o extrato de cada operação (teste e real), tudo também em reais.
-- Valor em reais pequenininho dentro de cada quadro do Painel; a cotação tenta de novo a cada minuto se falhar.
 
 <!-- NOVIDADES:FIM -->
 
