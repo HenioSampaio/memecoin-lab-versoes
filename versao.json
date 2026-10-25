@@ -1,11 +1,14 @@
 {
-  "versao": "2.14",
+  "versao": "2.15",
   "data": "25/10/2026",
   "notas": [
-    "Ajustes › Conexões › Chave da Jupiter: cole uma Server key grátis do portal.jup.ag e o limite de cotações dobra (1 por segundo). O programa testa a chave na Jupiter antes de guardar; ela fica só neste computador."
+    "Traders com duas fontes ao vivo ao mesmo tempo: o nó oficial da Solana (no teste, entregou primeiro 89% das transações) e o PublicNode. Vale o aviso que chegar primeiro; se uma cair, a outra segue vigiando e não há janela cega. Grátis, sem conta.",
+    "Alerta de convergência no Telegram diz a decisão: o que fizemos com cada carteira (copiamos, barrada por quê, só observada por quê) e se compramos ou não.",
+    "Experimento no teste-sombra (Estratégia): compras barradas pela idade mínima com 3+ carteiras comprando × sem convergência, simuladas com as suas regras de venda. Só medição; nenhuma compra muda.",
+    "Fila de avaliação: carteiras achadas na caça por fora (negociando agora) são avaliadas primeiro."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.14/MemecoinLab.exe",
-  "sha256": "949f977c63771123b0adecffa5a5335bc6a74e553c830da0ca5f0c4fa3557ba7",
-  "tamanho": 34828936,
-  "publicado_em": "2026-10-25T13:26:26"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.15/MemecoinLab.exe",
+  "sha256": "6b7fc28198c15bb0dad368507e5a545d315b299d331d36480a9fd9af4c65a4f2",
+  "tamanho": 34833642,
+  "publicado_em": "2026-10-25T14:19:40"
 }
