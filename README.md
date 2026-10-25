@@ -83,6 +83,14 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 1.7.1 · 24/10/2026
+- Só copia traders de verdade: quem segura a moeda pelo menos 5 min (quem sai em 1 min nos usa de saída) e não é robô (robô opera nas 24 h e faz centenas de trocas por dia).
+- Geladeira: carteira com 3 prejuízos seguidos para de ser copiada por 6 h.
+- Saída mais rápida: perto do alvo ou do stop, ele confere na hora, sem esperar os 20 s da próxima cotação.
+- Stop móvel: depois do alvo, sai se cair 30% do pico, em vez de segurar o resto até zerar.
+- Opção: segurar quando a carteira copiada vende mas a moeda está subindo forte (Estratégia › Quando vender).
+- Fita do Painel arrumada.
+
 ### 1.7 · 24/10/2026
 - Recomendação automática (Estratégia): o laboratório revive cada operação com o preço real minuto a minuto e testa 200 combinações de venda (alvo, stop, tempo, seguir ou não o líder); também separa por horário, dia, liquidez, idade da moeda, atraso e número de carteiras.
 - Só recomenda quando a melhora se repete na maioria dos sorteios estatísticos, com confiança baixa, média ou alta. Ligado, aplica sozinho as de confiança média ou alta, uma por vez, e avisa no Telegram. Tudo tem Desfazer.
@@ -108,16 +116,6 @@ flowchart TB
 - Gráfico com 1 e 5 minutos.
 - Nova tela Meu saldo: quanto você tem, quanto está investido, o que saiu em compras e voltou em vendas, e o extrato de cada operação (teste e real), tudo também em reais.
 - Valor em reais pequenininho dentro de cada quadro do Painel; a cotação tenta de novo a cada minuto se falhar.
-
-### 1.6 · 24/10/2026
-- Retirar saldo: manda o SOL da carteira do laboratório de volta para a sua Phantom (Ajustes › Retirar saldo).
-- Cópia de segurança da carteira do laboratório fora da pasta Documentos: se a pasta for apagada, ela volta sozinha.
-- Lateral recolhível: botão ☰ no topo ou Ctrl+B.
-- O título da janela e da barra de tarefas mostra o resultado do teste ao vivo.
-- Fechar o programa no meio de uma avaliação de carteiras agora pede confirmação.
-- Tela de boas-vindas com os 3 passos para começar num computador novo.
-- Erros da tela vão para data\erros_tela.log (ajuda no suporte).
-- Programa menor e página no GitHub nova, com fotos e passo a passo.
 
 <!-- NOVIDADES:FIM -->
 
