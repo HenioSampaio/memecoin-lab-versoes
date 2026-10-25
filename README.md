@@ -83,6 +83,10 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.16 · 25/10/2026
+- Novo modo Por conta própria (menu Autônomo): o programa garimpa sozinho as moedas novas e em alta a cada minuto, dá uma nota de 0 a 100 a cada uma e compra no teste as de nota alta que passam nos filtros de segurança. Banca própria, resultado lado a lado com o copy trade; dinheiro real fica de fora.
+- Ele aprende em tempo real: todas as candidatas (compradas ou não) são seguidas por 4 h e viram exemplos; a cada 10 min a nota é reajustada com o que deu lucro com as suas regras de venda. A tela mostra quanto a nota aprendida já pesa, quanto ela acerta e quais sinais estão ajudando ou atrapalhando.
+
 ### 2.15 · 25/10/2026
 - Traders com duas fontes ao vivo ao mesmo tempo: o nó oficial da Solana (no teste, entregou primeiro 89% das transações) e o PublicNode. Vale o aviso que chegar primeiro; se uma cair, a outra segue vigiando e não há janela cega. Grátis, sem conta.
 - Alerta de convergência no Telegram diz a decisão: o que fizemos com cada carteira (copiamos, barrada por quê, só observada por quê) e se compramos ou não.
@@ -99,10 +103,6 @@ flowchart TB
 - Ao ligar ou atualizar, o laboratório volta a vigiar na hora (antes ficava ~70 s cego preparando cada carteira).
 - Helius com folga: a avaliação de carteiras usa 6 pedidos/s (era 7) e respeita o "espere" que o Helius manda.
 - Ajustes › Conexões: saúde de cada conexão ao vivo e da Jupiter (pedidos, quantas vezes mandou esperar, espera média, fila).
-
-### 2.12 · 25/10/2026
-- Carteiras: campo de busca pelo nome ou endereço. Se a carteira estiver em outra aba, ele avisa onde e leva até lá com um toque.
-- Teste-sombra: conclusões mais curtas e em letra menor.
 
 <!-- NOVIDADES:FIM -->
 
