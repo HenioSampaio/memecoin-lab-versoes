@@ -83,6 +83,12 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.1 · 25/10/2026
+- Garimpo na blockchain (Carteiras › ⛏️ Garimpar, e junto da busca automática): pega as moedas que mais subiram em 24 h, lê na blockchain quem comprou pelo menos 3x mais barato que o preço de agora (pulando os robôs do primeiro minuto) e manda essas carteiras para a avaliação de lucro real. Acha trader que nenhum ranking mostra.
+- PIN de segurança de 6 números: pedido para sacar e para mostrar a chave da carteira (criado na primeira vez; 5 erros travam por 15 min). Troca em Ajustes › Dinheiro real.
+- Carteira do laboratório em cartão: saldo grande em SOL e reais, endereço curto com Copiar e QR, e Retirar / Levar para a Phantom como botões lado a lado.
+- Mais fotos de moedas: se a fonte da foto falha, tenta de novo e busca a cópia do DexScreener; a tela não guarda mais "sem foto" por 1 hora (a foto aparece assim que existir).
+
 ### 2.0 · 25/10/2026
 - Toque numa operação fechada (Painel › Últimas operações ou no Raio-x) e veja tudo dela: o caminho do preço com as marcações, a linha do tempo, cada venda nossa em SOL e reais, como estava a moeda na entrada (idade, liquidez, concentração, quanto o líder comprou, nosso atraso) e o que a moeda fez DEPOIS que saímos (saímos cedo ou saímos bem).
 
@@ -95,9 +101,6 @@ flowchart TB
 - Triagem corta robô cedo: quando as primeiras 30 trocas do dono já mostram 40 ou mais por hora, a carteira sai na hora como robô, sem ler as 700 transações.
 - Corrigido o aviso "não consegui ler o saldo atual" na avaliação: contas de token em formato que a rede não lê são puladas.
 - Uma atualização não fica mais presa esperando a avaliação do ranking da Phantom terminar; a avaliação continua quando o programa abre de novo.
-
-### 1.9.6 · 25/10/2026
-- Campos em minutos mostram ao lado, pequenininho, quanto é em horas ou dias (ex.: 720 → ≈ 12 h, 1440 → ≈ 1 dia), mudando enquanto você digita.
 
 <!-- NOVIDADES:FIM -->
 
