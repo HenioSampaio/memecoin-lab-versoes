@@ -83,6 +83,9 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.25 · 25/10/2026
+- Corrige a tela Carteiras, que não abria na 2.24.
+
 ### 2.24 · 25/10/2026
 - Queda rápida: sai quando a moeda cai 15% do topo dos últimos 40 s, sem esperar o stop. No replay das 48 operações com preço a cada 16 s, a média foi de −21% para −10%.
 - Moeda com menos de 60 min só é copiada se 3 ou mais carteiras compraram em 30 min (copiadas abaixo de 60 min: −28% a −34%; acima: +2%).
@@ -99,11 +102,6 @@ flowchart TB
 - Meu saldo › Autônomo: saldo, investido, resultado e extrato da banca do modo por conta própria.
 - Carteiras achadas na caça com nome curto (ex.: caça MriyaN) em todas as telas.
 - Atualização mais segura: antes de fechar para trocar de versão, o programa confere se a troca começou; se não começou, continua aberto na versão atual em vez de ficar fechado.
-
-### 2.21 · 25/10/2026
-- Por conta própria: posições abertas (nota, tempo, resultado ao vivo) e últimas operações na tela Autônomo; no Painel, uma linha com as posições dele que leva até lá.
-- Vender as posições do modo Por conta própria: no programa (toque na posição › Vender agora) e no Telegram (Posições › Vender 25/50/100%).
-- Textos da tela Autônomo mais enxutos.
 
 <!-- NOVIDADES:FIM -->
 
