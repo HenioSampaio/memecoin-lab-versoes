@@ -1,14 +1,12 @@
 {
-  "versao": "2.5",
+  "versao": "2.6",
   "data": "25/10/2026",
   "notas": [
-    "Teste-sombra (Estratégia): cada compra vista e não copiada (só observada ou barrada) vira uma operação simulada com as suas regras de venda sobre o preço real das 4 h seguintes. Compara copiadas × observadas × barradas e diz se escolher traders e filtrar está valendo a pena. São ~30x mais dados que só as copiadas.",
-    "O aprendizado das regras de venda usa também as sombras das carteiras observadas: chega muito mais rápido às 20 operações para recomendar com confiança (a tela mostra quantas são do teste e quantas são sombras).",
-    "Muito mais leve: o banco ganhou índices. A tela Carteiras abria em 12 s (e travava o resto do programa nesse tempo); agora abre em 0,1 s. A avaliação de carteiras e a partida do laboratório também ficaram mais rápidas.",
-    "Mercado: busque a moeda pelo nome ou símbolo (ex.: bonk), não só pelo endereço. A lista aparece enquanto você digita, com foto, valor de mercado, liquidez, idade, variação do dia e ✓ nas verificadas; tocou, abre o gráfico."
+    "Telegram: escreva o nome da moeda (ex.: bonk), use /moeda ou cole o endereço. Vem a ficha com nota de confiança de 0 a 100 (🟢🟡🔴) e os motivos, cada um contando uma vez: filtros de segurança, verificada, movimento orgânico, liquidez, idade, concentração, insiders e quantas das nossas carteiras compraram.",
+    "Avisos ao vivo mais leves: o nó manda centenas de avisos por segundo de robôs com transação que falhou; agora eles são descartados sem ler a mensagem inteira (11x mais rápido, conferido com 6 mil avisos reais)."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.5/MemecoinLab.exe",
-  "sha256": "b63694cf8dcbfb49479861690023be53f543c53a6d4fe009355cdef2d5ab113d",
-  "tamanho": 34807558,
-  "publicado_em": "2026-10-25T10:28:06"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.6/MemecoinLab.exe",
+  "sha256": "40e773318dfebebc98e903d499ecaf8634ab80d5b5b0bdc4a5f46bf3ec0b1ade",
+  "tamanho": 34811387,
+  "publicado_em": "2026-10-25T10:42:55"
 }
