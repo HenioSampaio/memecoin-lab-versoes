@@ -83,6 +83,10 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.30 · 25/10/2026
+- Mercado › Várias juntas: nome da moeda, valor de mercado e quanto ela já subiu desde a 1ª compra das nossas carteiras (diz se ainda está cedo ou já é tarde).
+- Telegram › Várias juntas: a mesma lista, numerada, com variação desde a 1ª compra e botão para a ficha da moeda (e o Comprar no teste).
+
 ### 2.29 · 25/10/2026
 - Compra manual no teste: na ficha de qualquer moeda (busca, Painel, Radar) ou no Telegram, escolha o valor e compre. A venda segue as regras da Estratégia (stop, alvo, queda rápida, proteção de lucro) e você pode vender quando quiser.
 - Estratégia › Sair depois de: 0 desliga o tempo máximo.
@@ -96,9 +100,6 @@ flowchart TB
 - Por conta própria: o cartão do caixa agora se chama "Livre para comprar" (já desconta as posições abertas dos dois modos) e o resultado não mostra mais "++".
 - Meu saldo: o saldo total é o mesmo nas abas Teste e Autônomo.
 - Ficha da posição: quanto foi investido, quanto vale agora e o resultado, em SOL e R$.
-
-### 2.26 · 25/10/2026
-- Uma carteira, uma banca: o modo por conta própria compra com o mesmo caixa do copy trade (Ajustes › Banca do teste). Em Meu saldo, o total é o da carteira e o resultado é o de cada modo.
 
 <!-- NOVIDADES:FIM -->
 
