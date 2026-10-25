@@ -1,13 +1,11 @@
 {
-  "versao": "1.8.5",
+  "versao": "1.8.6",
   "data": "25/10/2026",
   "notas": [
-    "Os gráficos do Painel abrem detalhes: no Raio-x, cada operação (moeda, carteira, motivo da saída, tempo aberta), média, mediana, maior ganho e perda, por que saímos; tocando numa coluna, filtra aquela faixa.",
-    "No Ritmo das 24 h: gráfico grande, hora mais ativa, resultado das copiadas e a tabela hora a hora (vistas, copiadas, barradas, observadas e resultado).",
-    "O programa se mexe mesmo com as animações do Windows desligadas (fita correndo, gráficos animados). Para parar: Ajustes › Visual › Movimento."
+    "Atualizar não fica mais bloqueado durante a avaliação de carteiras: ela é interrompida e retoma sozinha quando o programa reabre."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v1.8.5/MemecoinLab.exe",
-  "sha256": "2bf5e66f3c5764c93da08852ff6c40b1038eb072e04944fa7a17eca66d4c23ec",
-  "tamanho": 34758618,
-  "publicado_em": "2026-10-25T01:22:57"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v1.8.6/MemecoinLab.exe",
+  "sha256": "57a6e88276c1c5bb3635aa8769ca1ec38b307d5856f055ea4741092fb7e3d944",
+  "tamanho": 34759289,
+  "publicado_em": "2026-10-25T01:28:00"
 }
