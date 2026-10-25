@@ -1,11 +1,18 @@
 {
-  "versao": "1.7.2",
+  "versao": "1.8",
   "data": "25/10/2026",
   "notas": [
-    "QR code da carteira do laboratório (Ajustes e Meu saldo › Real), com o passo a passo para mandar SOL pela Phantom do celular."
+    "Nova tela Mercado: ranking das moedas em alta, das que acabaram de nascer, das que as nossas carteiras mexeram e das que várias compraram juntas, com o gráfico de quem mais subiu e atualização sozinha.",
+    "Página da moeda com gráfico de velas (1m, 5m, 15m, 1h) que se atualiza sozinho, com as nossas compras e vendas marcadas, valor de mercado, liquidez, compras × vendas e checagem de segurança.",
+    "Carteiras refeitas: quem o laboratório está copiando, quem está na geladeira e quem está fora (e por quê), o estilo de cada uma (trader, scalper, robô) e o resultado de copiar.",
+    "Levar para a Phantom (Ajustes): a carteira do laboratório aparece no seu celular e você saca mesmo sem este computador.",
+    "Menos botões repetidos: Radar e Checar moeda viraram parte do Mercado; \"Avaliar novas\" saiu (a avaliação já é automática).",
+    "Mais dados para aprender: vigia de novo todas as carteiras boas, mas copia só os traders; as outras ficam em observação (o preço é seguido por 4 h e entra no aprendizado, sem mexer no resultado).",
+    "Busca automática junta os rankings de 1, 7 e 30 dias do Kolscan: 88 carteiras em vez de 48.",
+    "Repositório de versões privado: o botão Atualizar usa uma chave de leitura do GitHub (Ajustes › Atualizações)."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v1.7.2/MemecoinLab.exe",
-  "sha256": "38f27d9cd1124a884a69a3e1ab5317314878460979a7cf90be6f3c6b60d922da",
-  "tamanho": 34722994,
-  "publicado_em": "2026-10-25T00:13:17"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v1.8/MemecoinLab.exe",
+  "sha256": "0d5c80a81b675fb9c1f11d325daa477bdab4514c4e5d69e8d4037095c2088ed7",
+  "tamanho": 34741371,
+  "publicado_em": "2026-10-25T00:35:20"
 }
