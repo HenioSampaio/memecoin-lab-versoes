@@ -1,12 +1,12 @@
 {
-  "versao": "2.29",
+  "versao": "2.30",
   "data": "25/10/2026",
   "notas": [
-    "Compra manual no teste: na ficha de qualquer moeda (busca, Painel, Radar) ou no Telegram, escolha o valor e compre. A venda segue as regras da Estratégia (stop, alvo, queda rápida, proteção de lucro) e você pode vender quando quiser.",
-    "Estratégia › Sair depois de: 0 desliga o tempo máximo."
+    "Mercado › Várias juntas: nome da moeda, valor de mercado e quanto ela já subiu desde a 1ª compra das nossas carteiras (diz se ainda está cedo ou já é tarde).",
+    "Telegram › Várias juntas: a mesma lista, numerada, com variação desde a 1ª compra e botão para a ficha da moeda (e o Comprar no teste)."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.29/MemecoinLab.exe",
-  "sha256": "6159b55405182bf1314a8806df23719d80fc8cd0a4b48038aa816df297be3512",
-  "tamanho": 34883992,
-  "publicado_em": "2026-10-25T18:44:24"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.30/MemecoinLab.exe",
+  "sha256": "0f780a56b7a2f07a154f3f502e7640fb4f81fcc269cf9ea8485b7a5650b78dfd",
+  "tamanho": 34886276,
+  "publicado_em": "2026-10-25T19:02:28"
 }
