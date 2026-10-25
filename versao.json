@@ -1,14 +1,15 @@
 {
-  "versao": "2.1",
+  "versao": "2.2",
   "data": "25/10/2026",
   "notas": [
-    "Garimpo na blockchain (Carteiras › ⛏️ Garimpar, e junto da busca automática): pega as moedas que mais subiram em 24 h, lê na blockchain quem comprou pelo menos 3x mais barato que o preço de agora (pulando os robôs do primeiro minuto) e manda essas carteiras para a avaliação de lucro real. Acha trader que nenhum ranking mostra.",
-    "PIN de segurança de 6 números: pedido para sacar e para mostrar a chave da carteira (criado na primeira vez; 5 erros travam por 15 min). Troca em Ajustes › Dinheiro real.",
-    "Carteira do laboratório em cartão: saldo grande em SOL e reais, endereço curto com Copiar e QR, e Retirar / Levar para a Phantom como botões lado a lado.",
-    "Mais fotos de moedas: se a fonte da foto falha, tenta de novo e busca a cópia do DexScreener; a tela não guarda mais \"sem foto\" por 1 hora (a foto aparece assim que existir)."
+    "Recomendação mais clara: mostra só o que muda (ex.: Stop −20% → −40%), o efeito em média por operação e por que a confiança é baixa ou alta.",
+    "Mudanças na estratégia mostram o que mudou em cada vez; Desfazer só na mais recente (desfazer uma antiga misturaria as regras).",
+    "Celular: os botões Teste/Real e o período do gráfico não saem mais da tela; textos de Ajustes, Estratégia e das janelas quebram a linha em vez de cortar com \"…\"; campos de PIN cabem na tela; seletores (cores, movimento) descem para a linha de baixo.",
+    "Ajustes › Instalar o Tailscale avisa que no computador ele precisa de administrador; sem isso, o acesso de fora é pelo bot do Telegram.",
+    "Botões lado a lado nunca quebram o texto em duas linhas: se não cabem, descem inteiros; seletores um pouco mais altos para tocar."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.1/MemecoinLab.exe",
-  "sha256": "7d60bdc4dff742848906a4fd98ace57e2b3d505cf875cc9efaf3144f27db5e8f",
-  "tamanho": 34796290,
-  "publicado_em": "2026-10-25T09:21:40"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.2/MemecoinLab.exe",
+  "sha256": "0a4c4dc5c502ae1d857055321dae452017e30bd0c751ee72e133d7872ad0d098",
+  "tamanho": 34798010,
+  "publicado_em": "2026-10-25T09:45:54"
 }
