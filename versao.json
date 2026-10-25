@@ -1,16 +1,11 @@
 {
-  "versao": "1.7.1",
-  "data": "24/10/2026",
+  "versao": "1.7.2",
+  "data": "25/10/2026",
   "notas": [
-    "Só copia traders de verdade: quem segura a moeda pelo menos 5 min (quem sai em 1 min nos usa de saída) e não é robô (robô opera nas 24 h e faz centenas de trocas por dia).",
-    "Geladeira: carteira com 3 prejuízos seguidos para de ser copiada por 6 h.",
-    "Saída mais rápida: perto do alvo ou do stop, ele confere na hora, sem esperar os 20 s da próxima cotação.",
-    "Stop móvel: depois do alvo, sai se cair 30% do pico, em vez de segurar o resto até zerar.",
-    "Opção: segurar quando a carteira copiada vende mas a moeda está subindo forte (Estratégia › Quando vender).",
-    "Fita do Painel arrumada."
+    "QR code da carteira do laboratório (Ajustes e Meu saldo › Real), com o passo a passo para mandar SOL pela Phantom do celular."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v1.7.1/MemecoinLab.exe",
-  "sha256": "23659a00d687c5152427f476cf0b2651517182991abdd91d30b40c2bd40fdd08",
-  "tamanho": 34622375,
-  "publicado_em": "2026-10-25T00:01:32"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v1.7.2/MemecoinLab.exe",
+  "sha256": "38f27d9cd1124a884a69a3e1ab5317314878460979a7cf90be6f3c6b60d922da",
+  "tamanho": 34722994,
+  "publicado_em": "2026-10-25T00:13:17"
 }
