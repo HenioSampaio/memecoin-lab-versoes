@@ -1,12 +1,12 @@
 {
-  "versao": "2.6",
+  "versao": "2.7",
   "data": "25/10/2026",
   "notas": [
-    "Telegram: escreva o nome da moeda (ex.: bonk), use /moeda ou cole o endereço. Vem a ficha com nota de confiança de 0 a 100 (🟢🟡🔴) e os motivos, cada um contando uma vez: filtros de segurança, verificada, movimento orgânico, liquidez, idade, concentração, insiders e quantas das nossas carteiras compraram.",
-    "Avisos ao vivo mais leves: o nó manda centenas de avisos por segundo de robôs com transação que falhou; agora eles são descartados sem ler a mensagem inteira (11x mais rápido, conferido com 6 mil avisos reais)."
+    "Carteiras › carteira que está \"fora\" › Copiar mesmo assim (por minha conta): ela entra na cópia do teste mesmo sem passar nas regras (veredito, tempo segurando, robô); no dinheiro real continua valendo só \"ok p/ testar\". Aparece como \"copiando por sua conta\" e dá para desfazer; a geladeira continua valendo.",
+    "Robô x pessoa mais justo: conta MOEDAS diferentes por hora, não trocas. Quem vende cada moeda em várias partes (ex.: Yami, 330 trocas em 32 moedas) deixou de ser marcado como robô; robô continua sendo quem entra numa moeda nova a cada 3 min, não dorme ou gira 1 a 3 moedas sem parar (robô de volume). Com isso 13 carteiras voltaram a ser copiáveis."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.6/MemecoinLab.exe",
-  "sha256": "40e773318dfebebc98e903d499ecaf8634ab80d5b5b0bdc4a5f46bf3ec0b1ade",
-  "tamanho": 34811387,
-  "publicado_em": "2026-10-25T10:42:55"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.7/MemecoinLab.exe",
+  "sha256": "66a8078a89aa10611382b3ab66bc7e2f3bdd57314db501d942f4a397a6a38185",
+  "tamanho": 34816972,
+  "publicado_em": "2026-10-25T10:58:42"
 }
