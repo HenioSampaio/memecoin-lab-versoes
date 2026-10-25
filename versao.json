@@ -1,11 +1,12 @@
 {
-  "versao": "2.11",
+  "versao": "2.12",
   "data": "25/10/2026",
   "notas": [
-    "Estratégia › Idade máxima da moeda aceita até 30 dias (43.200 min)."
+    "Carteiras: campo de busca pelo nome ou endereço. Se a carteira estiver em outra aba, ele avisa onde e leva até lá com um toque.",
+    "Teste-sombra: conclusões mais curtas e em letra menor."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.11/MemecoinLab.exe",
-  "sha256": "400cf60e25e4b64659720fe8fa274fdd9f5df0eddb6a93ef8b44639cb7fa61b6",
-  "tamanho": 34820148,
-  "publicado_em": "2026-10-25T11:35:42"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.12/MemecoinLab.exe",
+  "sha256": "a1104cb95d602d62793b9b8ca772de7ddb81744bf13c136ee99b62df3c245673",
+  "tamanho": 34821102,
+  "publicado_em": "2026-10-25T11:49:43"
 }
