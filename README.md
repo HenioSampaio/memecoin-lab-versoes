@@ -83,6 +83,15 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 1.6.2 · 24/10/2026
+- Resumo do dia animado: resultado contando, anel de acerto, cada moeda com barra de lucro ou prejuízo, saldo e investido. Aparece ao fechar o programa, ao desligar o laboratório e no botão Painel › Resumo do dia.
+- Ao fechar, o resumo também vai para o Telegram.
+- Painel reorganizado: as duas colunas ficam equilibradas e "Acontecendo agora" tem rolagem própria, com compras repetidas juntas numa linha ("7×").
+- Ícone de quase todas as moedas: a foto agora vem dos dados da própria moeda (Jupiter), não só das que pagaram perfil no DexScreener.
+- Sons: moedinha quando fecha no lucro ou bate o alvo, tom grave no prejuízo e um "pop" na compra. Botão 🔊 no topo para silenciar.
+- Telegram de cara nova: o valor em reais primeiro, quadradinhos verde/vermelho do dia, a lista das moedas recolhida e a vibe do dia.
+- Base do aprendizado: cada compra agora guarda o contexto (hora, dia, idade e liquidez da moeda, concentração, atraso, quantas carteiras entraram, movimento do mercado) e o caminho do preço depois. É disso que a recomendação automática vai aprender.
+
 ### 1.6.1 · 24/10/2026
 - Compra mais rápida: a fila do vigia agora dá prioridade ao que é novo e às moedas que temos; compra vista tarde demais (mais de 20 s) não é copiada, porque a moeda já andou.
 - Carteira com prejuízo real e robôs deixam de ser vigiados (só entupiam a fila).
@@ -111,10 +120,6 @@ flowchart TB
 - Visual Grafite opcional (cinza, azul e verde) em Ajustes › Visual.
 - Aviso na tela a cada compra e venda.
 - Corrigido: depois de atualizar, o programa reabre sozinho na versão nova.
-
-### 1.4 · 24/10/2026
-- Atualização pelo próprio programa: quando sai versão nova, aparece "Nova versão" no Painel; um clique baixa, confere e reabre.
-- O programa não traz mais a lista de carteiras dentro. Para levar a sua para outro computador: Carteiras › Copiar minha lista, e lá Carteiras › Colar uma lista.
 
 <!-- NOVIDADES:FIM -->
 
