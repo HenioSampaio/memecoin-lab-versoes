@@ -83,6 +83,11 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.21 · 25/10/2026
+- Por conta própria: posições abertas (nota, tempo, resultado ao vivo) e últimas operações na tela Autônomo; no Painel, uma linha com as posições dele que leva até lá.
+- Vender as posições do modo Por conta própria: no programa (toque na posição › Vender agora) e no Telegram (Posições › Vender 25/50/100%).
+- Textos da tela Autônomo mais enxutos.
+
 ### 2.20 · 25/10/2026
 - Conhecimento na nuvem como o iCloud: sincroniza sozinho a cada 30 min quando o aprendizado mudou (e ao fechar), mostra "Sincronizado há X min · próxima em Y", tem Sincronizar agora e a chave de sincronização automática.
 - A cópia na nuvem é substituída a cada vez (arquivos de uma release), em vez de virar um commit novo: o repositório guarda só a versão mais recente e não cresce ~100 MB por dia.
@@ -95,9 +100,6 @@ flowchart TB
 ### 2.18 · 25/10/2026
 - Convergência vira ação: quando 3+ carteiras compram a mesma moeda, o modo Por conta própria avalia a moeda na hora (nota + filtros de segurança) e compra no teste se passar. A tela Autônomo mostra essas candidatas como "convergência de N carteiras".
 - Convergência só conta compra de verdade (pelo menos o mínimo da Estratégia): compras de pó não disparam mais o aviso. Nomes curtos no aviso (ex.: "caça MriyaN").
-
-### 2.17 · 25/10/2026
-- Por conta própria: corrigido o aprendizado, que roda em paralelo e não conseguia ler os exemplos ("erro ao aprender"). Agora reajusta a nota a cada 10 min assim que houver 40 exemplos.
 
 <!-- NOVIDADES:FIM -->
 
