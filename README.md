@@ -83,6 +83,12 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.4 · 25/10/2026
+- Conexão ao vivo mais estável: as carteiras observadas são divididas em conexões de até 80 (o nó público recusava centenas numa só), a assinatura vai aos poucos e, se cair, ele espera cada vez mais para reconectar (5 s, 10 s, 20 s… até 1 min) em vez de insistir a cada 5 s.
+- Depois de uma queda, a recuperação das observadas olha só as moedas que temos (antes buscava o histórico das 200 a cada queda e sobrecarregava o nó, que caía de novo). Os traders copiados continuam com recuperação completa.
+- Sem enxurrada de "erro lendo…" no registro: falha na recuperação vira um aviso só, e erro de leitura diz o motivo (limite de pedidos, demora, servidor).
+- Garimpo: só escolhe moedas que dá para ler até o começo (não gasta mais 45 mil leituras para pular a moeda) e olha também as moedas novas que subiram nas últimas 6 h.
+
 ### 2.3 · 25/10/2026
 - Extrato: cada venda mostra o resultado dela (lucro ou prejuízo em % e em reais). O valor da venda é o que voltou para a banca, e não fica mais verde quando a operação deu prejuízo.
 - Barras de rolagem finas, arredondadas e na cor do programa, sem encostar no conteúdo das janelas.
@@ -101,9 +107,6 @@ flowchart TB
 - PIN de segurança de 6 números: pedido para sacar e para mostrar a chave da carteira (criado na primeira vez; 5 erros travam por 15 min). Troca em Ajustes › Dinheiro real.
 - Carteira do laboratório em cartão: saldo grande em SOL e reais, endereço curto com Copiar e QR, e Retirar / Levar para a Phantom como botões lado a lado.
 - Mais fotos de moedas: se a fonte da foto falha, tenta de novo e busca a cópia do DexScreener; a tela não guarda mais "sem foto" por 1 hora (a foto aparece assim que existir).
-
-### 2.0 · 25/10/2026
-- Toque numa operação fechada (Painel › Últimas operações ou no Raio-x) e veja tudo dela: o caminho do preço com as marcações, a linha do tempo, cada venda nossa em SOL e reais, como estava a moeda na entrada (idade, liquidez, concentração, quanto o líder comprou, nosso atraso) e o que a moeda fez DEPOIS que saímos (saímos cedo ou saímos bem).
 
 <!-- NOVIDADES:FIM -->
 
