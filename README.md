@@ -83,6 +83,14 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 1.9 · 25/10/2026
+- Os traders copiados têm conexão, fila e leitura de transações só deles (pelo Helius): as carteiras observadas nunca atrasam uma cópia.
+- Carteira só observada manda no máximo 1 aviso a cada 30 s: a fila parou de entupir.
+- "Acontecendo agora" mostra se a conexão ao vivo está OK, há quanto tempo veio o último aviso e as quedas da última hora; o Telegram avisa se a conexão ficar caída por 5 min (e quando voltar).
+- Avaliação de carteiras: no máximo 4 min por carteira e, se o programa fechar no meio, ela continua de onde parou.
+- Etiquetas compridas quebram a linha em vez de esticar a coluna (o painel não fica mais desproporcional).
+- Conhecimento na nuvem: o aprendizado é guardado no seu repositório privado do GitHub a cada 3 h e ao fechar, e volta inteiro em outro computador (Ajustes › Conhecimento na nuvem).
+
 ### 1.8.8 · 25/10/2026
 - Todo campo em SOL (Estratégia, Ajustes, retirar saldo) mostra o valor em reais pequenininho ao lado, mudando enquanto você digita; os quadros de risco também.
 
@@ -91,11 +99,6 @@ flowchart TB
 
 ### 1.8.6 · 25/10/2026
 - Atualizar não fica mais bloqueado durante a avaliação de carteiras: ela é interrompida e retoma sozinha quando o programa reabre.
-
-### 1.8.5 · 25/10/2026
-- Os gráficos do Painel abrem detalhes: no Raio-x, cada operação (moeda, carteira, motivo da saída, tempo aberta), média, mediana, maior ganho e perda, por que saímos; tocando numa coluna, filtra aquela faixa.
-- No Ritmo das 24 h: gráfico grande, hora mais ativa, resultado das copiadas e a tabela hora a hora (vistas, copiadas, barradas, observadas e resultado).
-- O programa se mexe mesmo com as animações do Windows desligadas (fita correndo, gráficos animados). Para parar: Ajustes › Visual › Movimento.
 
 <!-- NOVIDADES:FIM -->
 
