@@ -83,8 +83,9 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
-### 1.8.3 · 25/10/2026
+### 1.8.4 · 25/10/2026
 - Se o programa fechar ou atualizar no meio de uma avaliação de carteiras, ele retoma sozinho as que ficaram pendentes.
+- Texto das compras observadas sem repetição: "👀 observando · segura pouco".
 
 ### 1.8.2 · 25/10/2026
 - Painel: Raio-x das operações (quantas fecharam em cada faixa de resultado) e Ritmo das últimas 24 h (compras vistas e copiadas por hora).
