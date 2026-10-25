@@ -1,15 +1,14 @@
 {
-  "versao": "2.2",
+  "versao": "2.3",
   "data": "25/10/2026",
   "notas": [
-    "Recomendação mais clara: mostra só o que muda (ex.: Stop −20% → −40%), o efeito em média por operação e por que a confiança é baixa ou alta.",
-    "Mudanças na estratégia mostram o que mudou em cada vez; Desfazer só na mais recente (desfazer uma antiga misturaria as regras).",
-    "Celular: os botões Teste/Real e o período do gráfico não saem mais da tela; textos de Ajustes, Estratégia e das janelas quebram a linha em vez de cortar com \"…\"; campos de PIN cabem na tela; seletores (cores, movimento) descem para a linha de baixo.",
-    "Ajustes › Instalar o Tailscale avisa que no computador ele precisa de administrador; sem isso, o acesso de fora é pelo bot do Telegram.",
-    "Botões lado a lado nunca quebram o texto em duas linhas: se não cabem, descem inteiros; seletores um pouco mais altos para tocar."
+    "Extrato: cada venda mostra o resultado dela (lucro ou prejuízo em % e em reais). O valor da venda é o que voltou para a banca, e não fica mais verde quando a operação deu prejuízo.",
+    "Barras de rolagem finas, arredondadas e na cor do programa, sem encostar no conteúdo das janelas.",
+    "Extrato com os valores alinhados à direita.",
+    "\"stop: caiu 20.0%\" virou \"stop: caiu 20%\"."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.2/MemecoinLab.exe",
-  "sha256": "0a4c4dc5c502ae1d857055321dae452017e30bd0c751ee72e133d7872ad0d098",
-  "tamanho": 34798010,
-  "publicado_em": "2026-10-25T09:45:54"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.3/MemecoinLab.exe",
+  "sha256": "2561471a0d43f3e65906ce71566cb24cc5b4b9efebc0563c6ac87e5f9dd2145c",
+  "tamanho": 34798291,
+  "publicado_em": "2026-10-25T09:57:10"
 }
