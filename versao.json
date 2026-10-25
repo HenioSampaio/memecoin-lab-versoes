@@ -1,14 +1,14 @@
 {
-  "versao": "2.4",
+  "versao": "2.5",
   "data": "25/10/2026",
   "notas": [
-    "Conexão ao vivo mais estável: as carteiras observadas são divididas em conexões de até 80 (o nó público recusava centenas numa só), a assinatura vai aos poucos e, se cair, ele espera cada vez mais para reconectar (5 s, 10 s, 20 s… até 1 min) em vez de insistir a cada 5 s.",
-    "Depois de uma queda, a recuperação das observadas olha só as moedas que temos (antes buscava o histórico das 200 a cada queda e sobrecarregava o nó, que caía de novo). Os traders copiados continuam com recuperação completa.",
-    "Sem enxurrada de \"erro lendo…\" no registro: falha na recuperação vira um aviso só, e erro de leitura diz o motivo (limite de pedidos, demora, servidor).",
-    "Garimpo: só escolhe moedas que dá para ler até o começo (não gasta mais 45 mil leituras para pular a moeda) e olha também as moedas novas que subiram nas últimas 6 h."
+    "Teste-sombra (Estratégia): cada compra vista e não copiada (só observada ou barrada) vira uma operação simulada com as suas regras de venda sobre o preço real das 4 h seguintes. Compara copiadas × observadas × barradas e diz se escolher traders e filtrar está valendo a pena. São ~30x mais dados que só as copiadas.",
+    "O aprendizado das regras de venda usa também as sombras das carteiras observadas: chega muito mais rápido às 20 operações para recomendar com confiança (a tela mostra quantas são do teste e quantas são sombras).",
+    "Muito mais leve: o banco ganhou índices. A tela Carteiras abria em 12 s (e travava o resto do programa nesse tempo); agora abre em 0,1 s. A avaliação de carteiras e a partida do laboratório também ficaram mais rápidas.",
+    "Mercado: busque a moeda pelo nome ou símbolo (ex.: bonk), não só pelo endereço. A lista aparece enquanto você digita, com foto, valor de mercado, liquidez, idade, variação do dia e ✓ nas verificadas; tocou, abre o gráfico."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.4/MemecoinLab.exe",
-  "sha256": "13d3711016a0c506c5cc4a0d0663ac692ad4f51b03ade873588340596486e45a",
-  "tamanho": 34800409,
-  "publicado_em": "2026-10-25T10:09:54"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.5/MemecoinLab.exe",
+  "sha256": "b63694cf8dcbfb49479861690023be53f543c53a6d4fe009355cdef2d5ab113d",
+  "tamanho": 34807558,
+  "publicado_em": "2026-10-25T10:28:06"
 }
