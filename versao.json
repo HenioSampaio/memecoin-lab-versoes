@@ -1,11 +1,12 @@
 {
-  "versao": "2.17",
+  "versao": "2.18",
   "data": "25/10/2026",
   "notas": [
-    "Por conta própria: corrigido o aprendizado, que roda em paralelo e não conseguia ler os exemplos (\"erro ao aprender\"). Agora reajusta a nota a cada 10 min assim que houver 40 exemplos."
+    "Convergência vira ação: quando 3+ carteiras compram a mesma moeda, o modo Por conta própria avalia a moeda na hora (nota + filtros de segurança) e compra no teste se passar. A tela Autônomo mostra essas candidatas como \"convergência de N carteiras\".",
+    "Convergência só conta compra de verdade (pelo menos o mínimo da Estratégia): compras de pó não disparam mais o aviso. Nomes curtos no aviso (ex.: \"caça MriyaN\")."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.17/MemecoinLab.exe",
-  "sha256": "1cd97733bdd45ab9fa5986162dc3db62799a0e5b351d0669fc4aa43a8b213b99",
-  "tamanho": 34856285,
-  "publicado_em": "2026-10-25T14:43:33"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.18/MemecoinLab.exe",
+  "sha256": "9c3547c24daef3b04fc686e4cc35afdee49eecce77cfaf51c82261c798514829",
+  "tamanho": 34857614,
+  "publicado_em": "2026-10-25T14:50:41"
 }
