@@ -1,15 +1,11 @@
 {
-  "versao": "1.9.8",
+  "versao": "1.9.9",
   "data": "25/10/2026",
   "notas": [
-    "Importar ranking da Phantom: os endereços são procurados 3 perfis por vez (cerca de 4x mais rápido).",
-    "Ajustes: os limites do dinheiro real (valor de cada compra, máximo ao mesmo tempo, pausa por perda no dia) e a chave liga/desliga voltaram para dentro de Dinheiro real; tinham ido parar embaixo de Atualizações.",
-    "Triagem corta robô cedo: quando as primeiras 30 trocas do dono já mostram 40 ou mais por hora, a carteira sai na hora como robô, sem ler as 700 transações.",
-    "Corrigido o aviso \"não consegui ler o saldo atual\" na avaliação: contas de token em formato que a rede não lê são puladas.",
-    "Uma atualização não fica mais presa esperando a avaliação do ranking da Phantom terminar; a avaliação continua quando o programa abre de novo."
+    "Carteiras › Colar uma lista aceita links (solscan.io/account/…, gmgn.ai, birdeye), um por linha, além do endereço puro."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v1.9.8/MemecoinLab.exe",
-  "sha256": "866b78b18415818702f6b816dce9f102d73e2ee316b058911d3e8863eb4d1d50",
-  "tamanho": 34779465,
-  "publicado_em": "2026-10-25T08:49:17"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v1.9.9/MemecoinLab.exe",
+  "sha256": "72f16656d188dcd4b4579b0f3f3c3d1fb091c22a0d0b5aa0cb419d802f02ede0",
+  "tamanho": 34778711,
+  "publicado_em": "2026-10-25T08:52:30"
 }
