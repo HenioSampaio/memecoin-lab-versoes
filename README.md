@@ -83,6 +83,10 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.19 · 25/10/2026
+- Sininho no topo: mostra quantos avisos novos chegaram e, ao tocar, a lista do que o programa avisou (compras, vendas, convergências, conexão, aprendizado), a mesma do Telegram. Funciona mesmo sem o Telegram conectado.
+- Chave do GitHub: passo a passo atualizado para a tela nova do GitHub (Add permissions › Contents › Read and write).
+
 ### 2.18 · 25/10/2026
 - Convergência vira ação: quando 3+ carteiras compram a mesma moeda, o modo Por conta própria avalia a moeda na hora (nota + filtros de segurança) e compra no teste se passar. A tela Autônomo mostra essas candidatas como "convergência de N carteiras".
 - Convergência só conta compra de verdade (pelo menos o mínimo da Estratégia): compras de pó não disparam mais o aviso. Nomes curtos no aviso (ex.: "caça MriyaN").
@@ -93,12 +97,6 @@ flowchart TB
 ### 2.16 · 25/10/2026
 - Novo modo Por conta própria (menu Autônomo): o programa garimpa sozinho as moedas novas e em alta a cada minuto, dá uma nota de 0 a 100 a cada uma e compra no teste as de nota alta que passam nos filtros de segurança. Banca própria, resultado lado a lado com o copy trade; dinheiro real fica de fora.
 - Ele aprende em tempo real: todas as candidatas (compradas ou não) são seguidas por 4 h e viram exemplos; a cada 10 min a nota é reajustada com o que deu lucro com as suas regras de venda. A tela mostra quanto a nota aprendida já pesa, quanto ela acerta e quais sinais estão ajudando ou atrapalhando.
-
-### 2.15 · 25/10/2026
-- Traders com duas fontes ao vivo ao mesmo tempo: o nó oficial da Solana (no teste, entregou primeiro 89% das transações) e o PublicNode. Vale o aviso que chegar primeiro; se uma cair, a outra segue vigiando e não há janela cega. Grátis, sem conta.
-- Alerta de convergência no Telegram diz a decisão: o que fizemos com cada carteira (copiamos, barrada por quê, só observada por quê) e se compramos ou não.
-- Experimento no teste-sombra (Estratégia): compras barradas pela idade mínima com 3+ carteiras comprando × sem convergência, simuladas com as suas regras de venda. Só medição; nenhuma compra muda.
-- Fila de avaliação: carteiras achadas na caça por fora (negociando agora) são avaliadas primeiro.
 
 <!-- NOVIDADES:FIM -->
 
