@@ -1,14 +1,14 @@
 {
-  "versao": "2.23",
+  "versao": "2.24",
   "data": "25/10/2026",
   "notas": [
-    "Proteção de lucro: depois de +20% no pico, a posição não devolve o ganho. Guarda 60% do maior ganho e vende antes se a tendência do último minuto apontar para o piso. Aparece no gráfico como \"lucro protegido\". Ajustes › Quando vender.",
-    "O aprendizado testa a proteção de lucro junto com alvo, stop e tempo e recomenda o melhor nível.",
-    "Compras pagas em dólar (USDC/USDT) agora contam pelo valor em SOL. Antes eram lidas como 0 SOL e ignoradas como compra pequena (caso do hheat).",
-    "Painel: posições do modo por conta própria na mesma lista, com a etiqueta \"compra por conta própria\"."
+    "Queda rápida: sai quando a moeda cai 15% do topo dos últimos 40 s, sem esperar o stop. No replay das 48 operações com preço a cada 16 s, a média foi de −21% para −10%.",
+    "Moeda com menos de 60 min só é copiada se 3 ou mais carteiras compraram em 30 min (copiadas abaixo de 60 min: −28% a −34%; acima: +2%).",
+    "Banco: carteira com 4+ cópias e média abaixo de −30% para de ser copiada e segue no teste-sombra; volta sozinha quando as compras dela voltarem a dar lucro. Aparece na geladeira com o motivo.",
+    "Ajustes: as três regras têm controle próprio (0 desliga)."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.23/MemecoinLab.exe",
-  "sha256": "ca5eee76166149bf56757e00b3de690305dd87712436820116303726bba2021b",
-  "tamanho": 34874290,
-  "publicado_em": "2026-10-25T16:20:43"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.24/MemecoinLab.exe",
+  "sha256": "76118ac65ea2fc79153b3ae6208e30ea0ef68b87b770c8903f97d3622c18ce46",
+  "tamanho": 34877585,
+  "publicado_em": "2026-10-25T17:09:39"
 }
