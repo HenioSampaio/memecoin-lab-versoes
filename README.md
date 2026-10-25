@@ -83,6 +83,9 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.17 · 25/10/2026
+- Por conta própria: corrigido o aprendizado, que roda em paralelo e não conseguia ler os exemplos ("erro ao aprender"). Agora reajusta a nota a cada 10 min assim que houver 40 exemplos.
+
 ### 2.16 · 25/10/2026
 - Novo modo Por conta própria (menu Autônomo): o programa garimpa sozinho as moedas novas e em alta a cada minuto, dá uma nota de 0 a 100 a cada uma e compra no teste as de nota alta que passam nos filtros de segurança. Banca própria, resultado lado a lado com o copy trade; dinheiro real fica de fora.
 - Ele aprende em tempo real: todas as candidatas (compradas ou não) são seguidas por 4 h e viram exemplos; a cada 10 min a nota é reajustada com o que deu lucro com as suas regras de venda. A tela mostra quanto a nota aprendida já pesa, quanto ela acerta e quais sinais estão ajudando ou atrapalhando.
@@ -95,14 +98,6 @@ flowchart TB
 
 ### 2.14 · 25/10/2026
 - Ajustes › Conexões › Chave da Jupiter: cole uma Server key grátis do portal.jup.ag e o limite de cotações dobra (1 por segundo). O programa testa a chave na Jupiter antes de guardar; ela fica só neste computador.
-
-### 2.13 · 25/10/2026
-- Jupiter numa fila só para o programa inteiro, no limite real dela (5 pedidos a cada 10 s, medido): antes cada parte pedia por conta própria e a Jupiter recusava. A fila tem prioridade: venda primeiro, depois conferir posições, depois compras, por último fotos e busca; quando a Jupiter manda esperar, ele espera o tempo que ela disse.
-- Limite da Jupiter não vira mais "sem rota de compra" (que barrava a moeda como se fosse ruim): aparece como "Jupiter ocupada" e, em posição aberta, não conta como moeda morta.
-- Compra decide mais rápido: RugCheck e DexScreener rodam ao mesmo tempo, e a Jupiter só é chamada se a moeda passou nos outros filtros (2 de cada 3 são barradas antes, sem gastar a cota).
-- Ao ligar ou atualizar, o laboratório volta a vigiar na hora (antes ficava ~70 s cego preparando cada carteira).
-- Helius com folga: a avaliação de carteiras usa 6 pedidos/s (era 7) e respeita o "espere" que o Helius manda.
-- Ajustes › Conexões: saúde de cada conexão ao vivo e da Jupiter (pedidos, quantas vezes mandou esperar, espera média, fila).
 
 <!-- NOVIDADES:FIM -->
 
