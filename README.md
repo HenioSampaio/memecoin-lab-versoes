@@ -83,6 +83,9 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 1.8.7 · 25/10/2026
+- Mais fotos de moedas recém-nascidas (cópia rápida do Helius) e o "sem foto" é conferido de novo a cada 10 min.
+
 ### 1.8.6 · 25/10/2026
 - Atualizar não fica mais bloqueado durante a avaliação de carteiras: ela é interrompida e retoma sozinha quando o programa reabre.
 
@@ -94,11 +97,6 @@ flowchart TB
 ### 1.8.4 · 25/10/2026
 - Se o programa fechar ou atualizar no meio de uma avaliação de carteiras, ele retoma sozinho as que ficaram pendentes.
 - Texto das compras observadas sem repetição: "👀 observando · segura pouco".
-
-### 1.8.2 · 25/10/2026
-- Painel: Raio-x das operações (quantas fecharam em cada faixa de resultado) e Ritmo das últimas 24 h (compras vistas e copiadas por hora).
-- Moedas só observadas agora aparecem com o nome, não com o começo do endereço.
-- Telegram: botões Mercado (as 6 em alta com valor de mercado) e Aprendizado (quanto dado ele já tem e o que recomenda); o topo mostra quantas carteiras copia e quantas observa.
 
 <!-- NOVIDADES:FIM -->
 
