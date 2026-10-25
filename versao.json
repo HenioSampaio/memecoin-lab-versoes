@@ -1,11 +1,11 @@
 {
-  "versao": "1.9.9",
+  "versao": "2.0",
   "data": "25/10/2026",
   "notas": [
-    "Carteiras › Colar uma lista aceita links (solscan.io/account/…, gmgn.ai, birdeye), um por linha, além do endereço puro."
+    "Toque numa operação fechada (Painel › Últimas operações ou no Raio-x) e veja tudo dela: o caminho do preço com as marcações, a linha do tempo, cada venda nossa em SOL e reais, como estava a moeda na entrada (idade, liquidez, concentração, quanto o líder comprou, nosso atraso) e o que a moeda fez DEPOIS que saímos (saímos cedo ou saímos bem)."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v1.9.9/MemecoinLab.exe",
-  "sha256": "72f16656d188dcd4b4579b0f3f3c3d1fb091c22a0d0b5aa0cb419d802f02ede0",
-  "tamanho": 34778711,
-  "publicado_em": "2026-10-25T08:52:30"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.0/MemecoinLab.exe",
+  "sha256": "2387e30e6cfb64de623863c4dbb4af1f6af619973d98df6d31ece8e44fd9b59c",
+  "tamanho": 34782969,
+  "publicado_em": "2026-10-25T09:08:58"
 }
