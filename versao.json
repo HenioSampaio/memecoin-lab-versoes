@@ -1,14 +1,11 @@
 {
-  "versao": "2.24",
+  "versao": "2.25",
   "data": "25/10/2026",
   "notas": [
-    "Queda rápida: sai quando a moeda cai 15% do topo dos últimos 40 s, sem esperar o stop. No replay das 48 operações com preço a cada 16 s, a média foi de −21% para −10%.",
-    "Moeda com menos de 60 min só é copiada se 3 ou mais carteiras compraram em 30 min (copiadas abaixo de 60 min: −28% a −34%; acima: +2%).",
-    "Banco: carteira com 4+ cópias e média abaixo de −30% para de ser copiada e segue no teste-sombra; volta sozinha quando as compras dela voltarem a dar lucro. Aparece na geladeira com o motivo.",
-    "Ajustes: as três regras têm controle próprio (0 desliga)."
+    "Corrige a tela Carteiras, que não abria na 2.24."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.24/MemecoinLab.exe",
-  "sha256": "76118ac65ea2fc79153b3ae6208e30ea0ef68b87b770c8903f97d3622c18ce46",
-  "tamanho": 34877585,
-  "publicado_em": "2026-10-25T17:09:39"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.25/MemecoinLab.exe",
+  "sha256": "80ae16ffb9e339362a0b5527c89f8f24212264f9118ea687f5b815f6e07a6c35",
+  "tamanho": 34877931,
+  "publicado_em": "2026-10-25T17:17:23"
 }
