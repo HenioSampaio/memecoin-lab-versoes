@@ -83,6 +83,9 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 1.8.3 · 25/10/2026
+- Se o programa fechar ou atualizar no meio de uma avaliação de carteiras, ele retoma sozinho as que ficaram pendentes.
+
 ### 1.8.2 · 25/10/2026
 - Painel: Raio-x das operações (quantas fecharam em cada faixa de resultado) e Ritmo das últimas 24 h (compras vistas e copiadas por hora).
 - Moedas só observadas agora aparecem com o nome, não com o começo do endereço.
@@ -102,9 +105,6 @@ flowchart TB
 - Mais dados para aprender: vigia de novo todas as carteiras boas, mas copia só os traders; as outras ficam em observação (o preço é seguido por 4 h e entra no aprendizado, sem mexer no resultado).
 - Busca automática junta os rankings de 1, 7 e 30 dias do Kolscan: 88 carteiras em vez de 48.
 - Repositório de versões privado: o botão Atualizar usa uma chave de leitura do GitHub (Ajustes › Atualizações).
-
-### 1.7.2 · 25/10/2026
-- QR code da carteira do laboratório (Ajustes e Meu saldo › Real), com o passo a passo para mandar SOL pela Phantom do celular.
 
 <!-- NOVIDADES:FIM -->
 
