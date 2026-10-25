@@ -1,11 +1,13 @@
 {
-  "versao": "1.9.6",
+  "versao": "1.9.7",
   "data": "25/10/2026",
   "notas": [
-    "Campos em minutos mostram ao lado, pequenininho, quanto é em horas ou dias (ex.: 720 → ≈ 12 h, 1440 → ≈ 1 dia), mudando enquanto você digita."
+    "Importar ranking da Phantom: os endereços são procurados 3 perfis por vez (cerca de 4x mais rápido).",
+    "Corrigido o aviso \"não consegui ler o saldo atual\" na avaliação: contas de token em formato que a rede não lê são puladas.",
+    "Uma atualização não fica mais presa esperando a avaliação do ranking da Phantom terminar; a avaliação continua quando o programa abre de novo."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v1.9.6/MemecoinLab.exe",
-  "sha256": "00b1287bcaf9d64e6c73c769a2d45bc6173ecf3dec0f04b776bab08fff19fb4f",
-  "tamanho": 34777735,
-  "publicado_em": "2026-10-25T08:28:17"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v1.9.7/MemecoinLab.exe",
+  "sha256": "d125e9a887b5f79ae9faaf23ffb51bba3ed6c7ac638d9e512cee0afb0da7a16d",
+  "tamanho": 34777672,
+  "publicado_em": "2026-10-25T08:38:16"
 }
