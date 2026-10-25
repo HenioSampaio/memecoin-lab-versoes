@@ -1,17 +1,14 @@
 {
-  "versao": "1.6.2",
+  "versao": "1.7",
   "data": "24/10/2026",
   "notas": [
-    "Resumo do dia animado: resultado contando, anel de acerto, cada moeda com barra de lucro ou prejuízo, saldo e investido. Aparece ao fechar o programa, ao desligar o laboratório e no botão Painel › Resumo do dia.",
-    "Ao fechar, o resumo também vai para o Telegram.",
-    "Painel reorganizado: as duas colunas ficam equilibradas e \"Acontecendo agora\" tem rolagem própria, com compras repetidas juntas numa linha (\"7×\").",
-    "Ícone de quase todas as moedas: a foto agora vem dos dados da própria moeda (Jupiter), não só das que pagaram perfil no DexScreener.",
-    "Sons: moedinha quando fecha no lucro ou bate o alvo, tom grave no prejuízo e um \"pop\" na compra. Botão 🔊 no topo para silenciar.",
-    "Telegram de cara nova: o valor em reais primeiro, quadradinhos verde/vermelho do dia, a lista das moedas recolhida e a vibe do dia.",
-    "Base do aprendizado: cada compra agora guarda o contexto (hora, dia, idade e liquidez da moeda, concentração, atraso, quantas carteiras entraram, movimento do mercado) e o caminho do preço depois. É disso que a recomendação automática vai aprender."
+    "Recomendação automática (Estratégia): o laboratório revive cada operação com o preço real minuto a minuto e testa 200 combinações de venda (alvo, stop, tempo, seguir ou não o líder); também separa por horário, dia, liquidez, idade da moeda, atraso e número de carteiras.",
+    "Só recomenda quando a melhora se repete na maioria dos sorteios estatísticos, com confiança baixa, média ou alta. Ligado, aplica sozinho as de confiança média ou alta, uma por vez, e avisa no Telegram. Tudo tem Desfazer.",
+    "Segue o preço por 4 h também das moedas BARRADAS, para conferir se cada filtro está acertando. Afrouxar filtro nunca é automático.",
+    "Contexto que dá prejuízo passa a ser evitado; no teste, 1 em cada 5 ainda é copiado para ele continuar aprendendo. No dinheiro real, a regra vale sempre."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v1.6.2/MemecoinLab.exe",
-  "sha256": "6deb999c940b1d346810185634c8feb7211f0186eec3c881dad9755c6abd6d38",
-  "tamanho": 34598098,
-  "publicado_em": "2026-10-24T21:14:46"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v1.7/MemecoinLab.exe",
+  "sha256": "a043d923fbd83a11b6458bbc66bfdd297e39ca20bb84327316776a08f999f6ba",
+  "tamanho": 34616251,
+  "publicado_em": "2026-10-24T23:54:52"
 }
