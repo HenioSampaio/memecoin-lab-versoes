@@ -83,6 +83,9 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 1.9.9 · 25/10/2026
+- Carteiras › Colar uma lista aceita links (solscan.io/account/…, gmgn.ai, birdeye), um por linha, além do endereço puro.
+
 ### 1.9.8 · 25/10/2026
 - Importar ranking da Phantom: os endereços são procurados 3 perfis por vez (cerca de 4x mais rápido).
 - Ajustes: os limites do dinheiro real (valor de cada compra, máximo ao mesmo tempo, pausa por perda no dia) e a chave liga/desliga voltaram para dentro de Dinheiro real; tinham ido parar embaixo de Atualizações.
@@ -99,9 +102,6 @@ flowchart TB
 - O vigia dos traders e a avaliação dividem o limite do Helius sem disputar (menos espera e menos erro de limite).
 - Stop mais rápido: na venda total, usa a cotação que acabou de conferir (antes pedia duas vezes ao Jupiter, com 1 s de espera no meio).
 - Estratégia › Idade mínima da moeda (desligada): para não entrar em moeda de poucos minutos de vida.
-
-### 1.9.4 · 25/10/2026
-- "Segurar quando a carteira vende" ganhou trava: se a venda do líder é grande perto da liquidez da moeda (3% do caixa ou mais), ele não segura, porque essa venda é a própria queda.
 
 <!-- NOVIDADES:FIM -->
 
