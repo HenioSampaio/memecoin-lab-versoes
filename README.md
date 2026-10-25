@@ -83,6 +83,10 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.6 · 25/10/2026
+- Telegram: escreva o nome da moeda (ex.: bonk), use /moeda ou cole o endereço. Vem a ficha com nota de confiança de 0 a 100 (🟢🟡🔴) e os motivos, cada um contando uma vez: filtros de segurança, verificada, movimento orgânico, liquidez, idade, concentração, insiders e quantas das nossas carteiras compraram.
+- Avisos ao vivo mais leves: o nó manda centenas de avisos por segundo de robôs com transação que falhou; agora eles são descartados sem ler a mensagem inteira (11x mais rápido, conferido com 6 mil avisos reais).
+
 ### 2.5 · 25/10/2026
 - Teste-sombra (Estratégia): cada compra vista e não copiada (só observada ou barrada) vira uma operação simulada com as suas regras de venda sobre o preço real das 4 h seguintes. Compara copiadas × observadas × barradas e diz se escolher traders e filtrar está valendo a pena. São ~30x mais dados que só as copiadas.
 - O aprendizado das regras de venda usa também as sombras das carteiras observadas: chega muito mais rápido às 20 operações para recomendar com confiança (a tela mostra quantas são do teste e quantas são sombras).
@@ -100,13 +104,6 @@ flowchart TB
 - Barras de rolagem finas, arredondadas e na cor do programa, sem encostar no conteúdo das janelas.
 - Extrato com os valores alinhados à direita.
 - "stop: caiu 20.0%" virou "stop: caiu 20%".
-
-### 2.2 · 25/10/2026
-- Recomendação mais clara: mostra só o que muda (ex.: Stop −20% → −40%), o efeito em média por operação e por que a confiança é baixa ou alta.
-- Mudanças na estratégia mostram o que mudou em cada vez; Desfazer só na mais recente (desfazer uma antiga misturaria as regras).
-- Celular: os botões Teste/Real e o período do gráfico não saem mais da tela; textos de Ajustes, Estratégia e das janelas quebram a linha em vez de cortar com "…"; campos de PIN cabem na tela; seletores (cores, movimento) descem para a linha de baixo.
-- Ajustes › Instalar o Tailscale avisa que no computador ele precisa de administrador; sem isso, o acesso de fora é pelo bot do Telegram.
-- Botões lado a lado nunca quebram o texto em duas linhas: se não cabem, descem inteiros; seletores um pouco mais altos para tocar.
 
 <!-- NOVIDADES:FIM -->
 
