@@ -83,6 +83,14 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.13 · 25/10/2026
+- Jupiter numa fila só para o programa inteiro, no limite real dela (5 pedidos a cada 10 s, medido): antes cada parte pedia por conta própria e a Jupiter recusava. A fila tem prioridade: venda primeiro, depois conferir posições, depois compras, por último fotos e busca; quando a Jupiter manda esperar, ele espera o tempo que ela disse.
+- Limite da Jupiter não vira mais "sem rota de compra" (que barrava a moeda como se fosse ruim): aparece como "Jupiter ocupada" e, em posição aberta, não conta como moeda morta.
+- Compra decide mais rápido: RugCheck e DexScreener rodam ao mesmo tempo, e a Jupiter só é chamada se a moeda passou nos outros filtros (2 de cada 3 são barradas antes, sem gastar a cota).
+- Ao ligar ou atualizar, o laboratório volta a vigiar na hora (antes ficava ~70 s cego preparando cada carteira).
+- Helius com folga: a avaliação de carteiras usa 6 pedidos/s (era 7) e respeita o "espere" que o Helius manda.
+- Ajustes › Conexões: saúde de cada conexão ao vivo e da Jupiter (pedidos, quantas vezes mandou esperar, espera média, fila).
+
 ### 2.12 · 25/10/2026
 - Carteiras: campo de busca pelo nome ou endereço. Se a carteira estiver em outra aba, ele avisa onde e leva até lá com um toque.
 - Teste-sombra: conclusões mais curtas e em letra menor.
@@ -95,10 +103,6 @@ flowchart TB
 - Listas de contexto (onde copiar funciona, filtros, por que saímos) no estilo Apple: rótulo à esquerda e o número à direita, sem a barra que saía do centro.
 - Carteiras: a opção do dinheiro real aparece só na aba Por minha conta, separada da lista.
 - Moedas em movimento: a borda da moeda em destaque não é mais cortada pela barra de rolagem.
-
-### 2.9 · 25/10/2026
-- Visual no estilo Apple: cartões, listas, barras e janelas em vidro (translúcido com desfoque sobre um fundo de cor suave); com "reduzir transparência" do sistema ligado, volta ao visual sólido.
-- Sem emoji em títulos, botões, seletores e etiquetas: só texto; onde precisa de ícone, ícones de traço fino (estilo SF Symbols), incluindo som, tema, menu e a busca rápida.
 
 <!-- NOVIDADES:FIM -->
 
