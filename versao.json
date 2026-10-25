@@ -1,11 +1,14 @@
 {
-  "versao": "2.0",
+  "versao": "2.1",
   "data": "25/10/2026",
   "notas": [
-    "Toque numa operação fechada (Painel › Últimas operações ou no Raio-x) e veja tudo dela: o caminho do preço com as marcações, a linha do tempo, cada venda nossa em SOL e reais, como estava a moeda na entrada (idade, liquidez, concentração, quanto o líder comprou, nosso atraso) e o que a moeda fez DEPOIS que saímos (saímos cedo ou saímos bem)."
+    "Garimpo na blockchain (Carteiras › ⛏️ Garimpar, e junto da busca automática): pega as moedas que mais subiram em 24 h, lê na blockchain quem comprou pelo menos 3x mais barato que o preço de agora (pulando os robôs do primeiro minuto) e manda essas carteiras para a avaliação de lucro real. Acha trader que nenhum ranking mostra.",
+    "PIN de segurança de 6 números: pedido para sacar e para mostrar a chave da carteira (criado na primeira vez; 5 erros travam por 15 min). Troca em Ajustes › Dinheiro real.",
+    "Carteira do laboratório em cartão: saldo grande em SOL e reais, endereço curto com Copiar e QR, e Retirar / Levar para a Phantom como botões lado a lado.",
+    "Mais fotos de moedas: se a fonte da foto falha, tenta de novo e busca a cópia do DexScreener; a tela não guarda mais \"sem foto\" por 1 hora (a foto aparece assim que existir)."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.0/MemecoinLab.exe",
-  "sha256": "2387e30e6cfb64de623863c4dbb4af1f6af619973d98df6d31ece8e44fd9b59c",
-  "tamanho": 34782969,
-  "publicado_em": "2026-10-25T09:08:58"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.1/MemecoinLab.exe",
+  "sha256": "7d60bdc4dff742848906a4fd98ace57e2b3d505cf875cc9efaf3144f27db5e8f",
+  "tamanho": 34796290,
+  "publicado_em": "2026-10-25T09:21:40"
 }
