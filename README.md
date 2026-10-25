@@ -83,6 +83,9 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.26 · 25/10/2026
+- Uma carteira, uma banca: o modo por conta própria compra com o mesmo caixa do copy trade (Ajustes › Banca do teste). Em Meu saldo, o total é o da carteira e o resultado é o de cada modo.
+
 ### 2.25 · 25/10/2026
 - Corrige a tela Carteiras, que não abria na 2.24.
 
@@ -97,11 +100,6 @@ flowchart TB
 - O aprendizado testa a proteção de lucro junto com alvo, stop e tempo e recomenda o melhor nível.
 - Compras pagas em dólar (USDC/USDT) agora contam pelo valor em SOL. Antes eram lidas como 0 SOL e ignoradas como compra pequena (caso do hheat).
 - Painel: posições do modo por conta própria na mesma lista, com a etiqueta "compra por conta própria".
-
-### 2.22 · 25/10/2026
-- Meu saldo › Autônomo: saldo, investido, resultado e extrato da banca do modo por conta própria.
-- Carteiras achadas na caça com nome curto (ex.: caça MriyaN) em todas as telas.
-- Atualização mais segura: antes de fechar para trocar de versão, o programa confere se a troca começou; se não começou, continua aberto na versão atual em vez de ficar fechado.
 
 <!-- NOVIDADES:FIM -->
 
