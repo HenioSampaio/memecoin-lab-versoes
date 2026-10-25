@@ -83,6 +83,12 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 1.7 · 24/10/2026
+- Recomendação automática (Estratégia): o laboratório revive cada operação com o preço real minuto a minuto e testa 200 combinações de venda (alvo, stop, tempo, seguir ou não o líder); também separa por horário, dia, liquidez, idade da moeda, atraso e número de carteiras.
+- Só recomenda quando a melhora se repete na maioria dos sorteios estatísticos, com confiança baixa, média ou alta. Ligado, aplica sozinho as de confiança média ou alta, uma por vez, e avisa no Telegram. Tudo tem Desfazer.
+- Segue o preço por 4 h também das moedas BARRADAS, para conferir se cada filtro está acertando. Afrouxar filtro nunca é automático.
+- Contexto que dá prejuízo passa a ser evitado; no teste, 1 em cada 5 ainda é copiado para ele continuar aprendendo. No dinheiro real, a regra vale sempre.
+
 ### 1.6.2 · 24/10/2026
 - Resumo do dia animado: resultado contando, anel de acerto, cada moeda com barra de lucro ou prejuízo, saldo e investido. Aparece ao fechar o programa, ao desligar o laboratório e no botão Painel › Resumo do dia.
 - Ao fechar, o resumo também vai para o Telegram.
@@ -112,14 +118,6 @@ flowchart TB
 - Tela de boas-vindas com os 3 passos para começar num computador novo.
 - Erros da tela vão para data\erros_tela.log (ajuda no suporte).
 - Programa menor e página no GitHub nova, com fotos e passo a passo.
-
-### 1.5 · 24/10/2026
-- Página Estratégia: ajuste pela tela quando vender, os filtros de segurança e o tamanho das entradas, com análise de risco (exposição máxima e perda por operação).
-- Aprendizado: depois de 8 operações, carteira que dá prejuízo quando NÓS copiamos é pausada no dinheiro real sozinha.
-- Barra no topo com busca rápida (Ctrl+K) e troca de tema (automático, escuro, claro); versão embaixo do nome.
-- Visual Grafite opcional (cinza, azul e verde) em Ajustes › Visual.
-- Aviso na tela a cada compra e venda.
-- Corrigido: depois de atualizar, o programa reabre sozinho na versão nova.
 
 <!-- NOVIDADES:FIM -->
 
