@@ -83,6 +83,16 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 1.8 · 25/10/2026
+- Nova tela Mercado: ranking das moedas em alta, das que acabaram de nascer, das que as nossas carteiras mexeram e das que várias compraram juntas, com o gráfico de quem mais subiu e atualização sozinha.
+- Página da moeda com gráfico de velas (1m, 5m, 15m, 1h) que se atualiza sozinho, com as nossas compras e vendas marcadas, valor de mercado, liquidez, compras × vendas e checagem de segurança.
+- Carteiras refeitas: quem o laboratório está copiando, quem está na geladeira e quem está fora (e por quê), o estilo de cada uma (trader, scalper, robô) e o resultado de copiar.
+- Levar para a Phantom (Ajustes): a carteira do laboratório aparece no seu celular e você saca mesmo sem este computador.
+- Menos botões repetidos: Radar e Checar moeda viraram parte do Mercado; "Avaliar novas" saiu (a avaliação já é automática).
+- Mais dados para aprender: vigia de novo todas as carteiras boas, mas copia só os traders; as outras ficam em observação (o preço é seguido por 4 h e entra no aprendizado, sem mexer no resultado).
+- Busca automática junta os rankings de 1, 7 e 30 dias do Kolscan: 88 carteiras em vez de 48.
+- Repositório de versões privado: o botão Atualizar usa uma chave de leitura do GitHub (Ajustes › Atualizações).
+
 ### 1.7.2 · 25/10/2026
 - QR code da carteira do laboratório (Ajustes e Meu saldo › Real), com o passo a passo para mandar SOL pela Phantom do celular.
 
@@ -99,15 +109,6 @@ flowchart TB
 - Só recomenda quando a melhora se repete na maioria dos sorteios estatísticos, com confiança baixa, média ou alta. Ligado, aplica sozinho as de confiança média ou alta, uma por vez, e avisa no Telegram. Tudo tem Desfazer.
 - Segue o preço por 4 h também das moedas BARRADAS, para conferir se cada filtro está acertando. Afrouxar filtro nunca é automático.
 - Contexto que dá prejuízo passa a ser evitado; no teste, 1 em cada 5 ainda é copiado para ele continuar aprendendo. No dinheiro real, a regra vale sempre.
-
-### 1.6.2 · 24/10/2026
-- Resumo do dia animado: resultado contando, anel de acerto, cada moeda com barra de lucro ou prejuízo, saldo e investido. Aparece ao fechar o programa, ao desligar o laboratório e no botão Painel › Resumo do dia.
-- Ao fechar, o resumo também vai para o Telegram.
-- Painel reorganizado: as duas colunas ficam equilibradas e "Acontecendo agora" tem rolagem própria, com compras repetidas juntas numa linha ("7×").
-- Ícone de quase todas as moedas: a foto agora vem dos dados da própria moeda (Jupiter), não só das que pagaram perfil no DexScreener.
-- Sons: moedinha quando fecha no lucro ou bate o alvo, tom grave no prejuízo e um "pop" na compra. Botão 🔊 no topo para silenciar.
-- Telegram de cara nova: o valor em reais primeiro, quadradinhos verde/vermelho do dia, a lista das moedas recolhida e a vibe do dia.
-- Base do aprendizado: cada compra agora guarda o contexto (hora, dia, idade e liquidez da moeda, concentração, atraso, quantas carteiras entraram, movimento do mercado) e o caminho do preço depois. É disso que a recomendação automática vai aprender.
 
 <!-- NOVIDADES:FIM -->
 
