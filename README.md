@@ -83,6 +83,11 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 1.9.2 · 25/10/2026
+- Menos botões repetidos: Estratégia tem um Salvar só (religa sozinho); saíram de Ajustes o relatório antigo, "Reavaliar todas" (já é automático), o guia e o GitHub (estão na lateral); Adicionar carteiras não repete mais o Kolscan da busca automática.
+- Filtros: o aviso "Low Liquidity" do RugCheck não barra mais em dobro (vale a sua régua de liquidez mínima) e moeda recém-criada sem rota no Jupiter ganha uma segunda tentativa.
+- Moedas em movimento com o mesmo nome (cópias) mostram o começo do endereço para diferenciar.
+
 ### 1.9.1 · 25/10/2026
 - Banca e tamanho das entradas do teste ficam só na Estratégia (saíram repetidos de Ajustes › Avançado, que ganhou um atalho para lá).
 
@@ -96,9 +101,6 @@ flowchart TB
 
 ### 1.8.8 · 25/10/2026
 - Todo campo em SOL (Estratégia, Ajustes, retirar saldo) mostra o valor em reais pequenininho ao lado, mudando enquanto você digita; os quadros de risco também.
-
-### 1.8.7 · 25/10/2026
-- Mais fotos de moedas recém-nascidas (cópia rápida do Helius) e o "sem foto" é conferido de novo a cada 10 min.
 
 <!-- NOVIDADES:FIM -->
 
