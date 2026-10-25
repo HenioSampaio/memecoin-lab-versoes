@@ -1,12 +1,12 @@
 {
-  "versao": "2.7",
+  "versao": "2.8",
   "data": "25/10/2026",
   "notas": [
-    "Carteiras › carteira que está \"fora\" › Copiar mesmo assim (por minha conta): ela entra na cópia do teste mesmo sem passar nas regras (veredito, tempo segurando, robô); no dinheiro real continua valendo só \"ok p/ testar\". Aparece como \"copiando por sua conta\" e dá para desfazer; a geladeira continua valendo.",
-    "Robô x pessoa mais justo: conta MOEDAS diferentes por hora, não trocas. Quem vende cada moeda em várias partes (ex.: Yami, 330 trocas em 32 moedas) deixou de ser marcado como robô; robô continua sendo quem entra numa moeda nova a cada 3 min, não dorme ou gira 1 a 3 moedas sem parar (robô de volume). Com isso 13 carteiras voltaram a ser copiáveis."
+    "Carteiras: opção \"Carteiras por minha conta também no dinheiro real\" (desligada = as que você manda copiar ficam só no teste) e filtro 👤 Por minha conta na lista.",
+    "O aviso do botão Copiar mesmo assim diz exatamente se aquela carteira entraria ou não no dinheiro real."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.7/MemecoinLab.exe",
-  "sha256": "66a8078a89aa10611382b3ab66bc7e2f3bdd57314db501d942f4a397a6a38185",
-  "tamanho": 34816972,
-  "publicado_em": "2026-10-25T10:58:42"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.8/MemecoinLab.exe",
+  "sha256": "696e2953e0567f2a157595ee9ed5d26f72653d8e7b3fca4ca84cc6c3054ef01a",
+  "tamanho": 34815469,
+  "publicado_em": "2026-10-25T11:11:07"
 }
