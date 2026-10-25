@@ -1,13 +1,12 @@
 {
-  "versao": "1.9.2",
+  "versao": "1.9.3",
   "data": "25/10/2026",
   "notas": [
-    "Menos botões repetidos: Estratégia tem um Salvar só (religa sozinho); saíram de Ajustes o relatório antigo, \"Reavaliar todas\" (já é automático), o guia e o GitHub (estão na lateral); Adicionar carteiras não repete mais o Kolscan da busca automática.",
-    "Filtros: o aviso \"Low Liquidity\" do RugCheck não barra mais em dobro (vale a sua régua de liquidez mínima) e moeda recém-criada sem rota no Jupiter ganha uma segunda tentativa.",
-    "Moedas em movimento com o mesmo nome (cópias) mostram o começo do endereço para diferenciar."
+    "Carteiras › Adicionar › Importar ranking da Phantom (.json): cada trader com perfil público entra na lista e é avaliado. Os 88 do ranking do mês já entraram.",
+    "Gráfico da posição refeito: sem o pico falso de leitura, área verde/vermelha a partir da entrada, linhas do alvo e do stop, valor de agora na escala, leitura ao passar o mouse com reais e atualização ao vivo; botão para o gráfico de velas da moeda."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v1.9.2/MemecoinLab.exe",
-  "sha256": "fdc5c0526091da24890a162cd353d17ec0ad6a4545509d5a525e55bfd3b80e9a",
-  "tamanho": 34771246,
-  "publicado_em": "2026-10-25T02:20:36"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v1.9.3/MemecoinLab.exe",
+  "sha256": "dd1a46f1d7cc13d539a9e3eccf52b0e1176029dc3e7f0c0eed4567f78698bf3c",
+  "tamanho": 34774232,
+  "publicado_em": "2026-10-25T02:41:08"
 }
