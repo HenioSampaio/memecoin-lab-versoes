@@ -83,6 +83,12 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.15 · 25/10/2026
+- Traders com duas fontes ao vivo ao mesmo tempo: o nó oficial da Solana (no teste, entregou primeiro 89% das transações) e o PublicNode. Vale o aviso que chegar primeiro; se uma cair, a outra segue vigiando e não há janela cega. Grátis, sem conta.
+- Alerta de convergência no Telegram diz a decisão: o que fizemos com cada carteira (copiamos, barrada por quê, só observada por quê) e se compramos ou não.
+- Experimento no teste-sombra (Estratégia): compras barradas pela idade mínima com 3+ carteiras comprando × sem convergência, simuladas com as suas regras de venda. Só medição; nenhuma compra muda.
+- Fila de avaliação: carteiras achadas na caça por fora (negociando agora) são avaliadas primeiro.
+
 ### 2.14 · 25/10/2026
 - Ajustes › Conexões › Chave da Jupiter: cole uma Server key grátis do portal.jup.ag e o limite de cotações dobra (1 por segundo). O programa testa a chave na Jupiter antes de guardar; ela fica só neste computador.
 
@@ -97,9 +103,6 @@ flowchart TB
 ### 2.12 · 25/10/2026
 - Carteiras: campo de busca pelo nome ou endereço. Se a carteira estiver em outra aba, ele avisa onde e leva até lá com um toque.
 - Teste-sombra: conclusões mais curtas e em letra menor.
-
-### 2.11 · 25/10/2026
-- Estratégia › Idade máxima da moeda aceita até 30 dias (43.200 min).
 
 <!-- NOVIDADES:FIM -->
 
