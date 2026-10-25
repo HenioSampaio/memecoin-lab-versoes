@@ -83,6 +83,11 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.33 · 25/10/2026
+- Comprar virou botão na ficha da moeda, com popup: Teste ou Dinheiro real, valores rápidos (0,05 a 1 SOL) ou o seu, e o R$ ao lado.
+- Dinheiro real na compra manual e no sininho: respeita o teto, o limite de posições, a perda do dia e o saldo da carteira do laboratório; a saída segue as regras da Estratégia. Pelo celular pede o PIN de segurança; no Telegram a compra continua só no teste.
+- Por conta própria: valor por compra ajustável (com nota alta vai até o dobro), vale na hora.
+
 ### 2.32 · 25/10/2026
 - Sininho virou ícone: no topo da ficha da moeda, ao lado da estrela, com o número de degraus armados; tocando, abre um popup para criar e apagar.
 
@@ -94,10 +99,6 @@ flowchart TB
 ### 2.30 · 25/10/2026
 - Mercado › Várias juntas: nome da moeda, valor de mercado e quanto ela já subiu desde a 1ª compra das nossas carteiras (diz se ainda está cedo ou já é tarde).
 - Telegram › Várias juntas: a mesma lista, numerada, com variação desde a 1ª compra e botão para a ficha da moeda (e o Comprar no teste).
-
-### 2.29 · 25/10/2026
-- Compra manual no teste: na ficha de qualquer moeda (busca, Painel, Radar) ou no Telegram, escolha o valor e compre. A venda segue as regras da Estratégia (stop, alvo, queda rápida, proteção de lucro) e você pode vender quando quiser.
-- Estratégia › Sair depois de: 0 desliga o tempo máximo.
 
 <!-- NOVIDADES:FIM -->
 
