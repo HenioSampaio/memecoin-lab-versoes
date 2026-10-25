@@ -1,11 +1,11 @@
 {
-  "versao": "1.8.6",
+  "versao": "1.8.7",
   "data": "25/10/2026",
   "notas": [
-    "Atualizar não fica mais bloqueado durante a avaliação de carteiras: ela é interrompida e retoma sozinha quando o programa reabre."
+    "Mais fotos de moedas recém-nascidas (cópia rápida do Helius) e o \"sem foto\" é conferido de novo a cada 10 min."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v1.8.6/MemecoinLab.exe",
-  "sha256": "57a6e88276c1c5bb3635aa8769ca1ec38b307d5856f055ea4741092fb7e3d944",
-  "tamanho": 34759289,
-  "publicado_em": "2026-10-25T01:28:00"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v1.8.7/MemecoinLab.exe",
+  "sha256": "dc4963f8c19efe0e3903bab90ba2a4ddf5677efb6d9cb70fe9dd88f3de3374da",
+  "tamanho": 34759317,
+  "publicado_em": "2026-10-25T01:33:12"
 }
