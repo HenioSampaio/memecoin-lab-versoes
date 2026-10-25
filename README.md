@@ -83,6 +83,9 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 1.9.1 · 25/10/2026
+- Banca e tamanho das entradas do teste ficam só na Estratégia (saíram repetidos de Ajustes › Avançado, que ganhou um atalho para lá).
+
 ### 1.9 · 25/10/2026
 - Os traders copiados têm conexão, fila e leitura de transações só deles (pelo Helius): as carteiras observadas nunca atrasam uma cópia.
 - Carteira só observada manda no máximo 1 aviso a cada 30 s: a fila parou de entupir.
@@ -96,9 +99,6 @@ flowchart TB
 
 ### 1.8.7 · 25/10/2026
 - Mais fotos de moedas recém-nascidas (cópia rápida do Helius) e o "sem foto" é conferido de novo a cada 10 min.
-
-### 1.8.6 · 25/10/2026
-- Atualizar não fica mais bloqueado durante a avaliação de carteiras: ela é interrompida e retoma sozinha quando o programa reabre.
 
 <!-- NOVIDADES:FIM -->
 
