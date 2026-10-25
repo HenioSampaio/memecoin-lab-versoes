@@ -1,11 +1,13 @@
 {
-  "versao": "2.32",
+  "versao": "2.33",
   "data": "25/10/2026",
   "notas": [
-    "Sininho virou ícone: no topo da ficha da moeda, ao lado da estrela, com o número de degraus armados; tocando, abre um popup para criar e apagar."
+    "Comprar virou botão na ficha da moeda, com popup: Teste ou Dinheiro real, valores rápidos (0,05 a 1 SOL) ou o seu, e o R$ ao lado.",
+    "Dinheiro real na compra manual e no sininho: respeita o teto, o limite de posições, a perda do dia e o saldo da carteira do laboratório; a saída segue as regras da Estratégia. Pelo celular pede o PIN de segurança; no Telegram a compra continua só no teste.",
+    "Por conta própria: valor por compra ajustável (com nota alta vai até o dobro), vale na hora."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.32/MemecoinLab.exe",
-  "sha256": "bed30ea316e285bd8335073c066b1ef78390451d9e35ddb5ee102b53de3224b4",
-  "tamanho": 34894299,
-  "publicado_em": "2026-10-25T19:27:51"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.33/MemecoinLab.exe",
+  "sha256": "63e7f3787c01405e4d1bb43d433e67be783885cfa6d5b0e162fa60dfff1c541a",
+  "tamanho": 34896233,
+  "publicado_em": "2026-10-25T19:44:32"
 }
