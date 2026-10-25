@@ -83,6 +83,9 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.11 · 25/10/2026
+- Estratégia › Idade máxima da moeda aceita até 30 dias (43.200 min).
+
 ### 2.10 · 25/10/2026
 - Teste-sombra mais claro: três números grandes lado a lado (copiadas, só observadas, barradas), a conclusão com um ✓ e a explicação em "Como funciona".
 - Listas de contexto (onde copiar funciona, filtros, por que saímos) no estilo Apple: rótulo à esquerda e o número à direita, sem a barra que saía do centro.
@@ -96,10 +99,6 @@ flowchart TB
 ### 2.8 · 25/10/2026
 - Carteiras: opção "Carteiras por minha conta também no dinheiro real" (desligada = as que você manda copiar ficam só no teste) e filtro 👤 Por minha conta na lista.
 - O aviso do botão Copiar mesmo assim diz exatamente se aquela carteira entraria ou não no dinheiro real.
-
-### 2.7 · 25/10/2026
-- Carteiras › carteira que está "fora" › Copiar mesmo assim (por minha conta): ela entra na cópia do teste mesmo sem passar nas regras (veredito, tempo segurando, robô); no dinheiro real continua valendo só "ok p/ testar". Aparece como "copiando por sua conta" e dá para desfazer; a geladeira continua valendo.
-- Robô x pessoa mais justo: conta MOEDAS diferentes por hora, não trocas. Quem vende cada moeda em várias partes (ex.: Yami, 330 trocas em 32 moedas) deixou de ser marcado como robô; robô continua sendo quem entra numa moeda nova a cada 3 min, não dorme ou gira 1 a 3 moedas sem parar (robô de volume). Com isso 13 carteiras voltaram a ser copiáveis.
 
 <!-- NOVIDADES:FIM -->
 
