@@ -1,11 +1,13 @@
 {
-  "versao": "1.9.1",
+  "versao": "1.9.2",
   "data": "25/10/2026",
   "notas": [
-    "Banca e tamanho das entradas do teste ficam só na Estratégia (saíram repetidos de Ajustes › Avançado, que ganhou um atalho para lá)."
+    "Menos botões repetidos: Estratégia tem um Salvar só (religa sozinho); saíram de Ajustes o relatório antigo, \"Reavaliar todas\" (já é automático), o guia e o GitHub (estão na lateral); Adicionar carteiras não repete mais o Kolscan da busca automática.",
+    "Filtros: o aviso \"Low Liquidity\" do RugCheck não barra mais em dobro (vale a sua régua de liquidez mínima) e moeda recém-criada sem rota no Jupiter ganha uma segunda tentativa.",
+    "Moedas em movimento com o mesmo nome (cópias) mostram o começo do endereço para diferenciar."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v1.9.1/MemecoinLab.exe",
-  "sha256": "fa158581d651cc49dc17d190817658a6b91caeb9ef04cd3839e8125713f604e0",
-  "tamanho": 34768433,
-  "publicado_em": "2026-10-25T02:04:22"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v1.9.2/MemecoinLab.exe",
+  "sha256": "fdc5c0526091da24890a162cd353d17ec0ad6a4545509d5a525e55bfd3b80e9a",
+  "tamanho": 34771246,
+  "publicado_em": "2026-10-25T02:20:36"
 }
