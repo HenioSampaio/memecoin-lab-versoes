@@ -1,12 +1,16 @@
 {
-  "versao": "2.12",
+  "versao": "2.13",
   "data": "25/10/2026",
   "notas": [
-    "Carteiras: campo de busca pelo nome ou endereço. Se a carteira estiver em outra aba, ele avisa onde e leva até lá com um toque.",
-    "Teste-sombra: conclusões mais curtas e em letra menor."
+    "Jupiter numa fila só para o programa inteiro, no limite real dela (5 pedidos a cada 10 s, medido): antes cada parte pedia por conta própria e a Jupiter recusava. A fila tem prioridade: venda primeiro, depois conferir posições, depois compras, por último fotos e busca; quando a Jupiter manda esperar, ele espera o tempo que ela disse.",
+    "Limite da Jupiter não vira mais \"sem rota de compra\" (que barrava a moeda como se fosse ruim): aparece como \"Jupiter ocupada\" e, em posição aberta, não conta como moeda morta.",
+    "Compra decide mais rápido: RugCheck e DexScreener rodam ao mesmo tempo, e a Jupiter só é chamada se a moeda passou nos outros filtros (2 de cada 3 são barradas antes, sem gastar a cota).",
+    "Ao ligar ou atualizar, o laboratório volta a vigiar na hora (antes ficava ~70 s cego preparando cada carteira).",
+    "Helius com folga: a avaliação de carteiras usa 6 pedidos/s (era 7) e respeita o \"espere\" que o Helius manda.",
+    "Ajustes › Conexões: saúde de cada conexão ao vivo e da Jupiter (pedidos, quantas vezes mandou esperar, espera média, fila)."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.12/MemecoinLab.exe",
-  "sha256": "a1104cb95d602d62793b9b8ca772de7ddb81744bf13c136ee99b62df3c245673",
-  "tamanho": 34821102,
-  "publicado_em": "2026-10-25T11:49:43"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.13/MemecoinLab.exe",
+  "sha256": "304e0358adc1ba62a263f0802e63de9844d7308fe41d95c9c8e3b1290a86c422",
+  "tamanho": 34825960,
+  "publicado_em": "2026-10-25T12:56:30"
 }
