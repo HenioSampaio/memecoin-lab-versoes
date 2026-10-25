@@ -83,6 +83,10 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.18 · 25/10/2026
+- Convergência vira ação: quando 3+ carteiras compram a mesma moeda, o modo Por conta própria avalia a moeda na hora (nota + filtros de segurança) e compra no teste se passar. A tela Autônomo mostra essas candidatas como "convergência de N carteiras".
+- Convergência só conta compra de verdade (pelo menos o mínimo da Estratégia): compras de pó não disparam mais o aviso. Nomes curtos no aviso (ex.: "caça MriyaN").
+
 ### 2.17 · 25/10/2026
 - Por conta própria: corrigido o aprendizado, que roda em paralelo e não conseguia ler os exemplos ("erro ao aprender"). Agora reajusta a nota a cada 10 min assim que houver 40 exemplos.
 
@@ -95,9 +99,6 @@ flowchart TB
 - Alerta de convergência no Telegram diz a decisão: o que fizemos com cada carteira (copiamos, barrada por quê, só observada por quê) e se compramos ou não.
 - Experimento no teste-sombra (Estratégia): compras barradas pela idade mínima com 3+ carteiras comprando × sem convergência, simuladas com as suas regras de venda. Só medição; nenhuma compra muda.
 - Fila de avaliação: carteiras achadas na caça por fora (negociando agora) são avaliadas primeiro.
-
-### 2.14 · 25/10/2026
-- Ajustes › Conexões › Chave da Jupiter: cole uma Server key grátis do portal.jup.ag e o limite de cotações dobra (1 por segundo). O programa testa a chave na Jupiter antes de guardar; ela fica só neste computador.
 
 <!-- NOVIDADES:FIM -->
 
