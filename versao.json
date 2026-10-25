@@ -1,13 +1,12 @@
 {
-  "versao": "2.28",
+  "versao": "2.29",
   "data": "25/10/2026",
   "notas": [
-    "Por conta própria: cartões de investido agora, quanto entra por compra (em SOL e R$) e o resultado sobre o que já investiu; cada operação mostra quanto investiu.",
-    "Nota mínima do modo por conta própria salva de verdade (a tela não apaga mais o que você digita) e vale na hora, sem religar o laboratório.",
-    "Telegram › Ajustes: liga e desliga os avisos de convergência (continuam no sininho do programa)."
+    "Compra manual no teste: na ficha de qualquer moeda (busca, Painel, Radar) ou no Telegram, escolha o valor e compre. A venda segue as regras da Estratégia (stop, alvo, queda rápida, proteção de lucro) e você pode vender quando quiser.",
+    "Estratégia › Sair depois de: 0 desliga o tempo máximo."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.28/MemecoinLab.exe",
-  "sha256": "ff36abb4b0a66452528052b0faf327053359451b51ad37ec5faf203e531b4d75",
-  "tamanho": 34880942,
-  "publicado_em": "2026-10-25T18:30:32"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.29/MemecoinLab.exe",
+  "sha256": "6159b55405182bf1314a8806df23719d80fc8cd0a4b48038aa816df297be3512",
+  "tamanho": 34883992,
+  "publicado_em": "2026-10-25T18:44:24"
 }
