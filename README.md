@@ -83,6 +83,11 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 1.9.7 · 25/10/2026
+- Importar ranking da Phantom: os endereços são procurados 3 perfis por vez (cerca de 4x mais rápido).
+- Corrigido o aviso "não consegui ler o saldo atual" na avaliação: contas de token em formato que a rede não lê são puladas.
+- Uma atualização não fica mais presa esperando a avaliação do ranking da Phantom terminar; a avaliação continua quando o programa abre de novo.
+
 ### 1.9.6 · 25/10/2026
 - Campos em minutos mostram ao lado, pequenininho, quanto é em horas ou dias (ex.: 720 → ≈ 12 h, 1440 → ≈ 1 dia), mudando enquanto você digita.
 
@@ -95,10 +100,6 @@ flowchart TB
 
 ### 1.9.4 · 25/10/2026
 - "Segurar quando a carteira vende" ganhou trava: se a venda do líder é grande perto da liquidez da moeda (3% do caixa ou mais), ele não segura, porque essa venda é a própria queda.
-
-### 1.9.3 · 25/10/2026
-- Carteiras › Adicionar › Importar ranking da Phantom (.json): cada trader com perfil público entra na lista e é avaliado. Os 88 do ranking do mês já entraram.
-- Gráfico da posição refeito: sem o pico falso de leitura, área verde/vermelha a partir da entrada, linhas do alvo e do stop, valor de agora na escala, leitura ao passar o mouse com reais e atualização ao vivo; botão para o gráfico de velas da moeda.
 
 <!-- NOVIDADES:FIM -->
 
