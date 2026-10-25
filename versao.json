@@ -1,14 +1,14 @@
 {
-  "versao": "2.3",
+  "versao": "2.4",
   "data": "25/10/2026",
   "notas": [
-    "Extrato: cada venda mostra o resultado dela (lucro ou prejuízo em % e em reais). O valor da venda é o que voltou para a banca, e não fica mais verde quando a operação deu prejuízo.",
-    "Barras de rolagem finas, arredondadas e na cor do programa, sem encostar no conteúdo das janelas.",
-    "Extrato com os valores alinhados à direita.",
-    "\"stop: caiu 20.0%\" virou \"stop: caiu 20%\"."
+    "Conexão ao vivo mais estável: as carteiras observadas são divididas em conexões de até 80 (o nó público recusava centenas numa só), a assinatura vai aos poucos e, se cair, ele espera cada vez mais para reconectar (5 s, 10 s, 20 s… até 1 min) em vez de insistir a cada 5 s.",
+    "Depois de uma queda, a recuperação das observadas olha só as moedas que temos (antes buscava o histórico das 200 a cada queda e sobrecarregava o nó, que caía de novo). Os traders copiados continuam com recuperação completa.",
+    "Sem enxurrada de \"erro lendo…\" no registro: falha na recuperação vira um aviso só, e erro de leitura diz o motivo (limite de pedidos, demora, servidor).",
+    "Garimpo: só escolhe moedas que dá para ler até o começo (não gasta mais 45 mil leituras para pular a moeda) e olha também as moedas novas que subiram nas últimas 6 h."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.3/MemecoinLab.exe",
-  "sha256": "2561471a0d43f3e65906ce71566cb24cc5b4b9efebc0563c6ac87e5f9dd2145c",
-  "tamanho": 34798291,
-  "publicado_em": "2026-10-25T09:57:10"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.4/MemecoinLab.exe",
+  "sha256": "13d3711016a0c506c5cc4a0d0663ac692ad4f51b03ade873588340596486e45a",
+  "tamanho": 34800409,
+  "publicado_em": "2026-10-25T10:09:54"
 }
