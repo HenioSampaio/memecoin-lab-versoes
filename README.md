@@ -83,6 +83,12 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.3 · 25/10/2026
+- Extrato: cada venda mostra o resultado dela (lucro ou prejuízo em % e em reais). O valor da venda é o que voltou para a banca, e não fica mais verde quando a operação deu prejuízo.
+- Barras de rolagem finas, arredondadas e na cor do programa, sem encostar no conteúdo das janelas.
+- Extrato com os valores alinhados à direita.
+- "stop: caiu 20.0%" virou "stop: caiu 20%".
+
 ### 2.2 · 25/10/2026
 - Recomendação mais clara: mostra só o que muda (ex.: Stop −20% → −40%), o efeito em média por operação e por que a confiança é baixa ou alta.
 - Mudanças na estratégia mostram o que mudou em cada vez; Desfazer só na mais recente (desfazer uma antiga misturaria as regras).
@@ -98,9 +104,6 @@ flowchart TB
 
 ### 2.0 · 25/10/2026
 - Toque numa operação fechada (Painel › Últimas operações ou no Raio-x) e veja tudo dela: o caminho do preço com as marcações, a linha do tempo, cada venda nossa em SOL e reais, como estava a moeda na entrada (idade, liquidez, concentração, quanto o líder comprou, nosso atraso) e o que a moeda fez DEPOIS que saímos (saímos cedo ou saímos bem).
-
-### 1.9.9 · 25/10/2026
-- Carteiras › Colar uma lista aceita links (solscan.io/account/…, gmgn.ai, birdeye), um por linha, além do endereço puro.
 
 <!-- NOVIDADES:FIM -->
 
