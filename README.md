@@ -83,6 +83,10 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 1.9.3 · 25/10/2026
+- Carteiras › Adicionar › Importar ranking da Phantom (.json): cada trader com perfil público entra na lista e é avaliado. Os 88 do ranking do mês já entraram.
+- Gráfico da posição refeito: sem o pico falso de leitura, área verde/vermelha a partir da entrada, linhas do alvo e do stop, valor de agora na escala, leitura ao passar o mouse com reais e atualização ao vivo; botão para o gráfico de velas da moeda.
+
 ### 1.9.2 · 25/10/2026
 - Menos botões repetidos: Estratégia tem um Salvar só (religa sozinho); saíram de Ajustes o relatório antigo, "Reavaliar todas" (já é automático), o guia e o GitHub (estão na lateral); Adicionar carteiras não repete mais o Kolscan da busca automática.
 - Filtros: o aviso "Low Liquidity" do RugCheck não barra mais em dobro (vale a sua régua de liquidez mínima) e moeda recém-criada sem rota no Jupiter ganha uma segunda tentativa.
@@ -98,9 +102,6 @@ flowchart TB
 - Avaliação de carteiras: no máximo 4 min por carteira e, se o programa fechar no meio, ela continua de onde parou.
 - Etiquetas compridas quebram a linha em vez de esticar a coluna (o painel não fica mais desproporcional).
 - Conhecimento na nuvem: o aprendizado é guardado no seu repositório privado do GitHub a cada 3 h e ao fechar, e volta inteiro em outro computador (Ajustes › Conhecimento na nuvem).
-
-### 1.8.8 · 25/10/2026
-- Todo campo em SOL (Estratégia, Ajustes, retirar saldo) mostra o valor em reais pequenininho ao lado, mudando enquanto você digita; os quadros de risco também.
 
 <!-- NOVIDADES:FIM -->
 
