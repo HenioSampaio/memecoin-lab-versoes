@@ -83,6 +83,11 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 1.8.2 · 25/10/2026
+- Painel: Raio-x das operações (quantas fecharam em cada faixa de resultado) e Ritmo das últimas 24 h (compras vistas e copiadas por hora).
+- Moedas só observadas agora aparecem com o nome, não com o começo do endereço.
+- Telegram: botões Mercado (as 6 em alta com valor de mercado) e Aprendizado (quanto dado ele já tem e o que recomenda); o topo mostra quantas carteiras copia e quantas observa.
+
 ### 1.8.1 · 25/10/2026
 - Gráfico da moeda AO VIVO: a última vela anda a cada 4 segundos com o preço de agora, e nasce uma vela nova quando passa o tempo dela.
 - Variação quase zero aparece neutra, não vermelha.
@@ -100,14 +105,6 @@ flowchart TB
 
 ### 1.7.2 · 25/10/2026
 - QR code da carteira do laboratório (Ajustes e Meu saldo › Real), com o passo a passo para mandar SOL pela Phantom do celular.
-
-### 1.7.1 · 24/10/2026
-- Só copia traders de verdade: quem segura a moeda pelo menos 5 min (quem sai em 1 min nos usa de saída) e não é robô (robô opera nas 24 h e faz centenas de trocas por dia).
-- Geladeira: carteira com 3 prejuízos seguidos para de ser copiada por 6 h.
-- Saída mais rápida: perto do alvo ou do stop, ele confere na hora, sem esperar os 20 s da próxima cotação.
-- Stop móvel: depois do alvo, sai se cair 30% do pico, em vez de segurar o resto até zerar.
-- Opção: segurar quando a carteira copiada vende mas a moeda está subindo forte (Estratégia › Quando vender).
-- Fita do Painel arrumada.
 
 <!-- NOVIDADES:FIM -->
 
