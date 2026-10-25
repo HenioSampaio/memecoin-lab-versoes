@@ -1,14 +1,16 @@
 {
-  "versao": "1.7",
+  "versao": "1.7.1",
   "data": "24/10/2026",
   "notas": [
-    "Recomendação automática (Estratégia): o laboratório revive cada operação com o preço real minuto a minuto e testa 200 combinações de venda (alvo, stop, tempo, seguir ou não o líder); também separa por horário, dia, liquidez, idade da moeda, atraso e número de carteiras.",
-    "Só recomenda quando a melhora se repete na maioria dos sorteios estatísticos, com confiança baixa, média ou alta. Ligado, aplica sozinho as de confiança média ou alta, uma por vez, e avisa no Telegram. Tudo tem Desfazer.",
-    "Segue o preço por 4 h também das moedas BARRADAS, para conferir se cada filtro está acertando. Afrouxar filtro nunca é automático.",
-    "Contexto que dá prejuízo passa a ser evitado; no teste, 1 em cada 5 ainda é copiado para ele continuar aprendendo. No dinheiro real, a regra vale sempre."
+    "Só copia traders de verdade: quem segura a moeda pelo menos 5 min (quem sai em 1 min nos usa de saída) e não é robô (robô opera nas 24 h e faz centenas de trocas por dia).",
+    "Geladeira: carteira com 3 prejuízos seguidos para de ser copiada por 6 h.",
+    "Saída mais rápida: perto do alvo ou do stop, ele confere na hora, sem esperar os 20 s da próxima cotação.",
+    "Stop móvel: depois do alvo, sai se cair 30% do pico, em vez de segurar o resto até zerar.",
+    "Opção: segurar quando a carteira copiada vende mas a moeda está subindo forte (Estratégia › Quando vender).",
+    "Fita do Painel arrumada."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v1.7/MemecoinLab.exe",
-  "sha256": "a043d923fbd83a11b6458bbc66bfdd297e39ca20bb84327316776a08f999f6ba",
-  "tamanho": 34616251,
-  "publicado_em": "2026-10-24T23:54:52"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v1.7.1/MemecoinLab.exe",
+  "sha256": "23659a00d687c5152427f476cf0b2651517182991abdd91d30b40c2bd40fdd08",
+  "tamanho": 34622375,
+  "publicado_em": "2026-10-25T00:01:32"
 }
