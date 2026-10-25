@@ -83,6 +83,11 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.27 · 25/10/2026
+- Por conta própria: o cartão do caixa agora se chama "Livre para comprar" (já desconta as posições abertas dos dois modos) e o resultado não mostra mais "++".
+- Meu saldo: o saldo total é o mesmo nas abas Teste e Autônomo.
+- Ficha da posição: quanto foi investido, quanto vale agora e o resultado, em SOL e R$.
+
 ### 2.26 · 25/10/2026
 - Uma carteira, uma banca: o modo por conta própria compra com o mesmo caixa do copy trade (Ajustes › Banca do teste). Em Meu saldo, o total é o da carteira e o resultado é o de cada modo.
 
@@ -94,12 +99,6 @@ flowchart TB
 - Moeda com menos de 60 min só é copiada se 3 ou mais carteiras compraram em 30 min (copiadas abaixo de 60 min: −28% a −34%; acima: +2%).
 - Banco: carteira com 4+ cópias e média abaixo de −30% para de ser copiada e segue no teste-sombra; volta sozinha quando as compras dela voltarem a dar lucro. Aparece na geladeira com o motivo.
 - Ajustes: as três regras têm controle próprio (0 desliga).
-
-### 2.23 · 25/10/2026
-- Proteção de lucro: depois de +20% no pico, a posição não devolve o ganho. Guarda 60% do maior ganho e vende antes se a tendência do último minuto apontar para o piso. Aparece no gráfico como "lucro protegido". Ajustes › Quando vender.
-- O aprendizado testa a proteção de lucro junto com alvo, stop e tempo e recomenda o melhor nível.
-- Compras pagas em dólar (USDC/USDT) agora contam pelo valor em SOL. Antes eram lidas como 0 SOL e ignoradas como compra pequena (caso do hheat).
-- Painel: posições do modo por conta própria na mesma lista, com a etiqueta "compra por conta própria".
 
 <!-- NOVIDADES:FIM -->
 
