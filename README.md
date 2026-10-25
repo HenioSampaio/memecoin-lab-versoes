@@ -83,6 +83,11 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.28 · 25/10/2026
+- Por conta própria: cartões de investido agora, quanto entra por compra (em SOL e R$) e o resultado sobre o que já investiu; cada operação mostra quanto investiu.
+- Nota mínima do modo por conta própria salva de verdade (a tela não apaga mais o que você digita) e vale na hora, sem religar o laboratório.
+- Telegram › Ajustes: liga e desliga os avisos de convergência (continuam no sininho do programa).
+
 ### 2.27 · 25/10/2026
 - Por conta própria: o cartão do caixa agora se chama "Livre para comprar" (já desconta as posições abertas dos dois modos) e o resultado não mostra mais "++".
 - Meu saldo: o saldo total é o mesmo nas abas Teste e Autônomo.
@@ -93,12 +98,6 @@ flowchart TB
 
 ### 2.25 · 25/10/2026
 - Corrige a tela Carteiras, que não abria na 2.24.
-
-### 2.24 · 25/10/2026
-- Queda rápida: sai quando a moeda cai 15% do topo dos últimos 40 s, sem esperar o stop. No replay das 48 operações com preço a cada 16 s, a média foi de −21% para −10%.
-- Moeda com menos de 60 min só é copiada se 3 ou mais carteiras compraram em 30 min (copiadas abaixo de 60 min: −28% a −34%; acima: +2%).
-- Banco: carteira com 4+ cópias e média abaixo de −30% para de ser copiada e segue no teste-sombra; volta sozinha quando as compras dela voltarem a dar lucro. Aparece na geladeira com o motivo.
-- Ajustes: as três regras têm controle próprio (0 desliga).
 
 <!-- NOVIDADES:FIM -->
 
