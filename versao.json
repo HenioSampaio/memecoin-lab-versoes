@@ -1,12 +1,12 @@
 {
-  "versao": "2.18",
+  "versao": "2.19",
   "data": "25/10/2026",
   "notas": [
-    "Convergência vira ação: quando 3+ carteiras compram a mesma moeda, o modo Por conta própria avalia a moeda na hora (nota + filtros de segurança) e compra no teste se passar. A tela Autônomo mostra essas candidatas como \"convergência de N carteiras\".",
-    "Convergência só conta compra de verdade (pelo menos o mínimo da Estratégia): compras de pó não disparam mais o aviso. Nomes curtos no aviso (ex.: \"caça MriyaN\")."
+    "Sininho no topo: mostra quantos avisos novos chegaram e, ao tocar, a lista do que o programa avisou (compras, vendas, convergências, conexão, aprendizado), a mesma do Telegram. Funciona mesmo sem o Telegram conectado.",
+    "Chave do GitHub: passo a passo atualizado para a tela nova do GitHub (Add permissions › Contents › Read and write)."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.18/MemecoinLab.exe",
-  "sha256": "9c3547c24daef3b04fc686e4cc35afdee49eecce77cfaf51c82261c798514829",
-  "tamanho": 34857614,
-  "publicado_em": "2026-10-25T14:50:41"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.19/MemecoinLab.exe",
+  "sha256": "34651dbc683e9db8a2ccff627ffbfd132a28a445972166614481dcc76fe9ca8b",
+  "tamanho": 34859779,
+  "publicado_em": "2026-10-25T15:08:08"
 }
