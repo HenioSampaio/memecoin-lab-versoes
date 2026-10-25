@@ -83,6 +83,17 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.23 · 25/10/2026
+- Proteção de lucro: depois de +20% no pico, a posição não devolve o ganho. Guarda 60% do maior ganho e vende antes se a tendência do último minuto apontar para o piso. Aparece no gráfico como "lucro protegido". Ajustes › Quando vender.
+- O aprendizado testa a proteção de lucro junto com alvo, stop e tempo e recomenda o melhor nível.
+- Compras pagas em dólar (USDC/USDT) agora contam pelo valor em SOL. Antes eram lidas como 0 SOL e ignoradas como compra pequena (caso do hheat).
+- Painel: posições do modo por conta própria na mesma lista, com a etiqueta "compra por conta própria".
+
+### 2.22 · 25/10/2026
+- Meu saldo › Autônomo: saldo, investido, resultado e extrato da banca do modo por conta própria.
+- Carteiras achadas na caça com nome curto (ex.: caça MriyaN) em todas as telas.
+- Atualização mais segura: antes de fechar para trocar de versão, o programa confere se a troca começou; se não começou, continua aberto na versão atual em vez de ficar fechado.
+
 ### 2.21 · 25/10/2026
 - Por conta própria: posições abertas (nota, tempo, resultado ao vivo) e últimas operações na tela Autônomo; no Painel, uma linha com as posições dele que leva até lá.
 - Vender as posições do modo Por conta própria: no programa (toque na posição › Vender agora) e no Telegram (Posições › Vender 25/50/100%).
@@ -92,14 +103,6 @@ flowchart TB
 - Conhecimento na nuvem como o iCloud: sincroniza sozinho a cada 30 min quando o aprendizado mudou (e ao fechar), mostra "Sincronizado há X min · próxima em Y", tem Sincronizar agora e a chave de sincronização automática.
 - A cópia na nuvem é substituída a cada vez (arquivos de uma release), em vez de virar um commit novo: o repositório guarda só a versão mais recente e não cresce ~100 MB por dia.
 - O aprendizado do modo Por conta própria também vai para a nuvem e volta no Trazer da nuvem.
-
-### 2.19 · 25/10/2026
-- Sininho no topo: mostra quantos avisos novos chegaram e, ao tocar, a lista do que o programa avisou (compras, vendas, convergências, conexão, aprendizado), a mesma do Telegram. Funciona mesmo sem o Telegram conectado.
-- Chave do GitHub: passo a passo atualizado para a tela nova do GitHub (Add permissions › Contents › Read and write).
-
-### 2.18 · 25/10/2026
-- Convergência vira ação: quando 3+ carteiras compram a mesma moeda, o modo Por conta própria avalia a moeda na hora (nota + filtros de segurança) e compra no teste se passar. A tela Autônomo mostra essas candidatas como "convergência de N carteiras".
-- Convergência só conta compra de verdade (pelo menos o mínimo da Estratégia): compras de pó não disparam mais o aviso. Nomes curtos no aviso (ex.: "caça MriyaN").
 
 <!-- NOVIDADES:FIM -->
 
