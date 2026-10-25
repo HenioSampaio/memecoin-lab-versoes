@@ -83,6 +83,11 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.20 · 25/10/2026
+- Conhecimento na nuvem como o iCloud: sincroniza sozinho a cada 30 min quando o aprendizado mudou (e ao fechar), mostra "Sincronizado há X min · próxima em Y", tem Sincronizar agora e a chave de sincronização automática.
+- A cópia na nuvem é substituída a cada vez (arquivos de uma release), em vez de virar um commit novo: o repositório guarda só a versão mais recente e não cresce ~100 MB por dia.
+- O aprendizado do modo Por conta própria também vai para a nuvem e volta no Trazer da nuvem.
+
 ### 2.19 · 25/10/2026
 - Sininho no topo: mostra quantos avisos novos chegaram e, ao tocar, a lista do que o programa avisou (compras, vendas, convergências, conexão, aprendizado), a mesma do Telegram. Funciona mesmo sem o Telegram conectado.
 - Chave do GitHub: passo a passo atualizado para a tela nova do GitHub (Add permissions › Contents › Read and write).
@@ -93,10 +98,6 @@ flowchart TB
 
 ### 2.17 · 25/10/2026
 - Por conta própria: corrigido o aprendizado, que roda em paralelo e não conseguia ler os exemplos ("erro ao aprender"). Agora reajusta a nota a cada 10 min assim que houver 40 exemplos.
-
-### 2.16 · 25/10/2026
-- Novo modo Por conta própria (menu Autônomo): o programa garimpa sozinho as moedas novas e em alta a cada minuto, dá uma nota de 0 a 100 a cada uma e compra no teste as de nota alta que passam nos filtros de segurança. Banca própria, resultado lado a lado com o copy trade; dinheiro real fica de fora.
-- Ele aprende em tempo real: todas as candidatas (compradas ou não) são seguidas por 4 h e viram exemplos; a cada 10 min a nota é reajustada com o que deu lucro com as suas regras de venda. A tela mostra quanto a nota aprendida já pesa, quanto ela acerta e quais sinais estão ajudando ou atrapalhando.
 
 <!-- NOVIDADES:FIM -->
 
