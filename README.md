@@ -83,6 +83,9 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.32 · 25/10/2026
+- Sininho virou ícone: no topo da ficha da moeda, ao lado da estrela, com o número de degraus armados; tocando, abre um popup para criar e apagar.
+
 ### 2.31 · 25/10/2026
 - Sininho da moeda: na ficha de qualquer moeda, escolha degraus de queda (−10%, −20%, −30%, −50%, −70%) a partir do preço de agora; em cada um o programa compra no teste um valor em SOL, um % do caixa, ou só avisa. Cada degrau dispara uma vez e avisa no Telegram.
 - Favoritas: estrela na ficha da moeda, aba Favoritas no Mercado (com quanto subiu desde que favoritou) e ⭐ Favoritas no Telegram.
@@ -95,11 +98,6 @@ flowchart TB
 ### 2.29 · 25/10/2026
 - Compra manual no teste: na ficha de qualquer moeda (busca, Painel, Radar) ou no Telegram, escolha o valor e compre. A venda segue as regras da Estratégia (stop, alvo, queda rápida, proteção de lucro) e você pode vender quando quiser.
 - Estratégia › Sair depois de: 0 desliga o tempo máximo.
-
-### 2.28 · 25/10/2026
-- Por conta própria: cartões de investido agora, quanto entra por compra (em SOL e R$) e o resultado sobre o que já investiu; cada operação mostra quanto investiu.
-- Nota mínima do modo por conta própria salva de verdade (a tela não apaga mais o que você digita) e vale na hora, sem religar o laboratório.
-- Telegram › Ajustes: liga e desliga os avisos de convergência (continuam no sininho do programa).
 
 <!-- NOVIDADES:FIM -->
 
