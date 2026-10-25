@@ -1,12 +1,14 @@
 {
-  "versao": "2.9",
+  "versao": "2.10",
   "data": "25/10/2026",
   "notas": [
-    "Visual no estilo Apple: cartões, listas, barras e janelas em vidro (translúcido com desfoque sobre um fundo de cor suave); com \"reduzir transparência\" do sistema ligado, volta ao visual sólido.",
-    "Sem emoji em títulos, botões, seletores e etiquetas: só texto; onde precisa de ícone, ícones de traço fino (estilo SF Symbols), incluindo som, tema, menu e a busca rápida."
+    "Teste-sombra mais claro: três números grandes lado a lado (copiadas, só observadas, barradas), a conclusão com um ✓ e a explicação em \"Como funciona\".",
+    "Listas de contexto (onde copiar funciona, filtros, por que saímos) no estilo Apple: rótulo à esquerda e o número à direita, sem a barra que saía do centro.",
+    "Carteiras: a opção do dinheiro real aparece só na aba Por minha conta, separada da lista.",
+    "Moedas em movimento: a borda da moeda em destaque não é mais cortada pela barra de rolagem."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.9/MemecoinLab.exe",
-  "sha256": "eb5763c0db65b846e3a49d8fe7619073909514dc72cbc7ca947be844749f3b72",
-  "tamanho": 34820591,
-  "publicado_em": "2026-10-25T11:18:26"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.10/MemecoinLab.exe",
+  "sha256": "e192db5184fee9def408b6228a33e29422623f250fa78f9812f57e1e5c93e939",
+  "tamanho": 34819800,
+  "publicado_em": "2026-10-25T11:31:11"
 }
