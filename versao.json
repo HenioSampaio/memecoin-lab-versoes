@@ -1,16 +1,11 @@
 {
-  "versao": "1.9",
+  "versao": "1.9.1",
   "data": "25/10/2026",
   "notas": [
-    "Os traders copiados têm conexão, fila e leitura de transações só deles (pelo Helius): as carteiras observadas nunca atrasam uma cópia.",
-    "Carteira só observada manda no máximo 1 aviso a cada 30 s: a fila parou de entupir.",
-    "\"Acontecendo agora\" mostra se a conexão ao vivo está OK, há quanto tempo veio o último aviso e as quedas da última hora; o Telegram avisa se a conexão ficar caída por 5 min (e quando voltar).",
-    "Avaliação de carteiras: no máximo 4 min por carteira e, se o programa fechar no meio, ela continua de onde parou.",
-    "Etiquetas compridas quebram a linha em vez de esticar a coluna (o painel não fica mais desproporcional).",
-    "Conhecimento na nuvem: o aprendizado é guardado no seu repositório privado do GitHub a cada 3 h e ao fechar, e volta inteiro em outro computador (Ajustes › Conhecimento na nuvem)."
+    "Banca e tamanho das entradas do teste ficam só na Estratégia (saíram repetidos de Ajustes › Avançado, que ganhou um atalho para lá)."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v1.9/MemecoinLab.exe",
-  "sha256": "11d628861959084f01c854ff0f83e2f043ada7314dbca09a1f9709d06f4a6b8d",
-  "tamanho": 34770223,
-  "publicado_em": "2026-10-25T01:57:24"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v1.9.1/MemecoinLab.exe",
+  "sha256": "fa158581d651cc49dc17d190817658a6b91caeb9ef04cd3839e8125713f604e0",
+  "tamanho": 34768433,
+  "publicado_em": "2026-10-25T02:04:22"
 }
