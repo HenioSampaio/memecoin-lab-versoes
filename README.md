@@ -83,6 +83,12 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.5 · 25/10/2026
+- Teste-sombra (Estratégia): cada compra vista e não copiada (só observada ou barrada) vira uma operação simulada com as suas regras de venda sobre o preço real das 4 h seguintes. Compara copiadas × observadas × barradas e diz se escolher traders e filtrar está valendo a pena. São ~30x mais dados que só as copiadas.
+- O aprendizado das regras de venda usa também as sombras das carteiras observadas: chega muito mais rápido às 20 operações para recomendar com confiança (a tela mostra quantas são do teste e quantas são sombras).
+- Muito mais leve: o banco ganhou índices. A tela Carteiras abria em 12 s (e travava o resto do programa nesse tempo); agora abre em 0,1 s. A avaliação de carteiras e a partida do laboratório também ficaram mais rápidas.
+- Mercado: busque a moeda pelo nome ou símbolo (ex.: bonk), não só pelo endereço. A lista aparece enquanto você digita, com foto, valor de mercado, liquidez, idade, variação do dia e ✓ nas verificadas; tocou, abre o gráfico.
+
 ### 2.4 · 25/10/2026
 - Conexão ao vivo mais estável: as carteiras observadas são divididas em conexões de até 80 (o nó público recusava centenas numa só), a assinatura vai aos poucos e, se cair, ele espera cada vez mais para reconectar (5 s, 10 s, 20 s… até 1 min) em vez de insistir a cada 5 s.
 - Depois de uma queda, a recuperação das observadas olha só as moedas que temos (antes buscava o histórico das 200 a cada queda e sobrecarregava o nó, que caía de novo). Os traders copiados continuam com recuperação completa.
@@ -101,12 +107,6 @@ flowchart TB
 - Celular: os botões Teste/Real e o período do gráfico não saem mais da tela; textos de Ajustes, Estratégia e das janelas quebram a linha em vez de cortar com "…"; campos de PIN cabem na tela; seletores (cores, movimento) descem para a linha de baixo.
 - Ajustes › Instalar o Tailscale avisa que no computador ele precisa de administrador; sem isso, o acesso de fora é pelo bot do Telegram.
 - Botões lado a lado nunca quebram o texto em duas linhas: se não cabem, descem inteiros; seletores um pouco mais altos para tocar.
-
-### 2.1 · 25/10/2026
-- Garimpo na blockchain (Carteiras › ⛏️ Garimpar, e junto da busca automática): pega as moedas que mais subiram em 24 h, lê na blockchain quem comprou pelo menos 3x mais barato que o preço de agora (pulando os robôs do primeiro minuto) e manda essas carteiras para a avaliação de lucro real. Acha trader que nenhum ranking mostra.
-- PIN de segurança de 6 números: pedido para sacar e para mostrar a chave da carteira (criado na primeira vez; 5 erros travam por 15 min). Troca em Ajustes › Dinheiro real.
-- Carteira do laboratório em cartão: saldo grande em SOL e reais, endereço curto com Copiar e QR, e Retirar / Levar para a Phantom como botões lado a lado.
-- Mais fotos de moedas: se a fonte da foto falha, tenta de novo e busca a cópia do DexScreener; a tela não guarda mais "sem foto" por 1 hora (a foto aparece assim que existir).
 
 <!-- NOVIDADES:FIM -->
 
