@@ -83,6 +83,10 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.9 · 25/10/2026
+- Visual no estilo Apple: cartões, listas, barras e janelas em vidro (translúcido com desfoque sobre um fundo de cor suave); com "reduzir transparência" do sistema ligado, volta ao visual sólido.
+- Sem emoji em títulos, botões, seletores e etiquetas: só texto; onde precisa de ícone, ícones de traço fino (estilo SF Symbols), incluindo som, tema, menu e a busca rápida.
+
 ### 2.8 · 25/10/2026
 - Carteiras: opção "Carteiras por minha conta também no dinheiro real" (desligada = as que você manda copiar ficam só no teste) e filtro 👤 Por minha conta na lista.
 - O aviso do botão Copiar mesmo assim diz exatamente se aquela carteira entraria ou não no dinheiro real.
@@ -94,12 +98,6 @@ flowchart TB
 ### 2.6 · 25/10/2026
 - Telegram: escreva o nome da moeda (ex.: bonk), use /moeda ou cole o endereço. Vem a ficha com nota de confiança de 0 a 100 (🟢🟡🔴) e os motivos, cada um contando uma vez: filtros de segurança, verificada, movimento orgânico, liquidez, idade, concentração, insiders e quantas das nossas carteiras compraram.
 - Avisos ao vivo mais leves: o nó manda centenas de avisos por segundo de robôs com transação que falhou; agora eles são descartados sem ler a mensagem inteira (11x mais rápido, conferido com 6 mil avisos reais).
-
-### 2.5 · 25/10/2026
-- Teste-sombra (Estratégia): cada compra vista e não copiada (só observada ou barrada) vira uma operação simulada com as suas regras de venda sobre o preço real das 4 h seguintes. Compara copiadas × observadas × barradas e diz se escolher traders e filtrar está valendo a pena. São ~30x mais dados que só as copiadas.
-- O aprendizado das regras de venda usa também as sombras das carteiras observadas: chega muito mais rápido às 20 operações para recomendar com confiança (a tela mostra quantas são do teste e quantas são sombras).
-- Muito mais leve: o banco ganhou índices. A tela Carteiras abria em 12 s (e travava o resto do programa nesse tempo); agora abre em 0,1 s. A avaliação de carteiras e a partida do laboratório também ficaram mais rápidas.
-- Mercado: busque a moeda pelo nome ou símbolo (ex.: bonk), não só pelo endereço. A lista aparece enquanto você digita, com foto, valor de mercado, liquidez, idade, variação do dia e ✓ nas verificadas; tocou, abre o gráfico.
 
 <!-- NOVIDADES:FIM -->
 
