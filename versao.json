@@ -1,11 +1,12 @@
 {
-  "versao": "1.8.3",
+  "versao": "1.8.4",
   "data": "25/10/2026",
   "notas": [
-    "Se o programa fechar ou atualizar no meio de uma avaliação de carteiras, ele retoma sozinho as que ficaram pendentes."
+    "Se o programa fechar ou atualizar no meio de uma avaliação de carteiras, ele retoma sozinho as que ficaram pendentes.",
+    "Texto das compras observadas sem repetição: \"👀 observando · segura pouco\"."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v1.8.3/MemecoinLab.exe",
-  "sha256": "b4ba3f2f3526e118000043b2469605965f184b060e8e7240059ddbdc73e883ce",
-  "tamanho": 34754866,
-  "publicado_em": "2026-10-25T01:03:17"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v1.8.4/MemecoinLab.exe",
+  "sha256": "77f92acedabad062d9f289603dd3e470098d5e1c37353410464426cb98a3d682",
+  "tamanho": 34754026,
+  "publicado_em": "2026-10-25T01:10:02"
 }
