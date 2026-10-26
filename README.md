@@ -83,6 +83,11 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.47 · 26/10/2026
+- Estratégia refeita: regras e recomendação no topo; o resto em seções que abrem.
+- IA de decisão: nota de compra e decisão de saída, treinada aqui com as suas operações. Começa em sombra.
+- IA decide no teste com um toque. Dinheiro real nunca passa pela IA.
+
 ### 2.46 · 26/10/2026
 - Ligar o laboratório voltou a funcionar com o Autônomo ligado (erro na 2.45 desligava na hora).
 - Teste pausado mostra o motivo e o botão Retomar; a pausa não volta sozinha com as mesmas perdas.
@@ -97,10 +102,6 @@ flowchart TB
 - Meu saldo: Holder de volta no seletor (Teste / Autônomo / Holder / Real); card roxo alinhado à paleta do app (mesmo --brand das outras abas).
 - Ajustes: interruptor para desligar a pausa após sequência de prejuízos (o limite de perda do dia continua separado).
 - Holder: resultado grande no topo como no Autônomo (lucro/prejuízo em R$, SOL e %), não só o valor dos holds abertos.
-
-### 2.43 · 26/10/2026
-- Teste com kill-switch: para de abrir se perder o limite do dia ou após uma sequência de prejuízos (ajustável em Estratégia).
-- Holder: piso duro (−70% por padrão) para não ficar preso em hold morto; avisos e tela dizem Holder, não copiando holder.
 
 <!-- NOVIDADES:FIM -->
 
