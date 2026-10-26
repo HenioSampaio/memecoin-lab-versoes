@@ -1,11 +1,12 @@
 {
-  "versao": "2.42",
+  "versao": "2.43",
   "data": "26/10/2026",
   "notas": [
-    "Avisos na barra do Windows: mesmo com a janela minimizada (liga/desliga em Ajustes)."
+    "Teste com kill-switch: para de abrir se perder o limite do dia ou após uma sequência de prejuízos (ajustável em Estratégia).",
+    "Holder: piso duro (−70% por padrão) para não ficar preso em hold morto; avisos e tela dizem Holder, não copiando holder."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.42/MemecoinLab.exe",
-  "sha256": "a3fd36e15ac10357b07677a1727854d8390b5c8361eefa5bba233bef92c89c7c",
-  "tamanho": 35006375,
-  "publicado_em": "2026-10-26T11:18:37"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.43/MemecoinLab.exe",
+  "sha256": "1dcdc875cd1d0a30dac46b27a70c2348eccd9c9d00ab98854589761827db6fde",
+  "tamanho": 35008199,
+  "publicado_em": "2026-10-26T11:32:25"
 }
