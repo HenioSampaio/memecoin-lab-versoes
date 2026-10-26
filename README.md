@@ -83,6 +83,10 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.40 · 26/10/2026
+- Meu saldo no estilo Apple: saldo grande no topo, resultado em pílula colorida, métricas limpas.
+- Extrato com filtros em segmento: Tudo / Compras / Vendas e período 1D · 1S · 1M · Tudo.
+
 ### 2.39 · 26/10/2026
 - Mercado: o gráfico de quem mais subiu na última hora voltou ao visual certo (as barras e a % tinham sido esmagadas por um estilo novo do Holder).
 - Meu saldo: visual no estilo do Holder — resultado grande no topo, saldo/livre/investido em faixa, compras e vendas compactas, menos texto.
@@ -101,14 +105,6 @@ flowchart TB
 
 ### 2.37 · 26/10/2026
 - Telegram: quando o programa encontra uma versão nova, manda uma mensagem só por versão (não repete ao reabrir), com as novidades e o botão Atualizar no PC, que pede confirmação. Só funciona com o programa .exe; rodando pelo Python ele avisa que não dá.
-
-### 2.36 · 25/10/2026
-- Corrigido: o letreiro "Acontecendo agora" (breaking news) do Painel tinha parado de correr na 2.35. O visual novo desligava todas as animações quando o Windows estava com os efeitos de animação desligados, passando por cima da sua escolha em Ajustes › Movimento. Agora vale só a sua escolha ("Sempre", "Seguir o Windows" ou "Parado"), como na 2.34. Voltaram a se mexer também a bolinha "ao vivo", o carregando, o fundo animado do Painel e o aviso piscando.
-- Letreiro: tocar numa moeda abre a ficha dela; passar o mouse pausa.
-- Telegram: todas as mensagens antigas ganharam o visual novo. Compra (entrada, motivo, como sai), venda (resultado em R$ e SOL, entrada → saída, tempo na posição, motivo e o resultado do dia), sininho, venda parcial e rug viram cartões com título e ícones fixos.
-- Telegram: o botão Gráfico dos avisos agora manda a imagem do gráfico aqui no chat (antes abria um site), e há o botão Ficha. Os links do X, pump.fun e DexScreener ficam numa linha só.
-- Telegram: menu em grade com Atualizar; Posições mostra um cartão por posição (resultado ao vivo, Vender, Gráfico, ◀ ▶ e Atualizar) trocando na mesma mensagem; Mercado abre a ficha da moeda no chat; Status, Favoritas, Várias juntas, Carteiras, Aprendizado, Resumo do dia e Ajustes com o mesmo cabeçalho e hora da atualização; Vender tudo mostra a lista e o resultado somado antes de confirmar.
-- Convergência rápida e Holder: só contam carteiras avaliadas como boas pelo scout. Antes, carteiras do garimpo ainda sem nota contavam (vimos 13–14 delas disparando o sinal na mesma moeda).
 
 <!-- NOVIDADES:FIM -->
 
