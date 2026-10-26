@@ -83,6 +83,11 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.45 · 26/10/2026
+- Core P0 (autópsia): entrada 0,15 SOL, máx. 5 abertas, idade 10–1440 min, teto da compra do líder 0,5 SOL, queda rápida 22%, nota mínima Autônomo 75, convergência fora do modo sombra, aprendizado com 5 cópias.
+- Assist de decisão: aprende sozinho com trades fechados (expectancy); no Autônomo (teste) pode VETAR, reduzir size ou COMPRAR — a IA executa a compra no paper depois dos filtros P0 e do kill-switch. Dinheiro real continua no caminho seguro do app (não abre live pelo assist).
+- Estratégia: status "aprendendo com N trades" e interruptor do assist (modo ao vivo / sombra). Hook LLM opcional (só features tabulares; default desligado).
+
 ### 2.44 · 26/10/2026
 - Meu saldo: Holder de volta no seletor (Teste / Autônomo / Holder / Real); card roxo alinhado à paleta do app (mesmo --brand das outras abas).
 - Ajustes: interruptor para desligar a pausa após sequência de prejuízos (o limite de perda do dia continua separado).
@@ -94,10 +99,6 @@ flowchart TB
 
 ### 2.42 · 26/10/2026
 - Avisos na barra do Windows: mesmo com a janela minimizada (liga/desliga em Ajustes).
-
-### 2.41 · 26/10/2026
-- Meu saldo: Compras e Vendas entraram dentro do card roxo do caixa (sumiram os dois cards brancos separados).
-- Grafico da moeda: corrige tela vazia no 1m (nao cacheia falha do GeckoTerminal, ignora resposta atrasada ao trocar o periodo e redesenha quando a janela termina de abrir).
 
 <!-- NOVIDADES:FIM -->
 
