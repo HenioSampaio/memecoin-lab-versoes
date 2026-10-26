@@ -1,13 +1,12 @@
 {
-  "versao": "2.53",
+  "versao": "2.55",
   "data": "26/10/2026",
   "notas": [
-    "Uma posição por moeda: cópia e convergência não compram a mesma duas vezes.",
-    "Vale também entre o copy trade e o por conta própria.",
-    "Narrativa: tema da moeda e quão quente está (🔥 política 82). Só medição."
+    "Holder: adicione uma moeda você mesmo (endereço ou link, valor e alvo %).",
+    "O hold manual aparece com ✋ e vende sozinho no alvo; Vender continua no cartão."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.53/MemecoinLab.exe",
-  "sha256": "a2b4ca8976fc2d0547815b6784dcd02c77c37a812f8195e1ffa70af33a3086a3",
-  "tamanho": 35087739,
-  "publicado_em": "2026-10-26T19:56:57"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.55/MemecoinLab.exe",
+  "sha256": "f1572b049182531364d78d29154931bbf24257c8114af64f64e0c82f765017e4",
+  "tamanho": 35104833,
+  "publicado_em": "2026-10-26T20:24:11"
 }
