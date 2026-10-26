@@ -83,6 +83,18 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.38 · 26/10/2026
+- Holder com visual novo: resumo no topo com o valor dos holds abertos em R$, quanto foi investido e o resultado em %, além de holds abertos, orçamento usado, valor por hold e nota mínima (com barras). O texto longo virou um "Como funciona" que abre e fecha.
+- Cada hold aberto virou um cartão: ícone da moeda, selo teste/real, nota num anel colorido, múltiplo atual (ex.: 0,05x) com a variação em %, pico, minigráfico do preço, a escada 2x/5x/10x/70x com ✓ nos degraus alcançados, motivos em etiquetas e riscos em laranja, e botões Abrir ficha, Gráfico, DexScreener e Vender (só no teste, pede confirmação).
+- Retorno médio com e sem os 3 maiores em dois cartões, com barras de quantos holds chegaram a cada degrau. Novo histórico dos holds fechados (motivo, duração, pico e resultado em R$); tocar abre a operação.
+- Gráfico da moeda: novos períodos 1D (último dia, velas de 15 min), 1S (última semana, velas de 1 h) e Tudo (desde a criação; a vela se ajusta à idade da moeda: 15 min, 1 h, 4 h ou 1 dia). Funciona em Velas e Linha, com as marcações de compra e venda e a última vela ao vivo. Moedas novas mostram só o que já existe.
+- Ritmo das últimas 24 h: as barras agora são clicáveis (mouse, toque ou teclado), com destaque e dica ao passar o mouse. Tocar numa hora mostra as compras das carteiras naquela hora agrupadas por moeda: quem comprou, quando, o que o laboratório fez (copiou, barrou e por quê, observou), quando várias carteiras entraram juntas e o resultado; tocar na moeda abre a ficha. A linha da tabela Hora a hora também abre a hora.
+- Por conta própria com o mesmo visual do Holder: resultado grande no topo (R$ e SOL, % do que já investiu, selo teste), investido agora, livre para comprar, acerto e valor por compra com barras, e um "Como funciona" que abre e fecha. Cada posição aberta virou um cartão com nota em anel, múltiplo e % coloridos, pico, minigráfico, barra entre o stop e o alvo, motivo da compra e os botões Abrir ficha, Gráfico, DexScreener e Vender (pede confirmação). Últimas operações mostram duração e pico. As regras de compra e venda não mudaram.
+- Ajustes reorganizado: Conexões e chaves numa lista só (GitHub, Telegram, Jupiter, Helius, PumpPortal), cada uma com status claro (✓ conectada com o final da chave ••••a1b2 e quando foi salva, não configurada ou inválida), Testar, Trocar e Remover. Colar a chave ficou numa janela com 3 passos curtos, botão para a página certa, Colar, mostrar/esconder, conferência do formato na hora e confirmação ao salvar. A chave inteira nunca aparece. Seções: Dinheiro real, Nuvem, Conexões, Telegram, Celular, Aparência e movimento, Avançado.
+- Menos texto nas telas novas: subtítulos curtos, passos de uma linha e detalhes no "Como funciona".
+- Logos dos sites em Conexões e chaves (GitHub, Telegram, Jupiter, Helius, PumpPortal) e nos botões da Phantom e do DexScreener.
+- Portão do dinheiro real do holder com barra de progresso em cada item. A chave do dinheiro real continua desligada por padrão e pedindo o PIN.
+
 ### 2.37 · 26/10/2026
 - Telegram: quando o programa encontra uma versão nova, manda uma mensagem só por versão (não repete ao reabrir), com as novidades e o botão Atualizar no PC, que pede confirmação. Só funciona com o programa .exe; rodando pelo Python ele avisa que não dá.
 
@@ -107,11 +119,6 @@ flowchart TB
 - Telegram: ficha da moeda que se atualiza no mesmo lugar, com gráfico (imagem) e botões Atualizar, Favoritar, DexScreener e Menu; avisos de alta e queda por posição e por favorito com níveis e intervalo configuráveis (sem repetir); cartão de convergência rápida.
 - Holder (novo, só no teste por padrão): quando 3 carteiras boas compram juntas nos primeiros 30 min de vida da moeda, o programa dá uma nota de 0 a 100 com motivos e riscos e abre um hold de teste de R$ 100, sem stop curto: recupera o capital em 2x, vende 20% em 5x, 10% em 10x, 10% em 70x e deixa 10% correndo. No máximo 10 holds e R$ 1.000. Avisos no Telegram em 2x, 5x, 10x, 70x, 140x e em −50% do pico. A tela Holder mostra o retorno com e sem os 3 maiores.
 - Holder com dinheiro real: chave própria, desligada; ligar pede o PIN. O portão (30 dias, 300 holds, retorno sem os 3 maiores acima de 1x) aparece só como aviso. A compra real ainda exige o dinheiro real ligado e respeita os limites dele e do holder.
-
-### 2.34 · 25/10/2026
-- Corrigido: depois de comprar pelo popup, a tela ficava em branco com "Memecoin Lab › undefined" (os botões de valor eram confundidos com botões de tela).
-- Sininho mais confiável: tocar em −20% agora marca o degrau (antes vinha marcado e o toque desmarcava), o valor digitado não some ao trocar de opção, valor vazio não vira "só aviso" escondido, e uma compra que falha por motivo passageiro (Jupiter ocupada, sem rota) tenta de novo por até 10 min em vez de queimar o degrau.
-- Telegram: compra com dinheiro real na ficha da moeda, com valor e PIN de 6 números. O bot apaga a mensagem do PIN, o pedido vale 2 min, só o seu chat é atendido e valem os limites do modo real. Só aparece com o dinheiro real ligado.
 
 <!-- NOVIDADES:FIM -->
 
