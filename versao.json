@@ -1,16 +1,11 @@
 {
-  "versao": "2.36",
-  "data": "25/10/2026",
+  "versao": "2.37",
+  "data": "26/10/2026",
   "notas": [
-    "Corrigido: o letreiro \"Acontecendo agora\" (breaking news) do Painel tinha parado de correr na 2.35. O visual novo desligava todas as animações quando o Windows estava com os efeitos de animação desligados, passando por cima da sua escolha em Ajustes › Movimento. Agora vale só a sua escolha (\"Sempre\", \"Seguir o Windows\" ou \"Parado\"), como na 2.34. Voltaram a se mexer também a bolinha \"ao vivo\", o carregando, o fundo animado do Painel e o aviso piscando.",
-    "Letreiro: tocar numa moeda abre a ficha dela; passar o mouse pausa.",
-    "Telegram: todas as mensagens antigas ganharam o visual novo. Compra (entrada, motivo, como sai), venda (resultado em R$ e SOL, entrada → saída, tempo na posição, motivo e o resultado do dia), sininho, venda parcial e rug viram cartões com título e ícones fixos.",
-    "Telegram: o botão Gráfico dos avisos agora manda a imagem do gráfico aqui no chat (antes abria um site), e há o botão Ficha. Os links do X, pump.fun e DexScreener ficam numa linha só.",
-    "Telegram: menu em grade com Atualizar; Posições mostra um cartão por posição (resultado ao vivo, Vender, Gráfico, ◀ ▶ e Atualizar) trocando na mesma mensagem; Mercado abre a ficha da moeda no chat; Status, Favoritas, Várias juntas, Carteiras, Aprendizado, Resumo do dia e Ajustes com o mesmo cabeçalho e hora da atualização; Vender tudo mostra a lista e o resultado somado antes de confirmar.",
-    "Convergência rápida e Holder: só contam carteiras avaliadas como boas pelo scout. Antes, carteiras do garimpo ainda sem nota contavam (vimos 13–14 delas disparando o sinal na mesma moeda)."
+    "Telegram: quando o programa encontra uma versão nova, manda uma mensagem só por versão (não repete ao reabrir), com as novidades e o botão Atualizar no PC, que pede confirmação. Só funciona com o programa .exe; rodando pelo Python ele avisa que não dá."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.36/MemecoinLab.exe",
-  "sha256": "1eb582dad3f334d8943d99b3f35f8a2c372256c9d026295587e4ceb21d610b48",
-  "tamanho": 34967381,
-  "publicado_em": "2026-10-26T00:18:13"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.37/MemecoinLab.exe",
+  "sha256": "6dbaa9baa73e88937547daf5ec9f05f4d1b9147914b01c5d8fb2e8baa8258231",
+  "tamanho": 34974801,
+  "publicado_em": "2026-10-26T08:19:33"
 }
