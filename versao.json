@@ -1,13 +1,12 @@
 {
-  "versao": "2.49",
+  "versao": "2.50",
   "data": "26/10/2026",
   "notas": [
-    "Telas do Painel aos Ajustes mais limpas: menos texto, cards e números no mesmo padrão.",
-    "Telegram: avisos curtos com números alinhados, Solscan e DexScreener.",
-    "IA: índice de atenção (Mobula) em sombra. Telegram: pausar/retomar no menu."
+    "Teste sem a taxa de 1% de app: o real troca direto na Jupiter.",
+    "Teto da compra do líder subiu de 0,5 para 3 SOL."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.49/MemecoinLab.exe",
-  "sha256": "b9b3aefcc78dda88e88e4a3713baf918e6a9c8d016306a742165f8075063eb64",
-  "tamanho": 35066915,
-  "publicado_em": "2026-10-26T15:30:51"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.50/MemecoinLab.exe",
+  "sha256": "bd731a475af91b73a1ee751e77d5be3c6414d6c30f71516c6e11fae1a4da493c",
+  "tamanho": 35069974,
+  "publicado_em": "2026-10-26T18:13:58"
 }
