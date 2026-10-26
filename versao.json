@@ -1,13 +1,13 @@
 {
-  "versao": "2.47",
+  "versao": "2.49",
   "data": "26/10/2026",
   "notas": [
-    "Estratégia refeita: regras e recomendação no topo; o resto em seções que abrem.",
-    "IA de decisão: nota de compra e decisão de saída, treinada aqui com as suas operações. Começa em sombra.",
-    "IA decide no teste com um toque. Dinheiro real nunca passa pela IA."
+    "Telas do Painel aos Ajustes mais limpas: menos texto, cards e números no mesmo padrão.",
+    "Telegram: avisos curtos com números alinhados, Solscan e DexScreener.",
+    "IA: índice de atenção (Mobula) em sombra. Telegram: pausar/retomar no menu."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.47/MemecoinLab.exe",
-  "sha256": "bbf11bc6b9cbe1ba71060347e573a2b47000a772bcb7afc09376972951f3b5d5",
-  "tamanho": 35048587,
-  "publicado_em": "2026-10-26T14:06:13"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.49/MemecoinLab.exe",
+  "sha256": "b9b3aefcc78dda88e88e4a3713baf918e6a9c8d016306a742165f8075063eb64",
+  "tamanho": 35066915,
+  "publicado_em": "2026-10-26T15:30:51"
 }
