@@ -83,6 +83,10 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.43 · 26/10/2026
+- Teste com kill-switch: para de abrir se perder o limite do dia ou após uma sequência de prejuízos (ajustável em Estratégia).
+- Holder: piso duro (−70% por padrão) para não ficar preso em hold morto; avisos e tela dizem Holder, não copiando holder.
+
 ### 2.42 · 26/10/2026
 - Avisos na barra do Windows: mesmo com a janela minimizada (liga/desliga em Ajustes).
 
@@ -93,10 +97,6 @@ flowchart TB
 ### 2.40 · 26/10/2026
 - Meu saldo no estilo Apple: saldo grande no topo, resultado em pílula colorida, métricas limpas.
 - Extrato com filtros em segmento: Tudo / Compras / Vendas e período 1D · 1S · 1M · Tudo.
-
-### 2.39 · 26/10/2026
-- Mercado: o gráfico de quem mais subiu na última hora voltou ao visual certo (as barras e a % tinham sido esmagadas por um estilo novo do Holder).
-- Meu saldo: visual no estilo do Holder — resultado grande no topo, saldo/livre/investido em faixa, compras e vendas compactas, menos texto.
 
 <!-- NOVIDADES:FIM -->
 
