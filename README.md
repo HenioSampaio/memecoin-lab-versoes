@@ -83,6 +83,15 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.49 · 26/10/2026
+- Telas do Painel aos Ajustes mais limpas: menos texto, cards e números no mesmo padrão.
+- Telegram: avisos curtos com números alinhados, Solscan e DexScreener.
+- IA: índice de atenção (Mobula) em sombra. Telegram: pausar/retomar no menu.
+
+### 2.48 · 26/10/2026
+- Teste só copia com confirmação de 2 carteiras em 30 min.
+- Compra de carteira sozinha vira observada. Ajuste em Configurações.
+
 ### 2.47 · 26/10/2026
 - Estratégia refeita: regras e recomendação no topo; o resto em seções que abrem.
 - IA de decisão: nota de compra e decisão de saída, treinada aqui com as suas operações. Começa em sombra.
@@ -92,16 +101,6 @@ flowchart TB
 - Ligar o laboratório voltou a funcionar com o Autônomo ligado (erro na 2.45 desligava na hora).
 - Teste pausado mostra o motivo e o botão Retomar; a pausa não volta sozinha com as mesmas perdas.
 - Interruptores corrigidos: Abrir com o Windows, Assist ao vivo e Resumo do dia.
-
-### 2.45 · 26/10/2026
-- Core P0 (autópsia): entrada 0,15 SOL, máx. 5 abertas, idade 10–1440 min, teto da compra do líder 0,5 SOL, queda rápida 22%, nota mínima Autônomo 75, convergência fora do modo sombra, aprendizado com 5 cópias.
-- Assist de decisão: aprende sozinho com trades fechados (expectancy); no Autônomo (teste) pode VETAR, reduzir size ou COMPRAR — a IA executa a compra no paper depois dos filtros P0 e do kill-switch. Dinheiro real continua no caminho seguro do app (não abre live pelo assist).
-- Estratégia: status "aprendendo com N trades" e interruptor do assist (modo ao vivo / sombra). Hook LLM opcional (só features tabulares; default desligado).
-
-### 2.44 · 26/10/2026
-- Meu saldo: Holder de volta no seletor (Teste / Autônomo / Holder / Real); card roxo alinhado à paleta do app (mesmo --brand das outras abas).
-- Ajustes: interruptor para desligar a pausa após sequência de prejuízos (o limite de perda do dia continua separado).
-- Holder: resultado grande no topo como no Autônomo (lucro/prejuízo em R$, SOL e %), não só o valor dos holds abertos.
 
 <!-- NOVIDADES:FIM -->
 
