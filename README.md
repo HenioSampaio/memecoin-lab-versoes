@@ -83,6 +83,11 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.44 · 26/10/2026
+- Meu saldo: Holder de volta no seletor (Teste / Autônomo / Holder / Real); card roxo alinhado à paleta do app (mesmo --brand das outras abas).
+- Ajustes: interruptor para desligar a pausa após sequência de prejuízos (o limite de perda do dia continua separado).
+- Holder: resultado grande no topo como no Autônomo (lucro/prejuízo em R$, SOL e %), não só o valor dos holds abertos.
+
 ### 2.43 · 26/10/2026
 - Teste com kill-switch: para de abrir se perder o limite do dia ou após uma sequência de prejuízos (ajustável em Estratégia).
 - Holder: piso duro (−70% por padrão) para não ficar preso em hold morto; avisos e tela dizem Holder, não copiando holder.
@@ -93,10 +98,6 @@ flowchart TB
 ### 2.41 · 26/10/2026
 - Meu saldo: Compras e Vendas entraram dentro do card roxo do caixa (sumiram os dois cards brancos separados).
 - Grafico da moeda: corrige tela vazia no 1m (nao cacheia falha do GeckoTerminal, ignora resposta atrasada ao trocar o periodo e redesenha quando a janela termina de abrir).
-
-### 2.40 · 26/10/2026
-- Meu saldo no estilo Apple: saldo grande no topo, resultado em pílula colorida, métricas limpas.
-- Extrato com filtros em segmento: Tudo / Compras / Vendas e período 1D · 1S · 1M · Tudo.
 
 <!-- NOVIDADES:FIM -->
 
