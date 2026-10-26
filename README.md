@@ -83,6 +83,11 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.53 · 26/10/2026
+- Uma posição por moeda: cópia e convergência não compram a mesma duas vezes.
+- Vale também entre o copy trade e o por conta própria.
+- Narrativa: tema da moeda e quão quente está (🔥 política 82). Só medição.
+
 ### 2.52 · 26/10/2026
 - Voltou a copiar: carteira precisa de 10+ moedas no histórico (era 20).
 - O log diz por que uma carteira não foi copiada.
@@ -96,11 +101,6 @@ flowchart TB
 ### 2.50 · 26/10/2026
 - Teste sem a taxa de 1% de app: o real troca direto na Jupiter.
 - Teto da compra do líder subiu de 0,5 para 3 SOL.
-
-### 2.49 · 26/10/2026
-- Telas do Painel aos Ajustes mais limpas: menos texto, cards e números no mesmo padrão.
-- Telegram: avisos curtos com números alinhados, Solscan e DexScreener.
-- IA: índice de atenção (Mobula) em sombra. Telegram: pausar/retomar no menu.
 
 <!-- NOVIDADES:FIM -->
 
