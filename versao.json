@@ -1,13 +1,13 @@
 {
-  "versao": "2.52",
+  "versao": "2.53",
   "data": "26/10/2026",
   "notas": [
-    "Voltou a copiar: carteira precisa de 10+ moedas no histórico (era 20).",
-    "O log diz por que uma carteira não foi copiada.",
-    "IA visível: \"IA: compra 72%\" em cada sinal e resumo na Estratégia."
+    "Uma posição por moeda: cópia e convergência não compram a mesma duas vezes.",
+    "Vale também entre o copy trade e o por conta própria.",
+    "Narrativa: tema da moeda e quão quente está (🔥 política 82). Só medição."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.52/MemecoinLab.exe",
-  "sha256": "38250f6966a4a9b873ead098f009b8f2eff55e52703b736f72e3b22052f178f4",
-  "tamanho": 35074473,
-  "publicado_em": "2026-10-26T19:30:18"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.53/MemecoinLab.exe",
+  "sha256": "a2b4ca8976fc2d0547815b6784dcd02c77c37a812f8195e1ffa70af33a3086a3",
+  "tamanho": 35087739,
+  "publicado_em": "2026-10-26T19:56:57"
 }
