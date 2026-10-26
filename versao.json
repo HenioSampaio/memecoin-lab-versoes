@@ -1,12 +1,13 @@
 {
-  "versao": "2.50",
+  "versao": "2.51",
   "data": "26/10/2026",
   "notas": [
-    "Teste sem a taxa de 1% de app: o real troca direto na Jupiter.",
-    "Teto da compra do líder subiu de 0,5 para 3 SOL."
+    "Insiders não barra mais no teste: a moeda entra com metade.",
+    "Com dinheiro real ligado, insiders continua barrando.",
+    "Teste só copia carteira com 45%+ de acerto e 20+ moedas; 3 perdas = pausa."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.50/MemecoinLab.exe",
-  "sha256": "bd731a475af91b73a1ee751e77d5be3c6414d6c30f71516c6e11fae1a4da493c",
-  "tamanho": 35069974,
-  "publicado_em": "2026-10-26T18:13:58"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.51/MemecoinLab.exe",
+  "sha256": "184324f4d7d8abcc6a146be3c3e50483064e9556550d744d3f31268af33dbc7b",
+  "tamanho": 35070279,
+  "publicado_em": "2026-10-26T19:02:15"
 }
