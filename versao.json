@@ -1,13 +1,13 @@
 {
-  "versao": "2.46",
+  "versao": "2.47",
   "data": "26/10/2026",
   "notas": [
-    "Ligar o laboratório voltou a funcionar com o Autônomo ligado (erro na 2.45 desligava na hora).",
-    "Teste pausado mostra o motivo e o botão Retomar; a pausa não volta sozinha com as mesmas perdas.",
-    "Interruptores corrigidos: Abrir com o Windows, Assist ao vivo e Resumo do dia."
+    "Estratégia refeita: regras e recomendação no topo; o resto em seções que abrem.",
+    "IA de decisão: nota de compra e decisão de saída, treinada aqui com as suas operações. Começa em sombra.",
+    "IA decide no teste com um toque. Dinheiro real nunca passa pela IA."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.46/MemecoinLab.exe",
-  "sha256": "8e20e9a2c39b402a26268e34558d03293f5b508ebe9a7e26547aa7aa0d63ea38",
-  "tamanho": 35026029,
-  "publicado_em": "2026-10-26T13:31:27"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.47/MemecoinLab.exe",
+  "sha256": "bbf11bc6b9cbe1ba71060347e573a2b47000a772bcb7afc09376972951f3b5d5",
+  "tamanho": 35048587,
+  "publicado_em": "2026-10-26T14:06:13"
 }
