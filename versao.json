@@ -1,13 +1,13 @@
 {
-  "versao": "2.45",
+  "versao": "2.46",
   "data": "26/10/2026",
   "notas": [
-    "Core P0 (autópsia): entrada 0,15 SOL, máx. 5 abertas, idade 10–1440 min, teto da compra do líder 0,5 SOL, queda rápida 22%, nota mínima Autônomo 75, convergência fora do modo sombra, aprendizado com 5 cópias.",
-    "Assist de decisão: aprende sozinho com trades fechados (expectancy); no Autônomo (teste) pode VETAR, reduzir size ou COMPRAR — a IA executa a compra no paper depois dos filtros P0 e do kill-switch. Dinheiro real continua no caminho seguro do app (não abre live pelo assist).",
-    "Estratégia: status \"aprendendo com N trades\" e interruptor do assist (modo ao vivo / sombra). Hook LLM opcional (só features tabulares; default desligado)."
+    "Ligar o laboratório voltou a funcionar com o Autônomo ligado (erro na 2.45 desligava na hora).",
+    "Teste pausado mostra o motivo e o botão Retomar; a pausa não volta sozinha com as mesmas perdas.",
+    "Interruptores corrigidos: Abrir com o Windows, Assist ao vivo e Resumo do dia."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.45/MemecoinLab.exe",
-  "sha256": "7c552b318cabb2ac986b301de9e8e4b11bd78eacaf1b0abd3d9f8bd654981c64",
-  "tamanho": 34999582,
-  "publicado_em": "2026-10-26T12:27:28"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.46/MemecoinLab.exe",
+  "sha256": "8e20e9a2c39b402a26268e34558d03293f5b508ebe9a7e26547aa7aa0d63ea38",
+  "tamanho": 35026029,
+  "publicado_em": "2026-10-26T13:31:27"
 }
