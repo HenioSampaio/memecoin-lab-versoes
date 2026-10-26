@@ -83,6 +83,11 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.52 · 26/10/2026
+- Voltou a copiar: carteira precisa de 10+ moedas no histórico (era 20).
+- O log diz por que uma carteira não foi copiada.
+- IA visível: "IA: compra 72%" em cada sinal e resumo na Estratégia.
+
 ### 2.51 · 26/10/2026
 - Insiders não barra mais no teste: a moeda entra com metade.
 - Com dinheiro real ligado, insiders continua barrando.
@@ -96,10 +101,6 @@ flowchart TB
 - Telas do Painel aos Ajustes mais limpas: menos texto, cards e números no mesmo padrão.
 - Telegram: avisos curtos com números alinhados, Solscan e DexScreener.
 - IA: índice de atenção (Mobula) em sombra. Telegram: pausar/retomar no menu.
-
-### 2.48 · 26/10/2026
-- Teste só copia com confirmação de 2 carteiras em 30 min.
-- Compra de carteira sozinha vira observada. Ajuste em Configurações.
 
 <!-- NOVIDADES:FIM -->
 
