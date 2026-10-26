@@ -1,12 +1,12 @@
 {
-  "versao": "2.40",
+  "versao": "2.41",
   "data": "26/10/2026",
   "notas": [
-    "Meu saldo no estilo Apple: saldo grande no topo, resultado em pílula colorida, métricas limpas.",
-    "Extrato com filtros em segmento: Tudo / Compras / Vendas e período 1D · 1S · 1M · Tudo."
+    "Meu saldo: Compras e Vendas entraram dentro do card roxo do caixa (sumiram os dois cards brancos separados).",
+    "Grafico da moeda: corrige tela vazia no 1m (nao cacheia falha do GeckoTerminal, ignora resposta atrasada ao trocar o periodo e redesenha quando a janela termina de abrir)."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.40/MemecoinLab.exe",
-  "sha256": "c4ab2fefc09210f32a1ce4fba3e386346bb422d04aeaaef237b3197af10e3700",
-  "tamanho": 35002015,
-  "publicado_em": "2026-10-26T10:51:19"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.41/MemecoinLab.exe",
+  "sha256": "696f892e66a766dc6ef7282909f4b817d7add1b71543ca4c98b83d2e928d1aef",
+  "tamanho": 35001532,
+  "publicado_em": "2026-10-26T11:07:44"
 }
