@@ -83,6 +83,10 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.56 · 26/10/2026
+- Teste explora: 1 em 4 cópias barradas por travas leves entra com metade.
+- Robô, bloqueio de vez e filtros anti-golpe continuam barrando.
+
 ### 2.55 · 26/10/2026
 - Holder: adicione uma moeda você mesmo (endereço ou link, valor e alvo %).
 - O hold manual aparece com ✋ e vende sozinho no alvo; Vender continua no cartão.
@@ -96,11 +100,6 @@ flowchart TB
 - Uma posição por moeda: cópia e convergência não compram a mesma duas vezes.
 - Vale também entre o copy trade e o por conta própria.
 - Narrativa: tema da moeda e quão quente está (🔥 política 82). Só medição.
-
-### 2.52 · 26/10/2026
-- Voltou a copiar: carteira precisa de 10+ moedas no histórico (era 20).
-- O log diz por que uma carteira não foi copiada.
-- IA visível: "IA: compra 72%" em cada sinal e resumo na Estratégia.
 
 <!-- NOVIDADES:FIM -->
 
