@@ -1,12 +1,12 @@
 {
-  "versao": "2.56",
+  "versao": "2.57",
   "data": "26/10/2026",
   "notas": [
-    "Teste explora: 1 em 4 cópias barradas por travas leves entra com metade.",
-    "Robô, bloqueio de vez e filtros anti-golpe continuam barrando."
+    "Holder: no +30% vende metade; o resto guarda o lucro e 10% fica.",
+    "Holder com stop de −30%; o gráfico mostra as linhas que valem."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.56/MemecoinLab.exe",
-  "sha256": "d2ea4059179d22d762e0bbd840cfff017e9001b54342248e1685272ebff7218a",
-  "tamanho": 35105419,
-  "publicado_em": "2026-10-26T20:38:13"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.57/MemecoinLab.exe",
+  "sha256": "c5c743e75b9cad133dcedf3a300e1219d7acf1298d93d557584f3cbedc7c6e10",
+  "tamanho": 35108563,
+  "publicado_em": "2026-10-26T20:52:47"
 }
