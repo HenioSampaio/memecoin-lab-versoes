@@ -83,6 +83,11 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.51 · 26/10/2026
+- Insiders não barra mais no teste: a moeda entra com metade.
+- Com dinheiro real ligado, insiders continua barrando.
+- Teste só copia carteira com 45%+ de acerto e 20+ moedas; 3 perdas = pausa.
+
 ### 2.50 · 26/10/2026
 - Teste sem a taxa de 1% de app: o real troca direto na Jupiter.
 - Teto da compra do líder subiu de 0,5 para 3 SOL.
@@ -95,11 +100,6 @@ flowchart TB
 ### 2.48 · 26/10/2026
 - Teste só copia com confirmação de 2 carteiras em 30 min.
 - Compra de carteira sozinha vira observada. Ajuste em Configurações.
-
-### 2.47 · 26/10/2026
-- Estratégia refeita: regras e recomendação no topo; o resto em seções que abrem.
-- IA de decisão: nota de compra e decisão de saída, treinada aqui com as suas operações. Começa em sombra.
-- IA decide no teste com um toque. Dinheiro real nunca passa pela IA.
 
 <!-- NOVIDADES:FIM -->
 
