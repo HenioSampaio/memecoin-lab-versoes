@@ -1,12 +1,12 @@
 {
-  "versao": "2.39",
+  "versao": "2.40",
   "data": "26/10/2026",
   "notas": [
-    "Mercado: o gráfico de quem mais subiu na última hora voltou ao visual certo (as barras e a % tinham sido esmagadas por um estilo novo do Holder).",
-    "Meu saldo: visual no estilo do Holder — resultado grande no topo, saldo/livre/investido em faixa, compras e vendas compactas, menos texto."
+    "Meu saldo no estilo Apple: saldo grande no topo, resultado em pílula colorida, métricas limpas.",
+    "Extrato com filtros em segmento: Tudo / Compras / Vendas e período 1D · 1S · 1M · Tudo."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.39/MemecoinLab.exe",
-  "sha256": "ab08c66f06d06143858ff6d0bf12be6d3efe7cadd88d2295516924664fbc90ad",
-  "tamanho": 35000326,
-  "publicado_em": "2026-10-26T10:42:32"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.40/MemecoinLab.exe",
+  "sha256": "c4ab2fefc09210f32a1ce4fba3e386346bb422d04aeaaef237b3197af10e3700",
+  "tamanho": 35002015,
+  "publicado_em": "2026-10-26T10:51:19"
 }
