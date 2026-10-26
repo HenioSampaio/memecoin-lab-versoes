@@ -83,6 +83,10 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.39 · 26/10/2026
+- Mercado: o gráfico de quem mais subiu na última hora voltou ao visual certo (as barras e a % tinham sido esmagadas por um estilo novo do Holder).
+- Meu saldo: visual no estilo do Holder — resultado grande no topo, saldo/livre/investido em faixa, compras e vendas compactas, menos texto.
+
 ### 2.38 · 26/10/2026
 - Holder com visual novo: resumo no topo com o valor dos holds abertos em R$, quanto foi investido e o resultado em %, além de holds abertos, orçamento usado, valor por hold e nota mínima (com barras). O texto longo virou um "Como funciona" que abre e fecha.
 - Cada hold aberto virou um cartão: ícone da moeda, selo teste/real, nota num anel colorido, múltiplo atual (ex.: 0,05x) com a variação em %, pico, minigráfico do preço, a escada 2x/5x/10x/70x com ✓ nos degraus alcançados, motivos em etiquetas e riscos em laranja, e botões Abrir ficha, Gráfico, DexScreener e Vender (só no teste, pede confirmação).
@@ -105,20 +109,6 @@ flowchart TB
 - Telegram: o botão Gráfico dos avisos agora manda a imagem do gráfico aqui no chat (antes abria um site), e há o botão Ficha. Os links do X, pump.fun e DexScreener ficam numa linha só.
 - Telegram: menu em grade com Atualizar; Posições mostra um cartão por posição (resultado ao vivo, Vender, Gráfico, ◀ ▶ e Atualizar) trocando na mesma mensagem; Mercado abre a ficha da moeda no chat; Status, Favoritas, Várias juntas, Carteiras, Aprendizado, Resumo do dia e Ajustes com o mesmo cabeçalho e hora da atualização; Vender tudo mostra a lista e o resultado somado antes de confirmar.
 - Convergência rápida e Holder: só contam carteiras avaliadas como boas pelo scout. Antes, carteiras do garimpo ainda sem nota contavam (vimos 13–14 delas disparando o sinal na mesma moeda).
-
-### 2.35 · 25/10/2026
-- Convergência rápida: quando 5 carteiras boas compram a mesma moeda em 15 min, o programa marca o sinal na 5ª compra. Começa em modo sombra (só anota o que teria comprado, para medir); em Estratégia › Convergência rápida dá para mudar para comprar no teste. Carteiras ruins não contam.
-- Vigia não perde mais compras das carteiras só observadas: o limite agora é por carteira e moeda (antes, 1 aviso a cada 30 s por carteira descartava compras de outras moedas). O Radar usa a mesma contagem, sem as carteiras ruins.
-- Carteira ruim fica fora de vez: veredito prejuízo real, isca, sniper ou robô, ou média negativa depois de 8 cópias, bloqueia para sempre (antes era a geladeira de 6 h). A busca de carteiras não recoloca nem reavalia para melhor quem já deu prejuízo real, nem o Avaliar completo.
-- Mais rápido: fontes opcionais que já entregam a troca pronta (PumpPortal e Helius Parsed Streams), com o vigia de sempre como reserva; espera entre leituras da transação caiu de 1 s para 0,3 s. Ficam desligadas até você colocar a chave (Ajustes) e ligar em Estratégia › Velocidade.
-- Preço das posições trade a trade pelo PumpPortal (opcional) e conferência das posições a cada 5 s quando há chave da Jupiter (antes 20 s).
-- Atraso medido do bloco até o aviso aparece no log a cada 30 min; o atraso simulado do teste pode usar essa medida (paper.latency_seconds: auto).
-- Por conta própria: nota mínima continua 70; a convergência rápida entrou como variável do modelo.
-- Testamos todos os botões do programa (computador e celular). Corrigido: Radar e Checar moeda abriam em branco; ícones de moeda sem foto geravam erros; um ícone com endereço estranho derrubava a resposta.
-- Visual no estilo Apple: fonte do sistema (sem baixar fontes da internet), cores do sistema, vidro fosco na barra lateral e no topo, botões de 44 px, controles segmentados e chaves no estilo iPhone, janelas que sobem de baixo no celular, animações suaves (e desligadas se o sistema pedir menos movimento).
-- Telegram: ficha da moeda que se atualiza no mesmo lugar, com gráfico (imagem) e botões Atualizar, Favoritar, DexScreener e Menu; avisos de alta e queda por posição e por favorito com níveis e intervalo configuráveis (sem repetir); cartão de convergência rápida.
-- Holder (novo, só no teste por padrão): quando 3 carteiras boas compram juntas nos primeiros 30 min de vida da moeda, o programa dá uma nota de 0 a 100 com motivos e riscos e abre um hold de teste de R$ 100, sem stop curto: recupera o capital em 2x, vende 20% em 5x, 10% em 10x, 10% em 70x e deixa 10% correndo. No máximo 10 holds e R$ 1.000. Avisos no Telegram em 2x, 5x, 10x, 70x, 140x e em −50% do pico. A tela Holder mostra o retorno com e sem os 3 maiores.
-- Holder com dinheiro real: chave própria, desligada; ligar pede o PIN. O portão (30 dias, 300 holds, retorno sem os 3 maiores acima de 1x) aparece só como aviso. A compra real ainda exige o dinheiro real ligado e respeita os limites dele e do holder.
 
 <!-- NOVIDADES:FIM -->
 
