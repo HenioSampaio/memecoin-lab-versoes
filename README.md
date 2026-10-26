@@ -83,6 +83,9 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.37 · 26/10/2026
+- Telegram: quando o programa encontra uma versão nova, manda uma mensagem só por versão (não repete ao reabrir), com as novidades e o botão Atualizar no PC, que pede confirmação. Só funciona com o programa .exe; rodando pelo Python ele avisa que não dá.
+
 ### 2.36 · 25/10/2026
 - Corrigido: o letreiro "Acontecendo agora" (breaking news) do Painel tinha parado de correr na 2.35. O visual novo desligava todas as animações quando o Windows estava com os efeitos de animação desligados, passando por cima da sua escolha em Ajustes › Movimento. Agora vale só a sua escolha ("Sempre", "Seguir o Windows" ou "Parado"), como na 2.34. Voltaram a se mexer também a bolinha "ao vivo", o carregando, o fundo animado do Painel e o aviso piscando.
 - Letreiro: tocar numa moeda abre a ficha dela; passar o mouse pausa.
@@ -109,11 +112,6 @@ flowchart TB
 - Corrigido: depois de comprar pelo popup, a tela ficava em branco com "Memecoin Lab › undefined" (os botões de valor eram confundidos com botões de tela).
 - Sininho mais confiável: tocar em −20% agora marca o degrau (antes vinha marcado e o toque desmarcava), o valor digitado não some ao trocar de opção, valor vazio não vira "só aviso" escondido, e uma compra que falha por motivo passageiro (Jupiter ocupada, sem rota) tenta de novo por até 10 min em vez de queimar o degrau.
 - Telegram: compra com dinheiro real na ficha da moeda, com valor e PIN de 6 números. O bot apaga a mensagem do PIN, o pedido vale 2 min, só o seu chat é atendido e valem os limites do modo real. Só aparece com o dinheiro real ligado.
-
-### 2.33 · 25/10/2026
-- Comprar virou botão na ficha da moeda, com popup: Teste ou Dinheiro real, valores rápidos (0,05 a 1 SOL) ou o seu, e o R$ ao lado.
-- Dinheiro real na compra manual e no sininho: respeita o teto, o limite de posições, a perda do dia e o saldo da carteira do laboratório; a saída segue as regras da Estratégia. Pelo celular pede o PIN de segurança; no Telegram a compra continua só no teste.
-- Por conta própria: valor por compra ajustável (com nota alta vai até o dobro), vale na hora.
 
 <!-- NOVIDADES:FIM -->
 
