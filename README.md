@@ -83,6 +83,11 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.46 · 26/10/2026
+- Ligar o laboratório voltou a funcionar com o Autônomo ligado (erro na 2.45 desligava na hora).
+- Teste pausado mostra o motivo e o botão Retomar; a pausa não volta sozinha com as mesmas perdas.
+- Interruptores corrigidos: Abrir com o Windows, Assist ao vivo e Resumo do dia.
+
 ### 2.45 · 26/10/2026
 - Core P0 (autópsia): entrada 0,15 SOL, máx. 5 abertas, idade 10–1440 min, teto da compra do líder 0,5 SOL, queda rápida 22%, nota mínima Autônomo 75, convergência fora do modo sombra, aprendizado com 5 cópias.
 - Assist de decisão: aprende sozinho com trades fechados (expectancy); no Autônomo (teste) pode VETAR, reduzir size ou COMPRAR — a IA executa a compra no paper depois dos filtros P0 e do kill-switch. Dinheiro real continua no caminho seguro do app (não abre live pelo assist).
@@ -96,9 +101,6 @@ flowchart TB
 ### 2.43 · 26/10/2026
 - Teste com kill-switch: para de abrir se perder o limite do dia ou após uma sequência de prejuízos (ajustável em Estratégia).
 - Holder: piso duro (−70% por padrão) para não ficar preso em hold morto; avisos e tela dizem Holder, não copiando holder.
-
-### 2.42 · 26/10/2026
-- Avisos na barra do Windows: mesmo com a janela minimizada (liga/desliga em Ajustes).
 
 <!-- NOVIDADES:FIM -->
 
