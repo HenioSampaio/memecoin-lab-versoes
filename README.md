@@ -83,6 +83,10 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.41 · 26/10/2026
+- Meu saldo: Compras e Vendas entraram dentro do card roxo do caixa (sumiram os dois cards brancos separados).
+- Grafico da moeda: corrige tela vazia no 1m (nao cacheia falha do GeckoTerminal, ignora resposta atrasada ao trocar o periodo e redesenha quando a janela termina de abrir).
+
 ### 2.40 · 26/10/2026
 - Meu saldo no estilo Apple: saldo grande no topo, resultado em pílula colorida, métricas limpas.
 - Extrato com filtros em segmento: Tudo / Compras / Vendas e período 1D · 1S · 1M · Tudo.
@@ -102,9 +106,6 @@ flowchart TB
 - Menos texto nas telas novas: subtítulos curtos, passos de uma linha e detalhes no "Como funciona".
 - Logos dos sites em Conexões e chaves (GitHub, Telegram, Jupiter, Helius, PumpPortal) e nos botões da Phantom e do DexScreener.
 - Portão do dinheiro real do holder com barra de progresso em cada item. A chave do dinheiro real continua desligada por padrão e pedindo o PIN.
-
-### 2.37 · 26/10/2026
-- Telegram: quando o programa encontra uma versão nova, manda uma mensagem só por versão (não repete ao reabrir), com as novidades e o botão Atualizar no PC, que pede confirmação. Só funciona com o programa .exe; rodando pelo Python ele avisa que não dá.
 
 <!-- NOVIDADES:FIM -->
 
