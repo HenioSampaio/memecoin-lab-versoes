@@ -83,6 +83,15 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.55 · 26/10/2026
+- Holder: adicione uma moeda você mesmo (endereço ou link, valor e alvo %).
+- O hold manual aparece com ✋ e vende sozinho no alvo; Vender continua no cartão.
+
+### 2.54 · 26/10/2026
+- Analista: segue analista.json (evitar, preferir, pausar, sair). Só no teste.
+- A cada minuto sai analista_estado.json com o resumo para o analista.
+- Cartão 🧠 Analista na Estratégia.
+
 ### 2.53 · 26/10/2026
 - Uma posição por moeda: cópia e convergência não compram a mesma duas vezes.
 - Vale também entre o copy trade e o por conta própria.
@@ -92,15 +101,6 @@ flowchart TB
 - Voltou a copiar: carteira precisa de 10+ moedas no histórico (era 20).
 - O log diz por que uma carteira não foi copiada.
 - IA visível: "IA: compra 72%" em cada sinal e resumo na Estratégia.
-
-### 2.51 · 26/10/2026
-- Insiders não barra mais no teste: a moeda entra com metade.
-- Com dinheiro real ligado, insiders continua barrando.
-- Teste só copia carteira com 45%+ de acerto e 20+ moedas; 3 perdas = pausa.
-
-### 2.50 · 26/10/2026
-- Teste sem a taxa de 1% de app: o real troca direto na Jupiter.
-- Teto da compra do líder subiu de 0,5 para 3 SOL.
 
 <!-- NOVIDADES:FIM -->
 
