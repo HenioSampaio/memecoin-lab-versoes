@@ -83,6 +83,14 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.36 · 25/10/2026
+- Corrigido: o letreiro "Acontecendo agora" (breaking news) do Painel tinha parado de correr na 2.35. O visual novo desligava todas as animações quando o Windows estava com os efeitos de animação desligados, passando por cima da sua escolha em Ajustes › Movimento. Agora vale só a sua escolha ("Sempre", "Seguir o Windows" ou "Parado"), como na 2.34. Voltaram a se mexer também a bolinha "ao vivo", o carregando, o fundo animado do Painel e o aviso piscando.
+- Letreiro: tocar numa moeda abre a ficha dela; passar o mouse pausa.
+- Telegram: todas as mensagens antigas ganharam o visual novo. Compra (entrada, motivo, como sai), venda (resultado em R$ e SOL, entrada → saída, tempo na posição, motivo e o resultado do dia), sininho, venda parcial e rug viram cartões com título e ícones fixos.
+- Telegram: o botão Gráfico dos avisos agora manda a imagem do gráfico aqui no chat (antes abria um site), e há o botão Ficha. Os links do X, pump.fun e DexScreener ficam numa linha só.
+- Telegram: menu em grade com Atualizar; Posições mostra um cartão por posição (resultado ao vivo, Vender, Gráfico, ◀ ▶ e Atualizar) trocando na mesma mensagem; Mercado abre a ficha da moeda no chat; Status, Favoritas, Várias juntas, Carteiras, Aprendizado, Resumo do dia e Ajustes com o mesmo cabeçalho e hora da atualização; Vender tudo mostra a lista e o resultado somado antes de confirmar.
+- Convergência rápida e Holder: só contam carteiras avaliadas como boas pelo scout. Antes, carteiras do garimpo ainda sem nota contavam (vimos 13–14 delas disparando o sinal na mesma moeda).
+
 ### 2.35 · 25/10/2026
 - Convergência rápida: quando 5 carteiras boas compram a mesma moeda em 15 min, o programa marca o sinal na 5ª compra. Começa em modo sombra (só anota o que teria comprado, para medir); em Estratégia › Convergência rápida dá para mudar para comprar no teste. Carteiras ruins não contam.
 - Vigia não perde mais compras das carteiras só observadas: o limite agora é por carteira e moeda (antes, 1 aviso a cada 30 s por carteira descartava compras de outras moedas). O Radar usa a mesma contagem, sem as carteiras ruins.
@@ -106,9 +114,6 @@ flowchart TB
 - Comprar virou botão na ficha da moeda, com popup: Teste ou Dinheiro real, valores rápidos (0,05 a 1 SOL) ou o seu, e o R$ ao lado.
 - Dinheiro real na compra manual e no sininho: respeita o teto, o limite de posições, a perda do dia e o saldo da carteira do laboratório; a saída segue as regras da Estratégia. Pelo celular pede o PIN de segurança; no Telegram a compra continua só no teste.
 - Por conta própria: valor por compra ajustável (com nota alta vai até o dobro), vale na hora.
-
-### 2.32 · 25/10/2026
-- Sininho virou ícone: no topo da ficha da moeda, ao lado da estrela, com o número de degraus armados; tocando, abre um popup para criar e apagar.
 
 <!-- NOVIDADES:FIM -->
 
