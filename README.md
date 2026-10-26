@@ -83,6 +83,11 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.34 · 25/10/2026
+- Corrigido: depois de comprar pelo popup, a tela ficava em branco com "Memecoin Lab › undefined" (os botões de valor eram confundidos com botões de tela).
+- Sininho mais confiável: tocar em −20% agora marca o degrau (antes vinha marcado e o toque desmarcava), o valor digitado não some ao trocar de opção, valor vazio não vira "só aviso" escondido, e uma compra que falha por motivo passageiro (Jupiter ocupada, sem rota) tenta de novo por até 10 min em vez de queimar o degrau.
+- Telegram: compra com dinheiro real na ficha da moeda, com valor e PIN de 6 números. O bot apaga a mensagem do PIN, o pedido vale 2 min, só o seu chat é atendido e valem os limites do modo real. Só aparece com o dinheiro real ligado.
+
 ### 2.33 · 25/10/2026
 - Comprar virou botão na ficha da moeda, com popup: Teste ou Dinheiro real, valores rápidos (0,05 a 1 SOL) ou o seu, e o R$ ao lado.
 - Dinheiro real na compra manual e no sininho: respeita o teto, o limite de posições, a perda do dia e o saldo da carteira do laboratório; a saída segue as regras da Estratégia. Pelo celular pede o PIN de segurança; no Telegram a compra continua só no teste.
@@ -95,10 +100,6 @@ flowchart TB
 - Sininho da moeda: na ficha de qualquer moeda, escolha degraus de queda (−10%, −20%, −30%, −50%, −70%) a partir do preço de agora; em cada um o programa compra no teste um valor em SOL, um % do caixa, ou só avisa. Cada degrau dispara uma vez e avisa no Telegram.
 - Favoritas: estrela na ficha da moeda, aba Favoritas no Mercado (com quanto subiu desde que favoritou) e ⭐ Favoritas no Telegram.
 - Compra manual e do sininho podem ser um aporte numa moeda que já tem posição aberta.
-
-### 2.30 · 25/10/2026
-- Mercado › Várias juntas: nome da moeda, valor de mercado e quanto ela já subiu desde a 1ª compra das nossas carteiras (diz se ainda está cedo ou já é tarde).
-- Telegram › Várias juntas: a mesma lista, numerada, com variação desde a 1ª compra e botão para a ficha da moeda (e o Comprar no teste).
 
 <!-- NOVIDADES:FIM -->
 
