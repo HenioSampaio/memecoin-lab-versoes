@@ -1,12 +1,13 @@
 {
-  "versao": "2.43",
+  "versao": "2.44",
   "data": "26/10/2026",
   "notas": [
-    "Teste com kill-switch: para de abrir se perder o limite do dia ou após uma sequência de prejuízos (ajustável em Estratégia).",
-    "Holder: piso duro (−70% por padrão) para não ficar preso em hold morto; avisos e tela dizem Holder, não copiando holder."
+    "Meu saldo: Holder de volta no seletor (Teste / Autônomo / Holder / Real); card roxo alinhado à paleta do app (mesmo --brand das outras abas).",
+    "Ajustes: interruptor para desligar a pausa após sequência de prejuízos (o limite de perda do dia continua separado).",
+    "Holder: resultado grande no topo como no Autônomo (lucro/prejuízo em R$, SOL e %), não só o valor dos holds abertos."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.43/MemecoinLab.exe",
-  "sha256": "1dcdc875cd1d0a30dac46b27a70c2348eccd9c9d00ab98854589761827db6fde",
-  "tamanho": 35008199,
-  "publicado_em": "2026-10-26T11:32:25"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.44/MemecoinLab.exe",
+  "sha256": "26d07c3a467a37bb0aeb9b3019cff84b0895bffd6b9d83abd8e60680ddc2c6fb",
+  "tamanho": 35010728,
+  "publicado_em": "2026-10-26T12:06:10"
 }
