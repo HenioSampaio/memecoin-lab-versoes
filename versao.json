@@ -1,13 +1,13 @@
 {
-  "versao": "2.33",
+  "versao": "2.34",
   "data": "25/10/2026",
   "notas": [
-    "Comprar virou botão na ficha da moeda, com popup: Teste ou Dinheiro real, valores rápidos (0,05 a 1 SOL) ou o seu, e o R$ ao lado.",
-    "Dinheiro real na compra manual e no sininho: respeita o teto, o limite de posições, a perda do dia e o saldo da carteira do laboratório; a saída segue as regras da Estratégia. Pelo celular pede o PIN de segurança; no Telegram a compra continua só no teste.",
-    "Por conta própria: valor por compra ajustável (com nota alta vai até o dobro), vale na hora."
+    "Corrigido: depois de comprar pelo popup, a tela ficava em branco com \"Memecoin Lab › undefined\" (os botões de valor eram confundidos com botões de tela).",
+    "Sininho mais confiável: tocar em −20% agora marca o degrau (antes vinha marcado e o toque desmarcava), o valor digitado não some ao trocar de opção, valor vazio não vira \"só aviso\" escondido, e uma compra que falha por motivo passageiro (Jupiter ocupada, sem rota) tenta de novo por até 10 min em vez de queimar o degrau.",
+    "Telegram: compra com dinheiro real na ficha da moeda, com valor e PIN de 6 números. O bot apaga a mensagem do PIN, o pedido vale 2 min, só o seu chat é atendido e valem os limites do modo real. Só aparece com o dinheiro real ligado."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.33/MemecoinLab.exe",
-  "sha256": "63e7f3787c01405e4d1bb43d433e67be783885cfa6d5b0e162fa60dfff1c541a",
-  "tamanho": 34896233,
-  "publicado_em": "2026-10-25T19:44:32"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.34/MemecoinLab.exe",
+  "sha256": "982925402ead061fad98a1ac1571c0801bbccfc71b7291b7a1bb714f91a4a072",
+  "tamanho": 34904216,
+  "publicado_em": "2026-10-25T21:12:56"
 }
