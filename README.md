@@ -83,6 +83,10 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.50 · 26/10/2026
+- Teste sem a taxa de 1% de app: o real troca direto na Jupiter.
+- Teto da compra do líder subiu de 0,5 para 3 SOL.
+
 ### 2.49 · 26/10/2026
 - Telas do Painel aos Ajustes mais limpas: menos texto, cards e números no mesmo padrão.
 - Telegram: avisos curtos com números alinhados, Solscan e DexScreener.
@@ -96,11 +100,6 @@ flowchart TB
 - Estratégia refeita: regras e recomendação no topo; o resto em seções que abrem.
 - IA de decisão: nota de compra e decisão de saída, treinada aqui com as suas operações. Começa em sombra.
 - IA decide no teste com um toque. Dinheiro real nunca passa pela IA.
-
-### 2.46 · 26/10/2026
-- Ligar o laboratório voltou a funcionar com o Autônomo ligado (erro na 2.45 desligava na hora).
-- Teste pausado mostra o motivo e o botão Retomar; a pausa não volta sozinha com as mesmas perdas.
-- Interruptores corrigidos: Abrir com o Windows, Assist ao vivo e Resumo do dia.
 
 <!-- NOVIDADES:FIM -->
 
