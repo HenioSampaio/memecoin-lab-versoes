@@ -1,13 +1,13 @@
 {
-  "versao": "2.51",
+  "versao": "2.52",
   "data": "26/10/2026",
   "notas": [
-    "Insiders não barra mais no teste: a moeda entra com metade.",
-    "Com dinheiro real ligado, insiders continua barrando.",
-    "Teste só copia carteira com 45%+ de acerto e 20+ moedas; 3 perdas = pausa."
+    "Voltou a copiar: carteira precisa de 10+ moedas no histórico (era 20).",
+    "O log diz por que uma carteira não foi copiada.",
+    "IA visível: \"IA: compra 72%\" em cada sinal e resumo na Estratégia."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.51/MemecoinLab.exe",
-  "sha256": "184324f4d7d8abcc6a146be3c3e50483064e9556550d744d3f31268af33dbc7b",
-  "tamanho": 35070279,
-  "publicado_em": "2026-10-26T19:02:15"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.52/MemecoinLab.exe",
+  "sha256": "38250f6966a4a9b873ead098f009b8f2eff55e52703b736f72e3b22052f178f4",
+  "tamanho": 35074473,
+  "publicado_em": "2026-10-26T19:30:18"
 }
