@@ -1,12 +1,12 @@
 {
-  "versao": "2.55",
+  "versao": "2.56",
   "data": "26/10/2026",
   "notas": [
-    "Holder: adicione uma moeda você mesmo (endereço ou link, valor e alvo %).",
-    "O hold manual aparece com ✋ e vende sozinho no alvo; Vender continua no cartão."
+    "Teste explora: 1 em 4 cópias barradas por travas leves entra com metade.",
+    "Robô, bloqueio de vez e filtros anti-golpe continuam barrando."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.55/MemecoinLab.exe",
-  "sha256": "f1572b049182531364d78d29154931bbf24257c8114af64f64e0c82f765017e4",
-  "tamanho": 35104833,
-  "publicado_em": "2026-10-26T20:24:11"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.56/MemecoinLab.exe",
+  "sha256": "d2ea4059179d22d762e0bbd840cfff017e9001b54342248e1685272ebff7218a",
+  "tamanho": 35105419,
+  "publicado_em": "2026-10-26T20:38:13"
 }
