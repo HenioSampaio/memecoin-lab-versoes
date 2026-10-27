@@ -83,6 +83,11 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.66 · 27/10/2026
+- Corrigido: o laboratório parava com "database is locked".
+- A cópia para o GitHub não trava mais o programa nem o banco.
+- Se algo der erro, o laboratório volta sozinho em 10 s.
+
 ### 2.65 · 27/10/2026
 - Compra manual e Holder no teste: no máximo 10% da banca.
 - Teste mais realista: −1,5% de custo extra em cada compra e venda.
@@ -96,10 +101,6 @@ flowchart TB
 ### 2.63 · 26/10/2026
 - Holder: ajuste stop, venda da metade, guarda do lucro e moonbag na tela.
 - Vale na hora para os holds abertos e para o gráfico.
-
-### 2.62 · 26/10/2026
-- Avisos Juntas: chave em Ajustes, botão 🔔/🔕 e /juntas_off · /juntas_on.
-- Log mais limpo: quedas do websocket cobertas pela outra fonte não aparecem.
 
 <!-- NOVIDADES:FIM -->
 
