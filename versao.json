@@ -1,12 +1,12 @@
 {
-  "versao": "2.61",
+  "versao": "2.62",
   "data": "26/10/2026",
   "notas": [
-    "Corrigido: janela branca com hold aberto.",
-    "Se a conexão cair, aparece \"reconectando…\" e a tela volta sozinha."
+    "Avisos Juntas: chave em Ajustes, botão 🔔/🔕 e /juntas_off · /juntas_on.",
+    "Log mais limpo: quedas do websocket cobertas pela outra fonte não aparecem."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.61/MemecoinLab.exe",
-  "sha256": "287106eb271bcaacc6b2183e91d030321e2f61b4c3daad98b6ae6ae508b4178d",
-  "tamanho": 35116955,
-  "publicado_em": "2026-10-26T21:18:19"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.62/MemecoinLab.exe",
+  "sha256": "86256b33db093fa32577c7e638bfb30257d677ccd467d121681f6ba790086e12",
+  "tamanho": 35120522,
+  "publicado_em": "2026-10-26T21:34:11"
 }
