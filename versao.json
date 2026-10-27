@@ -1,13 +1,13 @@
 {
-  "versao": "2.66",
+  "versao": "2.67",
   "data": "27/10/2026",
   "notas": [
-    "Corrigido: o laboratório parava com \"database is locked\".",
-    "A cópia para o GitHub não trava mais o programa nem o banco.",
-    "Se algo der erro, o laboratório volta sozinho em 10 s."
+    "Telegram: nome da moeda, endereço para copiar e de onde veio a posição.",
+    "Todo aviso de compra e venda mostra o valor em R$ e SOL.",
+    "Autônomo com motivo, resultado e tempo; nada de texto cortado."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.66/MemecoinLab.exe",
-  "sha256": "ea16859ad5d50815db8d19673b49750655c524f97111bdf34aa3953ebc29e9d0",
-  "tamanho": 35144874,
-  "publicado_em": "2026-10-27T08:09:15"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.67/MemecoinLab.exe",
+  "sha256": "267c6cd3b3d752238659a0f90faaba9901a50e868e1b049c8223c235aba10093",
+  "tamanho": 35149698,
+  "publicado_em": "2026-10-27T09:02:58"
 }
