@@ -1,12 +1,12 @@
 {
-  "versao": "2.58",
+  "versao": "2.59",
   "data": "26/10/2026",
   "notas": [
-    "Telegram: /juntas mostra as 10 moedas com mais carteiras nossas (4 h).",
-    "Aviso quando 5+ carteiras entram na mesma moeda (ajuste ou 0 desliga)."
+    "Últimas operações mostra tudo: cópia, 🧪, autônomo, holder e manual.",
+    "Vendas parciais do holder aparecem; o saldo do teste soma o autônomo."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.58/MemecoinLab.exe",
-  "sha256": "965d07a1886e77acc9a60e74f704b0a739bd43515b42df58582fcd7b80b58b8e",
-  "tamanho": 35110157,
-  "publicado_em": "2026-10-26T21:02:30"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.59/MemecoinLab.exe",
+  "sha256": "36fe3cb7db8b55faf628f05d0897bfc2062ab325fdb2b00679adf2756eef2931",
+  "tamanho": 35114187,
+  "publicado_em": "2026-10-26T21:06:35"
 }
