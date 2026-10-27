@@ -1,12 +1,12 @@
 {
-  "versao": "2.60",
+  "versao": "2.61",
   "data": "26/10/2026",
   "notas": [
-    "Recomendação auto não aparece mais desligada à toa; mostra última e próxima.",
-    "Se pausar sozinha, mostra o motivo e avisa no Telegram."
+    "Corrigido: janela branca com hold aberto.",
+    "Se a conexão cair, aparece \"reconectando…\" e a tela volta sozinha."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.60/MemecoinLab.exe",
-  "sha256": "2895d1b9cc7774951f9b5f0c0df839d97bfdd678f6813b06aa02e20bd9dd41e1",
-  "tamanho": 35116188,
-  "publicado_em": "2026-10-26T21:09:45"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.61/MemecoinLab.exe",
+  "sha256": "287106eb271bcaacc6b2183e91d030321e2f61b4c3daad98b6ae6ae508b4178d",
+  "tamanho": 35116955,
+  "publicado_em": "2026-10-26T21:18:19"
 }
