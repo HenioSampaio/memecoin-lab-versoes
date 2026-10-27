@@ -83,6 +83,11 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.67 · 27/10/2026
+- Telegram: nome da moeda, endereço para copiar e de onde veio a posição.
+- Todo aviso de compra e venda mostra o valor em R$ e SOL.
+- Autônomo com motivo, resultado e tempo; nada de texto cortado.
+
 ### 2.66 · 27/10/2026
 - Corrigido: o laboratório parava com "database is locked".
 - A cópia para o GitHub não trava mais o programa nem o banco.
@@ -97,10 +102,6 @@ flowchart TB
 - 🧠 Grok decide compra e venda no teste (nunca com dinheiro real).
 - Estratégia › Grok: modo, decisões, acerto, resultado e custo do dia.
 - Operações do Grok aparecem com 🧠; travas duras e stops continuam valendo.
-
-### 2.63 · 26/10/2026
-- Holder: ajuste stop, venda da metade, guarda do lucro e moonbag na tela.
-- Vale na hora para os holds abertos e para o gráfico.
 
 <!-- NOVIDADES:FIM -->
 
