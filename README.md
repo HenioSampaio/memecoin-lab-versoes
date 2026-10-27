@@ -83,6 +83,10 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.63 · 26/10/2026
+- Holder: ajuste stop, venda da metade, guarda do lucro e moonbag na tela.
+- Vale na hora para os holds abertos e para o gráfico.
+
 ### 2.62 · 26/10/2026
 - Avisos Juntas: chave em Ajustes, botão 🔔/🔕 e /juntas_off · /juntas_on.
 - Log mais limpo: quedas do websocket cobertas pela outra fonte não aparecem.
@@ -94,10 +98,6 @@ flowchart TB
 ### 2.60 · 26/10/2026
 - Recomendação auto não aparece mais desligada à toa; mostra última e próxima.
 - Se pausar sozinha, mostra o motivo e avisa no Telegram.
-
-### 2.59 · 26/10/2026
-- Últimas operações mostra tudo: cópia, 🧪, autônomo, holder e manual.
-- Vendas parciais do holder aparecem; o saldo do teste soma o autônomo.
 
 <!-- NOVIDADES:FIM -->
 
