@@ -1,12 +1,12 @@
 {
-  "versao": "2.62",
+  "versao": "2.63",
   "data": "26/10/2026",
   "notas": [
-    "Avisos Juntas: chave em Ajustes, botão 🔔/🔕 e /juntas_off · /juntas_on.",
-    "Log mais limpo: quedas do websocket cobertas pela outra fonte não aparecem."
+    "Holder: ajuste stop, venda da metade, guarda do lucro e moonbag na tela.",
+    "Vale na hora para os holds abertos e para o gráfico."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.62/MemecoinLab.exe",
-  "sha256": "86256b33db093fa32577c7e638bfb30257d677ccd467d121681f6ba790086e12",
-  "tamanho": 35120522,
-  "publicado_em": "2026-10-26T21:34:11"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.63/MemecoinLab.exe",
+  "sha256": "f1e10097052f3387baf70cb4f01a008a3f3be7620a27b9e37ffffcfdb8420d07",
+  "tamanho": 35122406,
+  "publicado_em": "2026-10-26T21:45:28"
 }
