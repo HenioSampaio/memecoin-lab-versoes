@@ -83,6 +83,10 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.59 · 26/10/2026
+- Últimas operações mostra tudo: cópia, 🧪, autônomo, holder e manual.
+- Vendas parciais do holder aparecem; o saldo do teste soma o autônomo.
+
 ### 2.58 · 26/10/2026
 - Telegram: /juntas mostra as 10 moedas com mais carteiras nossas (4 h).
 - Aviso quando 5+ carteiras entram na mesma moeda (ajuste ou 0 desliga).
@@ -94,10 +98,6 @@ flowchart TB
 ### 2.56 · 26/10/2026
 - Teste explora: 1 em 4 cópias barradas por travas leves entra com metade.
 - Robô, bloqueio de vez e filtros anti-golpe continuam barrando.
-
-### 2.55 · 26/10/2026
-- Holder: adicione uma moeda você mesmo (endereço ou link, valor e alvo %).
-- O hold manual aparece com ✋ e vende sozinho no alvo; Vender continua no cartão.
 
 <!-- NOVIDADES:FIM -->
 
