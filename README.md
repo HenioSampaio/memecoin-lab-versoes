@@ -83,6 +83,10 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.69 · 27/10/2026
+- O X da janela fecha o programa direto (não abre mais o resumo do dia).
+- Ao fechar, o resumo do dia vai pelo Telegram.
+
 ### 2.68 · 27/10/2026
 - Corrigido: o botão Fechar voltou a fechar o programa.
 - Fechar desliga o laboratório na hora; o vigia não religa mais.
@@ -97,11 +101,6 @@ flowchart TB
 - Corrigido: o laboratório parava com "database is locked".
 - A cópia para o GitHub não trava mais o programa nem o banco.
 - Se algo der erro, o laboratório volta sozinho em 10 s.
-
-### 2.65 · 27/10/2026
-- Compra manual e Holder no teste: no máximo 10% da banca.
-- Teste mais realista: −1,5% de custo extra em cada compra e venda.
-- Recomendação auto não desfaz o que mudou nos últimos 7 dias.
 
 <!-- NOVIDADES:FIM -->
 
