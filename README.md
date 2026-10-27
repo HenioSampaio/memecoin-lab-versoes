@@ -83,6 +83,11 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.65 · 27/10/2026
+- Compra manual e Holder no teste: no máximo 10% da banca.
+- Teste mais realista: −1,5% de custo extra em cada compra e venda.
+- Recomendação auto não desfaz o que mudou nos últimos 7 dias.
+
 ### 2.64 · 26/10/2026
 - 🧠 Grok decide compra e venda no teste (nunca com dinheiro real).
 - Estratégia › Grok: modo, decisões, acerto, resultado e custo do dia.
@@ -95,10 +100,6 @@ flowchart TB
 ### 2.62 · 26/10/2026
 - Avisos Juntas: chave em Ajustes, botão 🔔/🔕 e /juntas_off · /juntas_on.
 - Log mais limpo: quedas do websocket cobertas pela outra fonte não aparecem.
-
-### 2.61 · 26/10/2026
-- Corrigido: janela branca com hold aberto.
-- Se a conexão cair, aparece "reconectando…" e a tela volta sozinha.
 
 <!-- NOVIDADES:FIM -->
 
