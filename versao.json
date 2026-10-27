@@ -1,13 +1,13 @@
 {
-  "versao": "2.65",
+  "versao": "2.66",
   "data": "27/10/2026",
   "notas": [
-    "Compra manual e Holder no teste: no máximo 10% da banca.",
-    "Teste mais realista: −1,5% de custo extra em cada compra e venda.",
-    "Recomendação auto não desfaz o que mudou nos últimos 7 dias."
+    "Corrigido: o laboratório parava com \"database is locked\".",
+    "A cópia para o GitHub não trava mais o programa nem o banco.",
+    "Se algo der erro, o laboratório volta sozinho em 10 s."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.65/MemecoinLab.exe",
-  "sha256": "64cb0108f4df89f848b1bf04fafe5f9ece68fc5cb6a367aeae827a463c48d718",
-  "tamanho": 35141753,
-  "publicado_em": "2026-10-27T02:47:55"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.66/MemecoinLab.exe",
+  "sha256": "ea16859ad5d50815db8d19673b49750655c524f97111bdf34aa3953ebc29e9d0",
+  "tamanho": 35144874,
+  "publicado_em": "2026-10-27T08:09:15"
 }
