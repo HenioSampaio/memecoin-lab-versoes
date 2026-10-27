@@ -83,6 +83,10 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.62 · 26/10/2026
+- Avisos Juntas: chave em Ajustes, botão 🔔/🔕 e /juntas_off · /juntas_on.
+- Log mais limpo: quedas do websocket cobertas pela outra fonte não aparecem.
+
 ### 2.61 · 26/10/2026
 - Corrigido: janela branca com hold aberto.
 - Se a conexão cair, aparece "reconectando…" e a tela volta sozinha.
@@ -94,10 +98,6 @@ flowchart TB
 ### 2.59 · 26/10/2026
 - Últimas operações mostra tudo: cópia, 🧪, autônomo, holder e manual.
 - Vendas parciais do holder aparecem; o saldo do teste soma o autônomo.
-
-### 2.58 · 26/10/2026
-- Telegram: /juntas mostra as 10 moedas com mais carteiras nossas (4 h).
-- Aviso quando 5+ carteiras entram na mesma moeda (ajuste ou 0 desliga).
 
 <!-- NOVIDADES:FIM -->
 
