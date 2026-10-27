@@ -83,6 +83,10 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.60 · 26/10/2026
+- Recomendação auto não aparece mais desligada à toa; mostra última e próxima.
+- Se pausar sozinha, mostra o motivo e avisa no Telegram.
+
 ### 2.59 · 26/10/2026
 - Últimas operações mostra tudo: cópia, 🧪, autônomo, holder e manual.
 - Vendas parciais do holder aparecem; o saldo do teste soma o autônomo.
@@ -94,10 +98,6 @@ flowchart TB
 ### 2.57 · 26/10/2026
 - Holder: no +30% vende metade; o resto guarda o lucro e 10% fica.
 - Holder com stop de −30%; o gráfico mostra as linhas que valem.
-
-### 2.56 · 26/10/2026
-- Teste explora: 1 em 4 cópias barradas por travas leves entra com metade.
-- Robô, bloqueio de vez e filtros anti-golpe continuam barrando.
 
 <!-- NOVIDADES:FIM -->
 
