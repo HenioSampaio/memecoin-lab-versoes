@@ -1,13 +1,13 @@
 {
-  "versao": "2.64",
-  "data": "26/10/2026",
+  "versao": "2.65",
+  "data": "27/10/2026",
   "notas": [
-    "🧠 Grok decide compra e venda no teste (nunca com dinheiro real).",
-    "Estratégia › Grok: modo, decisões, acerto, resultado e custo do dia.",
-    "Operações do Grok aparecem com 🧠; travas duras e stops continuam valendo."
+    "Compra manual e Holder no teste: no máximo 10% da banca.",
+    "Teste mais realista: −1,5% de custo extra em cada compra e venda.",
+    "Recomendação auto não desfaz o que mudou nos últimos 7 dias."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.64/MemecoinLab.exe",
-  "sha256": "aa69e8d531e641b8323ba86f3f8cea478b19e776e3cac7b2dcb9b070f606db04",
-  "tamanho": 35139853,
-  "publicado_em": "2026-10-26T21:59:54"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.65/MemecoinLab.exe",
+  "sha256": "64cb0108f4df89f848b1bf04fafe5f9ece68fc5cb6a367aeae827a463c48d718",
+  "tamanho": 35141753,
+  "publicado_em": "2026-10-27T02:47:55"
 }
