@@ -1,12 +1,12 @@
 {
-  "versao": "2.57",
+  "versao": "2.58",
   "data": "26/10/2026",
   "notas": [
-    "Holder: no +30% vende metade; o resto guarda o lucro e 10% fica.",
-    "Holder com stop de −30%; o gráfico mostra as linhas que valem."
+    "Telegram: /juntas mostra as 10 moedas com mais carteiras nossas (4 h).",
+    "Aviso quando 5+ carteiras entram na mesma moeda (ajuste ou 0 desliga)."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.57/MemecoinLab.exe",
-  "sha256": "c5c743e75b9cad133dcedf3a300e1219d7acf1298d93d557584f3cbedc7c6e10",
-  "tamanho": 35108563,
-  "publicado_em": "2026-10-26T20:52:47"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.58/MemecoinLab.exe",
+  "sha256": "965d07a1886e77acc9a60e74f704b0a739bd43515b42df58582fcd7b80b58b8e",
+  "tamanho": 35110157,
+  "publicado_em": "2026-10-26T21:02:30"
 }
