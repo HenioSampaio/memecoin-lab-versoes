@@ -83,6 +83,14 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.58 · 26/10/2026
+- Telegram: /juntas mostra as 10 moedas com mais carteiras nossas (4 h).
+- Aviso quando 5+ carteiras entram na mesma moeda (ajuste ou 0 desliga).
+
+### 2.57 · 26/10/2026
+- Holder: no +30% vende metade; o resto guarda o lucro e 10% fica.
+- Holder com stop de −30%; o gráfico mostra as linhas que valem.
+
 ### 2.56 · 26/10/2026
 - Teste explora: 1 em 4 cópias barradas por travas leves entra com metade.
 - Robô, bloqueio de vez e filtros anti-golpe continuam barrando.
@@ -90,16 +98,6 @@ flowchart TB
 ### 2.55 · 26/10/2026
 - Holder: adicione uma moeda você mesmo (endereço ou link, valor e alvo %).
 - O hold manual aparece com ✋ e vende sozinho no alvo; Vender continua no cartão.
-
-### 2.54 · 26/10/2026
-- Analista: segue analista.json (evitar, preferir, pausar, sair). Só no teste.
-- A cada minuto sai analista_estado.json com o resumo para o analista.
-- Cartão 🧠 Analista na Estratégia.
-
-### 2.53 · 26/10/2026
-- Uma posição por moeda: cópia e convergência não compram a mesma duas vezes.
-- Vale também entre o copy trade e o por conta própria.
-- Narrativa: tema da moeda e quão quente está (🔥 política 82). Só medição.
 
 <!-- NOVIDADES:FIM -->
 
