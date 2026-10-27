@@ -83,6 +83,11 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.64 · 26/10/2026
+- 🧠 Grok decide compra e venda no teste (nunca com dinheiro real).
+- Estratégia › Grok: modo, decisões, acerto, resultado e custo do dia.
+- Operações do Grok aparecem com 🧠; travas duras e stops continuam valendo.
+
 ### 2.63 · 26/10/2026
 - Holder: ajuste stop, venda da metade, guarda do lucro e moonbag na tela.
 - Vale na hora para os holds abertos e para o gráfico.
@@ -94,10 +99,6 @@ flowchart TB
 ### 2.61 · 26/10/2026
 - Corrigido: janela branca com hold aberto.
 - Se a conexão cair, aparece "reconectando…" e a tela volta sozinha.
-
-### 2.60 · 26/10/2026
-- Recomendação auto não aparece mais desligada à toa; mostra última e próxima.
-- Se pausar sozinha, mostra o motivo e avisa no Telegram.
 
 <!-- NOVIDADES:FIM -->
 
