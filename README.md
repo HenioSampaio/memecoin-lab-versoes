@@ -83,6 +83,10 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.61 · 26/10/2026
+- Corrigido: janela branca com hold aberto.
+- Se a conexão cair, aparece "reconectando…" e a tela volta sozinha.
+
 ### 2.60 · 26/10/2026
 - Recomendação auto não aparece mais desligada à toa; mostra última e próxima.
 - Se pausar sozinha, mostra o motivo e avisa no Telegram.
@@ -94,10 +98,6 @@ flowchart TB
 ### 2.58 · 26/10/2026
 - Telegram: /juntas mostra as 10 moedas com mais carteiras nossas (4 h).
 - Aviso quando 5+ carteiras entram na mesma moeda (ajuste ou 0 desliga).
-
-### 2.57 · 26/10/2026
-- Holder: no +30% vende metade; o resto guarda o lucro e 10% fica.
-- Holder com stop de −30%; o gráfico mostra as linhas que valem.
 
 <!-- NOVIDADES:FIM -->
 
