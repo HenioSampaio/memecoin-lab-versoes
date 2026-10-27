@@ -83,6 +83,11 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.68 · 27/10/2026
+- Corrigido: o botão Fechar voltou a fechar o programa.
+- Fechar desliga o laboratório na hora; o vigia não religa mais.
+- Cópia no GitHub ao fechar: rápida, e pulada se já houve uma há pouco.
+
 ### 2.67 · 27/10/2026
 - Telegram: nome da moeda, endereço para copiar e de onde veio a posição.
 - Todo aviso de compra e venda mostra o valor em R$ e SOL.
@@ -97,11 +102,6 @@ flowchart TB
 - Compra manual e Holder no teste: no máximo 10% da banca.
 - Teste mais realista: −1,5% de custo extra em cada compra e venda.
 - Recomendação auto não desfaz o que mudou nos últimos 7 dias.
-
-### 2.64 · 26/10/2026
-- 🧠 Grok decide compra e venda no teste (nunca com dinheiro real).
-- Estratégia › Grok: modo, decisões, acerto, resultado e custo do dia.
-- Operações do Grok aparecem com 🧠; travas duras e stops continuam valendo.
 
 <!-- NOVIDADES:FIM -->
 
