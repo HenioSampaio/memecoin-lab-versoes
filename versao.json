@@ -1,13 +1,12 @@
 {
-  "versao": "2.68",
+  "versao": "2.69",
   "data": "27/10/2026",
   "notas": [
-    "Corrigido: o botão Fechar voltou a fechar o programa.",
-    "Fechar desliga o laboratório na hora; o vigia não religa mais.",
-    "Cópia no GitHub ao fechar: rápida, e pulada se já houve uma há pouco."
+    "O X da janela fecha o programa direto (não abre mais o resumo do dia).",
+    "Ao fechar, o resumo do dia vai pelo Telegram."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.68/MemecoinLab.exe",
-  "sha256": "bd98c24e11c850bf1fa886a45a6ac7165793a80cfa24d617229cad2e9e73998a",
-  "tamanho": 35151889,
-  "publicado_em": "2026-10-27T09:16:19"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.69/MemecoinLab.exe",
+  "sha256": "573da2f546da648c6575e7c2cda7715be21cec0cc8733634cef50a5abd22524e",
+  "tamanho": 35150845,
+  "publicado_em": "2026-10-27T09:21:42"
 }
