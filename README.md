@@ -83,6 +83,10 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.72 · 28/10/2026
+- Estratégia redesenhada: regra ativa no topo, cada ajuste em um só lugar.
+- Seções: Venda, Entrada, Tamanho e risco, Recomendações, Quem decide, Resultados.
+
 ### 2.71 · 28/10/2026
 - Venda padrão nova: tudo em +30%, stop −15%, saída em 10 min.
 - Recomendação testa vender tudo, alvo 1,3x, stop 15% e 10 min.
@@ -95,11 +99,6 @@ flowchart TB
 ### 2.69 · 27/10/2026
 - O X da janela fecha o programa direto (não abre mais o resumo do dia).
 - Ao fechar, o resumo do dia vai pelo Telegram.
-
-### 2.68 · 27/10/2026
-- Corrigido: o botão Fechar voltou a fechar o programa.
-- Fechar desliga o laboratório na hora; o vigia não religa mais.
-- Cópia no GitHub ao fechar: rápida, e pulada se já houve uma há pouco.
 
 <!-- NOVIDADES:FIM -->
 
