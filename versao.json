@@ -1,12 +1,11 @@
 {
-  "versao": "2.72",
+  "versao": "2.73",
   "data": "28/10/2026",
   "notas": [
-    "Estratégia redesenhada: regra ativa no topo, cada ajuste em um só lugar.",
-    "Seções: Venda, Entrada, Tamanho e risco, Recomendações, Quem decide, Resultados."
+    "Estratégia: os cartões Alvo, Stop, Tempo, Líder e Proteger voltaram ao topo."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.72/MemecoinLab.exe",
-  "sha256": "c3880efbc643ef5eb5c9c202f7ba48871a89a22c2c75998b7ba5c459ef76ac82",
-  "tamanho": 35160033,
-  "publicado_em": "2026-10-28T00:23:11"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.73/MemecoinLab.exe",
+  "sha256": "7707b9a65af9d6d169f07ec7bcdcf92ffcb6099d8d7b78267ecf33caccac0133",
+  "tamanho": 35159888,
+  "publicado_em": "2026-10-28T00:38:16"
 }
