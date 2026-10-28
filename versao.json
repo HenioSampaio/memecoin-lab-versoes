@@ -1,12 +1,13 @@
 {
-  "versao": "2.69",
+  "versao": "2.70",
   "data": "27/10/2026",
   "notas": [
-    "O X da janela fecha o programa direto (não abre mais o resumo do dia).",
-    "Ao fechar, o resumo do dia vai pelo Telegram."
+    "Cópia mais seletiva: confirma 15 s, mede bundle e ajusta pelo acerto do líder.",
+    "Recomendação automática por padrão; cada mudança avisa e dá para desfazer.",
+    "Avisos do Windows voltam; Aplicar não trava; PIN mostra o endereço completo."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.69/MemecoinLab.exe",
-  "sha256": "573da2f546da648c6575e7c2cda7715be21cec0cc8733634cef50a5abd22524e",
-  "tamanho": 35150845,
-  "publicado_em": "2026-10-27T09:21:42"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.70/MemecoinLab.exe",
+  "sha256": "ecc48e60a962b0299e243f25944bea38e7e239bd1f7023ccd0b1212bd8dbeebf",
+  "tamanho": 35159828,
+  "publicado_em": "2026-10-27T21:48:57"
 }
