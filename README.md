@@ -83,6 +83,11 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.70 · 27/10/2026
+- Cópia mais seletiva: confirma 15 s, mede bundle e ajusta pelo acerto do líder.
+- Recomendação automática por padrão; cada mudança avisa e dá para desfazer.
+- Avisos do Windows voltam; Aplicar não trava; PIN mostra o endereço completo.
+
 ### 2.69 · 27/10/2026
 - O X da janela fecha o programa direto (não abre mais o resumo do dia).
 - Ao fechar, o resumo do dia vai pelo Telegram.
@@ -96,11 +101,6 @@ flowchart TB
 - Telegram: nome da moeda, endereço para copiar e de onde veio a posição.
 - Todo aviso de compra e venda mostra o valor em R$ e SOL.
 - Autônomo com motivo, resultado e tempo; nada de texto cortado.
-
-### 2.66 · 27/10/2026
-- Corrigido: o laboratório parava com "database is locked".
-- A cópia para o GitHub não trava mais o programa nem o banco.
-- Se algo der erro, o laboratório volta sozinho em 10 s.
 
 <!-- NOVIDADES:FIM -->
 
