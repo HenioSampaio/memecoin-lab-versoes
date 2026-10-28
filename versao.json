@@ -1,13 +1,12 @@
 {
-  "versao": "2.70",
-  "data": "27/10/2026",
+  "versao": "2.71",
+  "data": "28/10/2026",
   "notas": [
-    "Cópia mais seletiva: confirma 15 s, mede bundle e ajusta pelo acerto do líder.",
-    "Recomendação automática por padrão; cada mudança avisa e dá para desfazer.",
-    "Avisos do Windows voltam; Aplicar não trava; PIN mostra o endereço completo."
+    "Venda padrão nova: tudo em +30%, stop −15%, saída em 10 min.",
+    "Recomendação testa vender tudo, alvo 1,3x, stop 15% e 10 min."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.70/MemecoinLab.exe",
-  "sha256": "ecc48e60a962b0299e243f25944bea38e7e239bd1f7023ccd0b1212bd8dbeebf",
-  "tamanho": 35159828,
-  "publicado_em": "2026-10-27T21:48:57"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.71/MemecoinLab.exe",
+  "sha256": "67dc256c10bc6676bef7820d6a255f4c737ad3754a615c660b4050a2955f30ff",
+  "tamanho": 35160014,
+  "publicado_em": "2026-10-27T23:19:30"
 }
