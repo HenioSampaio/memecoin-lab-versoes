@@ -1,12 +1,12 @@
 {
-  "versao": "2.71",
+  "versao": "2.72",
   "data": "28/10/2026",
   "notas": [
-    "Venda padrão nova: tudo em +30%, stop −15%, saída em 10 min.",
-    "Recomendação testa vender tudo, alvo 1,3x, stop 15% e 10 min."
+    "Estratégia redesenhada: regra ativa no topo, cada ajuste em um só lugar.",
+    "Seções: Venda, Entrada, Tamanho e risco, Recomendações, Quem decide, Resultados."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.71/MemecoinLab.exe",
-  "sha256": "67dc256c10bc6676bef7820d6a255f4c737ad3754a615c660b4050a2955f30ff",
-  "tamanho": 35160014,
-  "publicado_em": "2026-10-27T23:19:30"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.72/MemecoinLab.exe",
+  "sha256": "c3880efbc643ef5eb5c9c202f7ba48871a89a22c2c75998b7ba5c459ef76ac82",
+  "tamanho": 35160033,
+  "publicado_em": "2026-10-28T00:23:11"
 }
