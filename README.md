@@ -83,6 +83,9 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.73 · 28/10/2026
+- Estratégia: os cartões Alvo, Stop, Tempo, Líder e Proteger voltaram ao topo.
+
 ### 2.72 · 28/10/2026
 - Estratégia redesenhada: regra ativa no topo, cada ajuste em um só lugar.
 - Seções: Venda, Entrada, Tamanho e risco, Recomendações, Quem decide, Resultados.
@@ -95,10 +98,6 @@ flowchart TB
 - Cópia mais seletiva: confirma 15 s, mede bundle e ajusta pelo acerto do líder.
 - Recomendação automática por padrão; cada mudança avisa e dá para desfazer.
 - Avisos do Windows voltam; Aplicar não trava; PIN mostra o endereço completo.
-
-### 2.69 · 27/10/2026
-- O X da janela fecha o programa direto (não abre mais o resumo do dia).
-- Ao fechar, o resumo do dia vai pelo Telegram.
 
 <!-- NOVIDADES:FIM -->
 
