@@ -83,6 +83,9 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.74 · 28/10/2026
+- Analista: decisões gravadas com BOM agora são lidas (antes eram ignoradas).
+
 ### 2.73 · 28/10/2026
 - Estratégia: os cartões Alvo, Stop, Tempo, Líder e Proteger voltaram ao topo.
 
@@ -93,11 +96,6 @@ flowchart TB
 ### 2.71 · 28/10/2026
 - Venda padrão nova: tudo em +30%, stop −15%, saída em 10 min.
 - Recomendação testa vender tudo, alvo 1,3x, stop 15% e 10 min.
-
-### 2.70 · 27/10/2026
-- Cópia mais seletiva: confirma 15 s, mede bundle e ajusta pelo acerto do líder.
-- Recomendação automática por padrão; cada mudança avisa e dá para desfazer.
-- Avisos do Windows voltam; Aplicar não trava; PIN mostra o endereço completo.
 
 <!-- NOVIDADES:FIM -->
 
