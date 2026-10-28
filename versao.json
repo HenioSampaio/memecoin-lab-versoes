@@ -1,11 +1,11 @@
 {
-  "versao": "2.73",
+  "versao": "2.74",
   "data": "28/10/2026",
   "notas": [
-    "Estratégia: os cartões Alvo, Stop, Tempo, Líder e Proteger voltaram ao topo."
+    "Analista: decisões gravadas com BOM agora são lidas (antes eram ignoradas)."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.73/MemecoinLab.exe",
-  "sha256": "7707b9a65af9d6d169f07ec7bcdcf92ffcb6099d8d7b78267ecf33caccac0133",
-  "tamanho": 35159888,
-  "publicado_em": "2026-10-28T00:38:16"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.74/MemecoinLab.exe",
+  "sha256": "f7513d8fe0a06628ddd43593de6544ec52d77b8d91d6e05faf2179565346421c",
+  "tamanho": 35159083,
+  "publicado_em": "2026-10-28T05:15:10"
 }
