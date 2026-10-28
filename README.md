@@ -83,6 +83,10 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.71 · 28/10/2026
+- Venda padrão nova: tudo em +30%, stop −15%, saída em 10 min.
+- Recomendação testa vender tudo, alvo 1,3x, stop 15% e 10 min.
+
 ### 2.70 · 27/10/2026
 - Cópia mais seletiva: confirma 15 s, mede bundle e ajusta pelo acerto do líder.
 - Recomendação automática por padrão; cada mudança avisa e dá para desfazer.
@@ -96,11 +100,6 @@ flowchart TB
 - Corrigido: o botão Fechar voltou a fechar o programa.
 - Fechar desliga o laboratório na hora; o vigia não religa mais.
 - Cópia no GitHub ao fechar: rápida, e pulada se já houve uma há pouco.
-
-### 2.67 · 27/10/2026
-- Telegram: nome da moeda, endereço para copiar e de onde veio a posição.
-- Todo aviso de compra e venda mostra o valor em R$ e SOL.
-- Autônomo com motivo, resultado e tempo; nada de texto cortado.
 
 <!-- NOVIDADES:FIM -->
 
