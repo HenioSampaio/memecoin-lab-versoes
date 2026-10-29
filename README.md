@@ -83,6 +83,11 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.75 · 28/10/2026
+- Replay com custo real (8%): recomendações mais pé no chão.
+- Pausa automática de 6 h para carteira em sequência ruim.
+- Opção “Juntas”: copiar só com várias carteiras (desligada).
+
 ### 2.74 · 28/10/2026
 - Analista: decisões gravadas com BOM agora são lidas (antes eram ignoradas).
 
@@ -92,10 +97,6 @@ flowchart TB
 ### 2.72 · 28/10/2026
 - Estratégia redesenhada: regra ativa no topo, cada ajuste em um só lugar.
 - Seções: Venda, Entrada, Tamanho e risco, Recomendações, Quem decide, Resultados.
-
-### 2.71 · 28/10/2026
-- Venda padrão nova: tudo em +30%, stop −15%, saída em 10 min.
-- Recomendação testa vender tudo, alvo 1,3x, stop 15% e 10 min.
 
 <!-- NOVIDADES:FIM -->
 
