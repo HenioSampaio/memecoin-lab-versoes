@@ -1,11 +1,13 @@
 {
-  "versao": "2.74",
+  "versao": "2.75",
   "data": "28/10/2026",
   "notas": [
-    "Analista: decisões gravadas com BOM agora são lidas (antes eram ignoradas)."
+    "Replay com custo real (8%): recomendações mais pé no chão.",
+    "Pausa automática de 6 h para carteira em sequência ruim.",
+    "Opção “Juntas”: copiar só com várias carteiras (desligada)."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.74/MemecoinLab.exe",
-  "sha256": "f7513d8fe0a06628ddd43593de6544ec52d77b8d91d6e05faf2179565346421c",
-  "tamanho": 35159083,
-  "publicado_em": "2026-10-28T05:15:10"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.75/MemecoinLab.exe",
+  "sha256": "450839971e2bc2b1c4ef5db78d575ded3f943a1bdf5a75370856a8c1de641fae",
+  "tamanho": 35163736,
+  "publicado_em": "2026-10-28T23:44:46"
 }
