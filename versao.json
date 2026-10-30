@@ -1,13 +1,11 @@
 {
-  "versao": "2.77",
-  "data": "29/10/2026",
+  "versao": "2.78",
+  "data": "30/10/2026",
   "notas": [
-    "Experimento cauda: moedas novas e pouca liquidez, só no teste.",
-    "Saídas próprias: metade em 2x, resto até cair 40% do pico.",
-    "Placar do experimento no Painel (meta: 100 operações)."
+    "Estratégia: o Salvar não flutua mais por cima dos blocos."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.77/MemecoinLab.exe",
-  "sha256": "2d1ca431a9daf5de4b5e769d27fa3d66e25400b00d0e19c288dcc522c0bbe388",
-  "tamanho": 35172770,
-  "publicado_em": "2026-10-30T00:03:46"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.78/MemecoinLab.exe",
+  "sha256": "3c8fc2716ee140c265c4d3525fe03896e418fc8273be7262888cf27b6e22702f",
+  "tamanho": 35173618,
+  "publicado_em": "2026-10-30T00:54:46"
 }
