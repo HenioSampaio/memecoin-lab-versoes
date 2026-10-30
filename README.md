@@ -83,9 +83,14 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.77 · 29/10/2026
+- Experimento cauda: moedas novas e pouca liquidez, só no teste.
+- Saídas próprias: metade em 2x, resto até cair 40% do pico.
+- Placar do experimento no Painel (meta: 100 operações).
+
 ### 2.76 · 29/10/2026
-- Carteiras gêmeas: o mesmo dono em várias carteiras (compram as mesmas moedas com segundos de diferença) conta como UMA na convergência, na confirmação da cópia, nas Juntas e no modo por conta própria.
-- Várias juntas mostra quantas são gêmeas (ex.: 6 carteiras · 2 gêmeas).
+- Carteiras gêmeas (mesmo dono) contam como uma só.
+- Várias juntas mostra quantas são gêmeas.
 
 ### 2.75 · 28/10/2026
 - Replay com custo real (8%): recomendações mais pé no chão.
@@ -94,9 +99,6 @@ flowchart TB
 
 ### 2.74 · 28/10/2026
 - Analista: decisões gravadas com BOM agora são lidas (antes eram ignoradas).
-
-### 2.73 · 28/10/2026
-- Estratégia: os cartões Alvo, Stop, Tempo, Líder e Proteger voltaram ao topo.
 
 <!-- NOVIDADES:FIM -->
 
