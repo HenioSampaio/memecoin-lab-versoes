@@ -83,6 +83,10 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.76 · 29/10/2026
+- Carteiras gêmeas: o mesmo dono em várias carteiras (compram as mesmas moedas com segundos de diferença) conta como UMA na convergência, na confirmação da cópia, nas Juntas e no modo por conta própria.
+- Várias juntas mostra quantas são gêmeas (ex.: 6 carteiras · 2 gêmeas).
+
 ### 2.75 · 28/10/2026
 - Replay com custo real (8%): recomendações mais pé no chão.
 - Pausa automática de 6 h para carteira em sequência ruim.
@@ -93,10 +97,6 @@ flowchart TB
 
 ### 2.73 · 28/10/2026
 - Estratégia: os cartões Alvo, Stop, Tempo, Líder e Proteger voltaram ao topo.
-
-### 2.72 · 28/10/2026
-- Estratégia redesenhada: regra ativa no topo, cada ajuste em um só lugar.
-- Seções: Venda, Entrada, Tamanho e risco, Recomendações, Quem decide, Resultados.
 
 <!-- NOVIDADES:FIM -->
 
