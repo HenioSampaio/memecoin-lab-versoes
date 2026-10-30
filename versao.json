@@ -1,13 +1,12 @@
 {
-  "versao": "2.75",
-  "data": "28/10/2026",
+  "versao": "2.76",
+  "data": "29/10/2026",
   "notas": [
-    "Replay com custo real (8%): recomendações mais pé no chão.",
-    "Pausa automática de 6 h para carteira em sequência ruim.",
-    "Opção “Juntas”: copiar só com várias carteiras (desligada)."
+    "Carteiras gêmeas: o mesmo dono em várias carteiras (compram as mesmas moedas com segundos de diferença) conta como UMA na convergência, na confirmação da cópia, nas Juntas e no modo por conta própria.",
+    "Várias juntas mostra quantas são gêmeas (ex.: 6 carteiras · 2 gêmeas)."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.75/MemecoinLab.exe",
-  "sha256": "450839971e2bc2b1c4ef5db78d575ded3f943a1bdf5a75370856a8c1de641fae",
-  "tamanho": 35163736,
-  "publicado_em": "2026-10-28T23:44:46"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.76/MemecoinLab.exe",
+  "sha256": "a9f7c1d63f45ad9366fc2a1e509e1ff202614d42b4585381780afe46563e5fb3",
+  "tamanho": 35168316,
+  "publicado_em": "2026-10-29T22:21:15"
 }
