@@ -83,6 +83,10 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.79 · 30/10/2026
+- Experimento cauda: uma entrada por moeda (sem recompra em 6 h).
+- Dois avisos da mesma compra não compram em dobro.
+
 ### 2.78 · 30/10/2026
 - Estratégia: o Salvar não flutua mais por cima dos blocos.
 
@@ -94,11 +98,6 @@ flowchart TB
 ### 2.76 · 29/10/2026
 - Carteiras gêmeas (mesmo dono) contam como uma só.
 - Várias juntas mostra quantas são gêmeas.
-
-### 2.75 · 28/10/2026
-- Replay com custo real (8%): recomendações mais pé no chão.
-- Pausa automática de 6 h para carteira em sequência ruim.
-- Opção “Juntas”: copiar só com várias carteiras (desligada).
 
 <!-- NOVIDADES:FIM -->
 
