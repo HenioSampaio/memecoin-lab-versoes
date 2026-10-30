@@ -1,11 +1,12 @@
 {
-  "versao": "2.78",
+  "versao": "2.79",
   "data": "30/10/2026",
   "notas": [
-    "Estratégia: o Salvar não flutua mais por cima dos blocos."
+    "Experimento cauda: uma entrada por moeda (sem recompra em 6 h).",
+    "Dois avisos da mesma compra não compram em dobro."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.78/MemecoinLab.exe",
-  "sha256": "3c8fc2716ee140c265c4d3525fe03896e418fc8273be7262888cf27b6e22702f",
-  "tamanho": 35173618,
-  "publicado_em": "2026-10-30T00:54:46"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.79/MemecoinLab.exe",
+  "sha256": "80e63951bd3f2a33e21a02afa3400e5305baf594b08cdca3f6fc2cf24af6fae5",
+  "tamanho": 35173248,
+  "publicado_em": "2026-10-30T00:59:15"
 }
