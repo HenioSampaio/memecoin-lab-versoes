@@ -83,6 +83,11 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.80 · 30/10/2026
+- Diário: uma nota por dia na pasta Diario (abre no Obsidian).
+- Cada carteira tem nota própria, ligada às que compram as mesmas moedas.
+- O que você escreve em Notas nunca é apagado.
+
 ### 2.79 · 30/10/2026
 - Experimento cauda: uma entrada por moeda (sem recompra em 6 h).
 - Dois avisos da mesma compra não compram em dobro.
@@ -94,10 +99,6 @@ flowchart TB
 - Experimento cauda: moedas novas e pouca liquidez, só no teste.
 - Saídas próprias: metade em 2x, resto até cair 40% do pico.
 - Placar do experimento no Painel (meta: 100 operações).
-
-### 2.76 · 29/10/2026
-- Carteiras gêmeas (mesmo dono) contam como uma só.
-- Várias juntas mostra quantas são gêmeas.
 
 <!-- NOVIDADES:FIM -->
 
