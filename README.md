@@ -83,6 +83,9 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.78 · 30/10/2026
+- Estratégia: o Salvar não flutua mais por cima dos blocos.
+
 ### 2.77 · 29/10/2026
 - Experimento cauda: moedas novas e pouca liquidez, só no teste.
 - Saídas próprias: metade em 2x, resto até cair 40% do pico.
@@ -96,9 +99,6 @@ flowchart TB
 - Replay com custo real (8%): recomendações mais pé no chão.
 - Pausa automática de 6 h para carteira em sequência ruim.
 - Opção “Juntas”: copiar só com várias carteiras (desligada).
-
-### 2.74 · 28/10/2026
-- Analista: decisões gravadas com BOM agora são lidas (antes eram ignoradas).
 
 <!-- NOVIDADES:FIM -->
 
