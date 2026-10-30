@@ -1,12 +1,13 @@
 {
-  "versao": "2.79",
+  "versao": "2.80",
   "data": "30/10/2026",
   "notas": [
-    "Experimento cauda: uma entrada por moeda (sem recompra em 6 h).",
-    "Dois avisos da mesma compra não compram em dobro."
+    "Diário: uma nota por dia na pasta Diario (abre no Obsidian).",
+    "Cada carteira tem nota própria, ligada às que compram as mesmas moedas.",
+    "O que você escreve em Notas nunca é apagado."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.79/MemecoinLab.exe",
-  "sha256": "80e63951bd3f2a33e21a02afa3400e5305baf594b08cdca3f6fc2cf24af6fae5",
-  "tamanho": 35173248,
-  "publicado_em": "2026-10-30T00:59:15"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.80/MemecoinLab.exe",
+  "sha256": "bdc8f74cd34331165d2197652025ae61151ea703b2c80b40f73a2db63089192b",
+  "tamanho": 35187781,
+  "publicado_em": "2026-10-30T09:10:06"
 }
