@@ -1,12 +1,13 @@
 {
-  "versao": "2.76",
+  "versao": "2.77",
   "data": "29/10/2026",
   "notas": [
-    "Carteiras gêmeas: o mesmo dono em várias carteiras (compram as mesmas moedas com segundos de diferença) conta como UMA na convergência, na confirmação da cópia, nas Juntas e no modo por conta própria.",
-    "Várias juntas mostra quantas são gêmeas (ex.: 6 carteiras · 2 gêmeas)."
+    "Experimento cauda: moedas novas e pouca liquidez, só no teste.",
+    "Saídas próprias: metade em 2x, resto até cair 40% do pico.",
+    "Placar do experimento no Painel (meta: 100 operações)."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.76/MemecoinLab.exe",
-  "sha256": "a9f7c1d63f45ad9366fc2a1e509e1ff202614d42b4585381780afe46563e5fb3",
-  "tamanho": 35168316,
-  "publicado_em": "2026-10-29T22:21:15"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.77/MemecoinLab.exe",
+  "sha256": "2d1ca431a9daf5de4b5e769d27fa3d66e25400b00d0e19c288dcc522c0bbe388",
+  "tamanho": 35172770,
+  "publicado_em": "2026-10-30T00:03:46"
 }
