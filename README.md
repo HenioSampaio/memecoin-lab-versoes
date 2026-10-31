@@ -83,6 +83,9 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.83 · 31/10/2026
+- Gráfico da cauda mostra as regras dela: metade em 2x e stop de −35%.
+
 ### 2.82 · 31/10/2026
 - Revisão completa: dinheiro real mais seguro (tetos, PARAR TUDO, sem repetir).
 - Segurança: foto de moeda e sites de fora não controlam mais o programa.
@@ -97,10 +100,6 @@ flowchart TB
 - Diário: uma nota por dia na pasta Diario (abre no Obsidian).
 - Cada carteira tem nota própria, ligada às que compram as mesmas moedas.
 - O que você escreve em Notas nunca é apagado.
-
-### 2.79 · 30/10/2026
-- Experimento cauda: uma entrada por moeda (sem recompra em 6 h).
-- Dois avisos da mesma compra não compram em dobro.
 
 <!-- NOVIDADES:FIM -->
 
