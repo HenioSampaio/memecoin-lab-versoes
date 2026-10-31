@@ -1,11 +1,11 @@
 {
-  "versao": "2.83",
+  "versao": "2.84",
   "data": "31/10/2026",
   "notas": [
-    "Gráfico da cauda mostra as regras dela: metade em 2x e stop de −35%."
+    "Cauda aberta: o gráfico mostra o ponto de saída (40% abaixo do pico)."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.83/MemecoinLab.exe",
-  "sha256": "3d1964ac2bd2be0baf9cbf9bf26451fe5583f7716992d48446383967621def43",
-  "tamanho": 35199951,
-  "publicado_em": "2026-10-31T15:41:20"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.84/MemecoinLab.exe",
+  "sha256": "d54082ab0ec183d90875b83b31a897af3986db7307e2c5ea4197d5c99aa7d988",
+  "tamanho": 35200458,
+  "publicado_em": "2026-10-31T16:12:14"
 }
