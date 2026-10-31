@@ -83,6 +83,11 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.82 · 31/10/2026
+- Revisão completa: dinheiro real mais seguro (tetos, PARAR TUDO, sem repetir).
+- Segurança: foto de moeda e sites de fora não controlam mais o programa.
+- Telegram e tela só dizem "vendido" quando vendeu. Celular: entre de novo.
+
 ### 2.81 · 30/10/2026
 - Cauda: depois de 2x o resto não sai mais em 60 min (teto de 24 h).
 - Cauda: a metade em 2x não é mais vendida duas vezes.
@@ -96,9 +101,6 @@ flowchart TB
 ### 2.79 · 30/10/2026
 - Experimento cauda: uma entrada por moeda (sem recompra em 6 h).
 - Dois avisos da mesma compra não compram em dobro.
-
-### 2.78 · 30/10/2026
-- Estratégia: o Salvar não flutua mais por cima dos blocos.
 
 <!-- NOVIDADES:FIM -->
 
