@@ -83,6 +83,9 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.86 · 31/10/2026
+- Gráfico da posição aberta mostra a linha desde a compra (antes, só 30 min).
+
 ### 2.85 · 31/10/2026
 - Cauda: quando a moeda chega a 5x, vende mais 1/4 do que sobrou.
 - O gráfico mostra a linha desse degrau.
@@ -92,11 +95,6 @@ flowchart TB
 
 ### 2.83 · 31/10/2026
 - Gráfico da cauda mostra as regras dela: metade em 2x e stop de −35%.
-
-### 2.82 · 31/10/2026
-- Revisão completa: dinheiro real mais seguro (tetos, PARAR TUDO, sem repetir).
-- Segurança: foto de moeda e sites de fora não controlam mais o programa.
-- Telegram e tela só dizem "vendido" quando vendeu. Celular: entre de novo.
 
 <!-- NOVIDADES:FIM -->
 
