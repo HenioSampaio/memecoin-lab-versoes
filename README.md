@@ -83,6 +83,9 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.84 · 31/10/2026
+- Cauda aberta: o gráfico mostra o ponto de saída (40% abaixo do pico).
+
 ### 2.83 · 31/10/2026
 - Gráfico da cauda mostra as regras dela: metade em 2x e stop de −35%.
 
@@ -95,11 +98,6 @@ flowchart TB
 - Cauda: depois de 2x o resto não sai mais em 60 min (teto de 24 h).
 - Cauda: a metade em 2x não é mais vendida duas vezes.
 - Quem já dobrou não ocupa vaga de novas entradas da cauda.
-
-### 2.80 · 30/10/2026
-- Diário: uma nota por dia na pasta Diario (abre no Obsidian).
-- Cada carteira tem nota própria, ligada às que compram as mesmas moedas.
-- O que você escreve em Notas nunca é apagado.
 
 <!-- NOVIDADES:FIM -->
 
