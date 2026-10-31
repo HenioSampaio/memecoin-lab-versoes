@@ -1,13 +1,13 @@
 {
-  "versao": "2.80",
+  "versao": "2.81",
   "data": "30/10/2026",
   "notas": [
-    "Diário: uma nota por dia na pasta Diario (abre no Obsidian).",
-    "Cada carteira tem nota própria, ligada às que compram as mesmas moedas.",
-    "O que você escreve em Notas nunca é apagado."
+    "Cauda: depois de 2x o resto não sai mais em 60 min (teto de 24 h).",
+    "Cauda: a metade em 2x não é mais vendida duas vezes.",
+    "Quem já dobrou não ocupa vaga de novas entradas da cauda."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.80/MemecoinLab.exe",
-  "sha256": "bdc8f74cd34331165d2197652025ae61151ea703b2c80b40f73a2db63089192b",
-  "tamanho": 35187781,
-  "publicado_em": "2026-10-30T09:10:06"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.81/MemecoinLab.exe",
+  "sha256": "ade43636d1cac948f274157a962d7f570556b9c0d6d30f6cf0d830a5c7296a6a",
+  "tamanho": 35187796,
+  "publicado_em": "2026-10-30T23:38:21"
 }
