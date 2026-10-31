@@ -83,6 +83,10 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.85 · 31/10/2026
+- Cauda: quando a moeda chega a 5x, vende mais 1/4 do que sobrou.
+- O gráfico mostra a linha desse degrau.
+
 ### 2.84 · 31/10/2026
 - Cauda aberta: o gráfico mostra o ponto de saída (40% abaixo do pico).
 
@@ -93,11 +97,6 @@ flowchart TB
 - Revisão completa: dinheiro real mais seguro (tetos, PARAR TUDO, sem repetir).
 - Segurança: foto de moeda e sites de fora não controlam mais o programa.
 - Telegram e tela só dizem "vendido" quando vendeu. Celular: entre de novo.
-
-### 2.81 · 30/10/2026
-- Cauda: depois de 2x o resto não sai mais em 60 min (teto de 24 h).
-- Cauda: a metade em 2x não é mais vendida duas vezes.
-- Quem já dobrou não ocupa vaga de novas entradas da cauda.
 
 <!-- NOVIDADES:FIM -->
 
