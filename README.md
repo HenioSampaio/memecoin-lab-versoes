@@ -83,6 +83,11 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.81 · 30/10/2026
+- Cauda: depois de 2x o resto não sai mais em 60 min (teto de 24 h).
+- Cauda: a metade em 2x não é mais vendida duas vezes.
+- Quem já dobrou não ocupa vaga de novas entradas da cauda.
+
 ### 2.80 · 30/10/2026
 - Diário: uma nota por dia na pasta Diario (abre no Obsidian).
 - Cada carteira tem nota própria, ligada às que compram as mesmas moedas.
@@ -94,11 +99,6 @@ flowchart TB
 
 ### 2.78 · 30/10/2026
 - Estratégia: o Salvar não flutua mais por cima dos blocos.
-
-### 2.77 · 29/10/2026
-- Experimento cauda: moedas novas e pouca liquidez, só no teste.
-- Saídas próprias: metade em 2x, resto até cair 40% do pico.
-- Placar do experimento no Painel (meta: 100 operações).
 
 <!-- NOVIDADES:FIM -->
 
