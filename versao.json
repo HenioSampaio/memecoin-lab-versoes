@@ -1,13 +1,13 @@
 {
-  "versao": "2.81",
-  "data": "30/10/2026",
+  "versao": "2.82",
+  "data": "31/10/2026",
   "notas": [
-    "Cauda: depois de 2x o resto não sai mais em 60 min (teto de 24 h).",
-    "Cauda: a metade em 2x não é mais vendida duas vezes.",
-    "Quem já dobrou não ocupa vaga de novas entradas da cauda."
+    "Revisão completa: dinheiro real mais seguro (tetos, PARAR TUDO, sem repetir).",
+    "Segurança: foto de moeda e sites de fora não controlam mais o programa.",
+    "Telegram e tela só dizem \"vendido\" quando vendeu. Celular: entre de novo."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.81/MemecoinLab.exe",
-  "sha256": "ade43636d1cac948f274157a962d7f570556b9c0d6d30f6cf0d830a5c7296a6a",
-  "tamanho": 35187796,
-  "publicado_em": "2026-10-30T23:38:21"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.82/MemecoinLab.exe",
+  "sha256": "f9f5bab8d799d1a2a813f8b0b3f8361949c8738723e939d205b207b0379fe4f2",
+  "tamanho": 35199153,
+  "publicado_em": "2026-10-31T09:35:26"
 }
