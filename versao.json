@@ -1,13 +1,11 @@
 {
-  "versao": "2.82",
+  "versao": "2.83",
   "data": "31/10/2026",
   "notas": [
-    "Revisão completa: dinheiro real mais seguro (tetos, PARAR TUDO, sem repetir).",
-    "Segurança: foto de moeda e sites de fora não controlam mais o programa.",
-    "Telegram e tela só dizem \"vendido\" quando vendeu. Celular: entre de novo."
+    "Gráfico da cauda mostra as regras dela: metade em 2x e stop de −35%."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.82/MemecoinLab.exe",
-  "sha256": "f9f5bab8d799d1a2a813f8b0b3f8361949c8738723e939d205b207b0379fe4f2",
-  "tamanho": 35199153,
-  "publicado_em": "2026-10-31T09:35:26"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.83/MemecoinLab.exe",
+  "sha256": "3d1964ac2bd2be0baf9cbf9bf26451fe5583f7716992d48446383967621def43",
+  "tamanho": 35199951,
+  "publicado_em": "2026-10-31T15:41:20"
 }
