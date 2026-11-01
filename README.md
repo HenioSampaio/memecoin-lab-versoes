@@ -83,6 +83,10 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.91 · 01/11/2026
+- Estratégia: chave Copiar carteiras (desligada, só a cauda opera).
+- As carteiras seguem vigiadas e medidas de longe, sem gastar a banca.
+
 ### 2.90 · 01/11/2026
 - Tocar na foto da moeda copia o endereço dela; na linha do tempo, a carteira.
 - Gráfico separa a carteira copiada comprando de novo das outras carteiras.
@@ -96,10 +100,6 @@ flowchart TB
 ### 2.88 · 01/11/2026
 - Cauda anota na entrada: tema em alta, X, site e ritmo de compras.
 - Só para medir se a narrativa ajuda; as compras continuam iguais.
-
-### 2.87 · 01/11/2026
-- Cauda: placar do padrão (moeda até 2 min e líder com 1 SOL ou mais).
-- Só mede à parte; as compras da cauda continuam iguais.
 
 <!-- NOVIDADES:FIM -->
 
