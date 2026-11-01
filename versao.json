@@ -1,12 +1,13 @@
 {
-  "versao": "2.88",
+  "versao": "2.89",
   "data": "01/11/2026",
   "notas": [
-    "Cauda anota na entrada: tema em alta, X, site e ritmo de compras.",
-    "Só para medir se a narrativa ajuda; as compras continuam iguais."
+    "Cauda só entra no padrão: moeda até 2 min e líder com 1 SOL ou mais.",
+    "Nas 70 primeiras: padrão +18% por operação, fora dele −28%.",
+    "Dá para desligar em Estratégia › Experimento cauda."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.88/MemecoinLab.exe",
-  "sha256": "9814465d1d09376367142a6c40bf6fc2698ab19199262edfe33dee2a0d6081ba",
-  "tamanho": 35205771,
-  "publicado_em": "2026-11-01T10:35:24"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.89/MemecoinLab.exe",
+  "sha256": "d82099f5639b041b9d3f841babebfdf363b0797191039a57cbdb304bf347b736",
+  "tamanho": 35205364,
+  "publicado_em": "2026-11-01T10:49:27"
 }
