@@ -83,6 +83,10 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.88 · 01/11/2026
+- Cauda anota na entrada: tema em alta, X, site e ritmo de compras.
+- Só para medir se a narrativa ajuda; as compras continuam iguais.
+
 ### 2.87 · 01/11/2026
 - Cauda: placar do padrão (moeda até 2 min e líder com 1 SOL ou mais).
 - Só mede à parte; as compras da cauda continuam iguais.
@@ -93,9 +97,6 @@ flowchart TB
 ### 2.85 · 31/10/2026
 - Cauda: quando a moeda chega a 5x, vende mais 1/4 do que sobrou.
 - O gráfico mostra a linha desse degrau.
-
-### 2.84 · 31/10/2026
-- Cauda aberta: o gráfico mostra o ponto de saída (40% abaixo do pico).
 
 <!-- NOVIDADES:FIM -->
 
