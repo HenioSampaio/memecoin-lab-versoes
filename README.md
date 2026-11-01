@@ -83,6 +83,11 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.89 · 01/11/2026
+- Cauda só entra no padrão: moeda até 2 min e líder com 1 SOL ou mais.
+- Nas 70 primeiras: padrão +18% por operação, fora dele −28%.
+- Dá para desligar em Estratégia › Experimento cauda.
+
 ### 2.88 · 01/11/2026
 - Cauda anota na entrada: tema em alta, X, site e ritmo de compras.
 - Só para medir se a narrativa ajuda; as compras continuam iguais.
@@ -93,10 +98,6 @@ flowchart TB
 
 ### 2.86 · 31/10/2026
 - Gráfico da posição aberta mostra a linha desde a compra (antes, só 30 min).
-
-### 2.85 · 31/10/2026
-- Cauda: quando a moeda chega a 5x, vende mais 1/4 do que sobrou.
-- O gráfico mostra a linha desse degrau.
 
 <!-- NOVIDADES:FIM -->
 
