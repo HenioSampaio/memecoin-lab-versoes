@@ -83,6 +83,10 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.87 · 01/11/2026
+- Cauda: placar do padrão (moeda até 2 min e líder com 1 SOL ou mais).
+- Só mede à parte; as compras da cauda continuam iguais.
+
 ### 2.86 · 31/10/2026
 - Gráfico da posição aberta mostra a linha desde a compra (antes, só 30 min).
 
@@ -92,9 +96,6 @@ flowchart TB
 
 ### 2.84 · 31/10/2026
 - Cauda aberta: o gráfico mostra o ponto de saída (40% abaixo do pico).
-
-### 2.83 · 31/10/2026
-- Gráfico da cauda mostra as regras dela: metade em 2x e stop de −35%.
 
 <!-- NOVIDADES:FIM -->
 
