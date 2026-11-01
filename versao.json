@@ -1,13 +1,12 @@
 {
-  "versao": "2.90",
+  "versao": "2.91",
   "data": "01/11/2026",
   "notas": [
-    "Tocar na foto da moeda copia o endereço dela; na linha do tempo, a carteira.",
-    "Gráfico separa a carteira copiada comprando de novo das outras carteiras.",
-    "Padrão da cauda soma as parcelas do líder nos últimos 2 min."
+    "Estratégia: chave Copiar carteiras (desligada, só a cauda opera).",
+    "As carteiras seguem vigiadas e medidas de longe, sem gastar a banca."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.90/MemecoinLab.exe",
-  "sha256": "d77a456f94ead48929d893a27ae087c459d8d6ca1506440a5144c034ae1ec9b4",
-  "tamanho": 35206367,
-  "publicado_em": "2026-11-01T10:56:01"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.91/MemecoinLab.exe",
+  "sha256": "12493ef19330956cabf6286c1268a286ba6f7d9d57f2ee2d311c338d62707f0c",
+  "tamanho": 35207393,
+  "publicado_em": "2026-11-01T11:06:44"
 }
