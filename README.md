@@ -83,6 +83,11 @@ flowchart TB
 <!-- NOVIDADES:INICIO -->
 ## Novidades
 
+### 2.90 · 01/11/2026
+- Tocar na foto da moeda copia o endereço dela; na linha do tempo, a carteira.
+- Gráfico separa a carteira copiada comprando de novo das outras carteiras.
+- Padrão da cauda soma as parcelas do líder nos últimos 2 min.
+
 ### 2.89 · 01/11/2026
 - Cauda só entra no padrão: moeda até 2 min e líder com 1 SOL ou mais.
 - Nas 70 primeiras: padrão +18% por operação, fora dele −28%.
@@ -95,9 +100,6 @@ flowchart TB
 ### 2.87 · 01/11/2026
 - Cauda: placar do padrão (moeda até 2 min e líder com 1 SOL ou mais).
 - Só mede à parte; as compras da cauda continuam iguais.
-
-### 2.86 · 31/10/2026
-- Gráfico da posição aberta mostra a linha desde a compra (antes, só 30 min).
 
 <!-- NOVIDADES:FIM -->
 
