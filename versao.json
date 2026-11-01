@@ -1,13 +1,13 @@
 {
-  "versao": "2.89",
+  "versao": "2.90",
   "data": "01/11/2026",
   "notas": [
-    "Cauda só entra no padrão: moeda até 2 min e líder com 1 SOL ou mais.",
-    "Nas 70 primeiras: padrão +18% por operação, fora dele −28%.",
-    "Dá para desligar em Estratégia › Experimento cauda."
+    "Tocar na foto da moeda copia o endereço dela; na linha do tempo, a carteira.",
+    "Gráfico separa a carteira copiada comprando de novo das outras carteiras.",
+    "Padrão da cauda soma as parcelas do líder nos últimos 2 min."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.89/MemecoinLab.exe",
-  "sha256": "d82099f5639b041b9d3f841babebfdf363b0797191039a57cbdb304bf347b736",
-  "tamanho": 35205364,
-  "publicado_em": "2026-11-01T10:49:27"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.90/MemecoinLab.exe",
+  "sha256": "d77a456f94ead48929d893a27ae087c459d8d6ca1506440a5144c034ae1ec9b4",
+  "tamanho": 35206367,
+  "publicado_em": "2026-11-01T10:56:01"
 }
