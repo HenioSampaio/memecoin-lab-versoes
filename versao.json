@@ -1,12 +1,12 @@
 {
-  "versao": "2.87",
+  "versao": "2.88",
   "data": "01/11/2026",
   "notas": [
-    "Cauda: placar do padrão (moeda até 2 min e líder com 1 SOL ou mais).",
-    "Só mede à parte; as compras da cauda continuam iguais."
+    "Cauda anota na entrada: tema em alta, X, site e ritmo de compras.",
+    "Só para medir se a narrativa ajuda; as compras continuam iguais."
   ],
-  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.87/MemecoinLab.exe",
-  "sha256": "a46f1e7595d83cce8fb3263c37fc449b512d7d46ccaf4f108172e95fc774c92b",
-  "tamanho": 35203394,
-  "publicado_em": "2026-11-01T10:17:59"
+  "exe": "https://github.com/HenioSampaio/memecoin-lab-versoes/releases/download/v2.88/MemecoinLab.exe",
+  "sha256": "9814465d1d09376367142a6c40bf6fc2698ab19199262edfe33dee2a0d6081ba",
+  "tamanho": 35205771,
+  "publicado_em": "2026-11-01T10:35:24"
 }
